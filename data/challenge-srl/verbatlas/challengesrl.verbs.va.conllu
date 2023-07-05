@@ -1,0 +1,2281 @@
+# sentence_id = 1828
+# text = Never thought she was very funny and therefore have nt actually watched the show -- but it does sound an aweful lot like just tryin to hype up the show .
+1828	0	Never	ADV	never	-	*
+1828	1	thought	VERB	think	-	*
+1828	2	she	PRON	she	-	*
+1828	3	was	AUX	be	-	*
+1828	4	very	ADV	very	-	*
+1828	5	funny	ADJ	funny	-	*
+1828	6	and	CCONJ	and	-	*
+1828	7	therefore	ADV	therefore	-	*
+1828	8	have	AUX	have	-	*
+1828	9	nt	PART	not	-	*
+1828	10	actually	ADV	actually	-	*
+1828	11	watched	VERB	watch	-	*
+1828	12	the	DET	the	-	*
+1828	13	show	NOUN	show	-	*
+1828	14	--	PUNCT	--	-	*
+1828	15	but	CCONJ	but	-	*
+1828	16	it	PRON	it	-	*
+1828	17	does	AUX	do	-	*
+1828	18	sound	VERB	sound	-	*
+1828	19	an	DET	a	-	*
+1828	20	aweful	ADJ	aweful	-	*
+1828	21	lot	NOUN	lot	-	*
+1828	22	like	SCONJ	like	-	*
+1828	23	just	ADV	just	-	*
+1828	24	tryin	NOUN	tryin	-	*
+1828	25	to	PART	to	-	*
+1828	26	hype	VERB	hype	CAUSE-MENTAL-STATE	(V*
+1828	27	up	ADP	up	-	*)
+1828	28	the	DET	the	-	(THEME*
+1828	29	show	NOUN	show	-	*)
+1828	30	.	PUNCT	.	-	*
+
+# sentence_id = 3970
+# text = One option would be to degrit the primary sludge .
+3970	0	One	NUM	one	-	*
+3970	1	option	NOUN	option	-	*
+3970	2	would	AUX	would	-	*
+3970	3	be	VERB	be	-	*
+3970	4	to	PART	to	-	*
+3970	5	degrit	VERB	degrit	WASH_CLEAN	(V*)
+3970	6	the	DET	the	-	(THEME*
+3970	7	primary	ADJ	primary	-	*
+3970	8	sludge	NOUN	sludge	-	*)
+3970	9	.	PUNCT	.	-	*
+
+# sentence_id = 4232
+# text = Vanillin ( I ) is brominated ( Br2 / AcOH ) to 5-bromovanillin ( II ) which is subsequently methylated to give 5-bromoveratraldehyde ( III ) .
+4232	0	Vanillin	PROPN	Vanillin	-	*
+4232	1	(	PUNCT	(	-	*
+4232	2	I	NUM	i	-	*
+4232	3	)	PUNCT	)	-	*
+4232	4	is	AUX	be	-	*
+4232	5	brominated	VERB	brominate	-	*
+4232	6	(	PUNCT	(	-	*
+4232	7	Br2	PROPN	Br2	-	*
+4232	8	/	SYM	/	-	*
+4232	9	AcOH	PROPN	AcOH	-	*
+4232	10	)	PUNCT	)	-	*
+4232	11	to	ADP	to	-	*
+4232	12	5-bromovanillin	PROPN	5-bromovanillin	-	(PATIENT*
+4232	13	(	PUNCT	(	-	*
+4232	14	II	NUM	ii	-	*
+4232	15	)	PUNCT	)	-	*)
+4232	16	which	PRON	which	-	*
+4232	17	is	AUX	be	-	*
+4232	18	subsequently	ADV	subsequently	-	*
+4232	19	methylated	VERB	methylate	ADD	(V*)
+4232	20	to	PART	to	-	*
+4232	21	give	VERB	give	-	*
+4232	22	5-bromoveratraldehyde	NOUN	5-bromoveratraldehyde	-	(RESULT*
+4232	23	(	PUNCT	(	-	*
+4232	24	III	NUM	iii	-	*
+4232	25	)	PUNCT	)	-	*)
+4232	26	.	PUNCT	.	-	*
+
+# sentence_id = 4016
+# text = They climbed El Machorro , they clammed for 300 clams , the toured our friend 's new Condo in El Dorado , came back and cooked the clams to add to the hamburger supper now being served to 13 people .
+4016	0	They	PRON	they	-	*
+4016	1	climbed	VERB	climb	-	*
+4016	2	El	PROPN	El	-	*
+4016	3	Machorro	PROPN	Machorro	-	*
+4016	4	,	PUNCT	,	-	*
+4016	5	they	PRON	they	-	(AGENT*)
+4016	6	clammed	VERB	clam	HUNT	(V*)
+4016	7	for	ADP	for	-	(THEME*
+4016	8	300	NUM	300	-	*
+4016	9	clams	NOUN	clam	-	*)
+4016	10	,	PUNCT	,	-	*
+4016	11	the	DET	the	-	*
+4016	12	toured	VERB	tour	-	*
+4016	13	our	PRON	we	-	*
+4016	14	friend	NOUN	friend	-	*
+4016	15	's	PART	's	-	*
+4016	16	new	ADJ	new	-	*
+4016	17	Condo	PROPN	Condo	-	*
+4016	18	in	ADP	in	-	*
+4016	19	El	PROPN	El	-	*
+4016	20	Dorado	PROPN	Dorado	-	*
+4016	21	,	PUNCT	,	-	*
+4016	22	came	VERB	come	-	*
+4016	23	back	ADV	back	-	*
+4016	24	and	CCONJ	and	-	*
+4016	25	cooked	VERB	cook	-	*
+4016	26	the	DET	the	-	*
+4016	27	clams	NOUN	clam	-	*
+4016	28	to	PART	to	-	*
+4016	29	add	VERB	add	-	*
+4016	30	to	ADP	to	-	*
+4016	31	the	DET	the	-	*
+4016	32	hamburger	NOUN	hamburger	-	*
+4016	33	supper	NOUN	supper	-	*
+4016	34	now	ADV	now	-	*
+4016	35	being	AUX	be	-	*
+4016	36	served	VERB	serve	-	*
+4016	37	to	ADP	to	-	*
+4016	38	13	NUM	13	-	*
+4016	39	people	NOUN	people	-	*
+4016	40	.	PUNCT	.	-	*
+
+# sentence_id = 652
+# text = John washed down two aspirin with a glass of milk .
+652	0	John	PROPN	John	-	(*)
+652	1	washed	VERB	wash	EAT_BITE	(V*
+652	2	down	ADP	down	-	*)
+652	3	two	NUM	two	-	(PATIENT*
+652	4	aspirin	NOUN	aspirin	-	*)
+652	5	with	ADP	with	-	(INSTRUMENT*
+652	6	a	DET	a	-	*
+652	7	glass	NOUN	glass	-	*
+652	8	of	ADP	of	-	*
+652	9	milk	NOUN	milk	-	*)
+652	10	.	PUNCT	.	-	*
+
+# sentence_id = 5764
+# text = John effaced the smudges with glass cleaner and a rag .
+5764	0	John	PROPN	John	-	(*)
+5764	1	effaced	VERB	efface	WASH_CLEAN	(V*)
+5764	2	the	DET	the	-	(PATIENT*
+5764	3	smudges	NOUN	smudge	-	*)
+5764	4	with	ADP	with	-	(INSTRUMENT*
+5764	5	glass	NOUN	glass	-	*
+5764	6	cleaner	NOUN	cleaner	-	*
+5764	7	and	CCONJ	and	-	*
+5764	8	a	DET	a	-	*
+5764	9	rag	NOUN	rag	-	*)
+5764	10	.	PUNCT	.	-	*
+
+# sentence_id = 6909
+# text = During her much earlier ' Rythm Nation ' period , in which she dons a black uniform and uses strange , syncopated hand movements in her video dance routine .
+6909	0	During	ADP	during	-	*
+6909	1	her	PRON	she	-	*
+6909	2	much	ADV	much	-	*
+6909	3	earlier	ADJ	early	-	*
+6909	4	'	PUNCT	'	-	*
+6909	5	Rythm	PROPN	Rythm	-	*
+6909	6	Nation	PROPN	Nation	-	*
+6909	7	'	PUNCT	'	-	*
+6909	8	period	NOUN	period	-	*
+6909	9	,	PUNCT	,	-	*
+6909	10	in	ADP	in	-	*
+6909	11	which	PRON	which	-	*
+6909	12	she	PRON	she	-	*
+6909	13	dons	VERB	don	-	*
+6909	14	a	DET	a	-	*
+6909	15	black	ADJ	black	-	*
+6909	16	uniform	NOUN	uniform	-	*
+6909	17	and	CCONJ	and	-	*
+6909	18	uses	VERB	use	-	*
+6909	19	strange	ADJ	strange	-	*
+6909	20	,	PUNCT	,	-	*
+6909	21	syncopated	ADJ	syncopated	MISS_OMIT_LACK	(V*)
+6909	22	hand	NOUN	hand	-	(THEME*
+6909	23	movements	NOUN	movement	-	*)
+6909	24	in	ADP	in	-	*
+6909	25	her	PRON	she	-	*
+6909	26	video	NOUN	video	-	*
+6909	27	dance	NOUN	dance	-	*
+6909	28	routine	NOUN	routine	-	*
+6909	29	.	PUNCT	.	-	*
+
+# sentence_id = 6736
+# text = After I finally deciphered what the hell he was saying , I tried to ignore it .
+6736	0	After	SCONJ	after	-	*
+6736	1	I	PRON	I	-	(AGENT*)
+6736	2	finally	ADV	finally	-	*
+6736	3	deciphered	VERB	decipher	INTERPRET	(V*)
+6736	4	what	PRON	what	-	(THEME*
+6736	5	the	DET	the	-	*
+6736	6	hell	NOUN	hell	-	*
+6736	7	he	PRON	he	-	*
+6736	8	was	AUX	be	-	*
+6736	9	saying	VERB	say	-	*)
+6736	10	,	PUNCT	,	-	*
+6736	11	I	PRON	I	-	*
+6736	12	tried	VERB	try	-	*
+6736	13	to	PART	to	-	*
+6736	14	ignore	VERB	ignore	-	*
+6736	15	it	PRON	it	-	*
+6736	16	.	PUNCT	.	-	*
+
+# sentence_id = 4028
+# text = The crisis has shattered Samaranch 's hopes of crowning his 18 - year - tenure with this victory .
+4028	0	The	DET	the	-	*
+4028	1	crisis	NOUN	crisis	-	*
+4028	2	has	AUX	have	-	*
+4028	3	shattered	VERB	shattered	-	*
+4028	4	Samaranch	PROPN	Samaranch	-	(*)
+4028	5	's	PART	's	-	*
+4028	6	hopes	NOUN	hope	-	*
+4028	7	of	SCONJ	of	-	*
+4028	8	crowning	VERB	crown	ACHIEVE	(V*)
+4028	9	his	PRON	he	-	(GOAL*
+4028	10	18	NUM	18	-	*
+4028	11	-	PUNCT	-	-	*
+4028	12	year	NOUN	year	-	*
+4028	13	-	PUNCT	-	-	*
+4028	14	tenure	NOUN	tenure	-	*)
+4028	15	with	ADP	with	-	(INSTRUMENT*
+4028	16	this	DET	this	-	*
+4028	17	victory	NOUN	victory	-	*)
+4028	18	.	PUNCT	.	-	*
+
+# sentence_id = 2151
+# text = It is to the great , abiding shame of women and blacks PRO to turn their backs on the great achievements of these people .
+2151	0	It	PRON	it	-	*
+2151	1	is	AUX	be	-	*
+2151	2	to	ADP	to	-	*
+2151	3	the	DET	the	-	*
+2151	4	great	ADJ	great	-	*
+2151	5	,	PUNCT	,	-	*
+2151	6	abiding	ADJ	abide	-	*
+2151	7	shame	NOUN	shame	-	*
+2151	8	of	ADP	of	-	*
+2151	9	women	NOUN	woman	-	*
+2151	10	and	CCONJ	and	-	*
+2151	11	blacks	NOUN	black	-	*
+2151	12	PRO	PROPN	PRO	-	(STIMULUS*)
+2151	13	to	PART	to	-	*
+2151	14	turn	VERB	turn	DOWNPLAY_HUMILIATE	(V*)
+2151	15	their	PRON	they	-	(ATTRIBUTE*
+2151	16	backs	NOUN	back	-	*)
+2151	17	on	ADP	on	-	*
+2151	18	the	DET	the	-	(EXPERIENCER*
+2151	19	great	ADJ	great	-	*
+2151	20	achievements	NOUN	achievement	-	*
+2151	21	of	ADP	of	-	*
+2151	22	these	DET	this	-	*
+2151	23	people	NOUN	people	-	*)
+2151	24	.	PUNCT	.	-	*
+
+# sentence_id = 1126
+# text = One or more airlines have refiled for protection from creditors .
+1126	0	One	NUM	one	-	(AGENT*
+1126	1	or	CCONJ	or	-	*
+1126	2	more	ADJ	more	-	*
+1126	3	airlines	NOUN	airline	-	*)
+1126	4	have	AUX	have	-	*
+1126	5	refiled	VERB	refile	ASK_REQUEST	(V*)
+1126	6	for	ADP	for	-	(THEME*)
+1126	7	protection	NOUN	protection	-	(THEME*)
+1126	8	from	ADP	from	-	(THEME*)
+1126	9	creditors	NOUN	creditor	-	(THEME*)
+1126	10	.	PUNCT	.	-	*
+
+# sentence_id = 6926
+# text = When she cubbed , she was very tractable and the neonate exams on her cubs was done with minimal stress to the snow leopards and animal care staff .
+6926	0	When	SCONJ	when	-	*
+6926	1	she	PRON	she	-	(AGENT*)
+6926	2	cubbed	VERB	cub	GIVE-BIRTH	(V*)
+6926	3	,	PUNCT	,	-	*
+6926	4	she	PRON	she	-	*
+6926	5	was	AUX	be	-	*
+6926	6	very	ADV	very	-	*
+6926	7	tractable	ADJ	tractable	-	*
+6926	8	and	CCONJ	and	-	*
+6926	9	the	DET	the	-	*
+6926	10	neonate	NOUN	neonate	-	*
+6926	11	exams	NOUN	exam	-	*
+6926	12	on	ADP	on	-	*
+6926	13	her	PRON	she	-	*
+6926	14	cubs	NOUN	cub	-	*
+6926	15	was	AUX	be	-	*
+6926	16	done	VERB	do	-	*
+6926	17	with	ADP	with	-	*
+6926	18	minimal	ADJ	minimal	-	*
+6926	19	stress	NOUN	stress	-	*
+6926	20	to	ADP	to	-	*
+6926	21	the	DET	the	-	*
+6926	22	snow	NOUN	snow	-	*
+6926	23	leopards	NOUN	leopard	-	*
+6926	24	and	CCONJ	and	-	*
+6926	25	animal	NOUN	animal	-	*
+6926	26	care	NOUN	care	-	*
+6926	27	staff	NOUN	staff	-	*
+6926	28	.	PUNCT	.	-	*
+
+# sentence_id = 1425
+# text = I did n't ask them for anything other than make sure they look into this .
+1425	0	I	PRON	I	-	*
+1425	1	did	AUX	do	-	*
+1425	2	n't	PART	not	-	*
+1425	3	ask	VERB	ask	-	*
+1425	4	them	PRON	they	-	*
+1425	5	for	ADP	for	-	*
+1425	6	anything	PRON	anything	-	*
+1425	7	other	ADJ	other	-	*
+1425	8	than	ADP	than	-	*
+1425	9	make	VERB	make	-	*
+1425	10	sure	ADJ	sure	-	*
+1425	11	they	PRON	they	-	(AGENT*)
+1425	12	look	VERB	look	ANALYZE	(V*)
+1425	13	into	ADP	into	-	*
+1425	14	this	PRON	this	-	(THEME*)
+1425	15	.	PUNCT	.	-	*
+
+# sentence_id = 960
+# text = I sat in on the meeting where they raised their salaries , and the attitudes of the council as they did this was astonishing .
+960	0	I	PRON	I	-	(AGENT*)
+960	1	sat	VERB	sit	VISIT	(V*)
+960	2	in	ADV	in	-	*
+960	3	on	ADP	on	-	(LOCATION*
+960	4	the	DET	the	-	*
+960	5	meeting	NOUN	meeting	-	*
+960	6	where	SCONJ	where	-	*
+960	7	they	PRON	they	-	*
+960	8	raised	VERB	raise	-	*
+960	9	their	PRON	they	-	*
+960	10	salaries	NOUN	salary	-	*
+960	11	,	PUNCT	,	-	*
+960	12	and	CCONJ	and	-	*
+960	13	the	DET	the	-	*
+960	14	attitudes	NOUN	attitude	-	*
+960	15	of	ADP	of	-	*
+960	16	the	DET	the	-	*
+960	17	council	NOUN	council	-	*
+960	18	as	SCONJ	as	-	*
+960	19	they	PRON	they	-	*
+960	20	did	VERB	do	-	*
+960	21	this	PRON	this	-	*
+960	22	was	AUX	be	-	*
+960	23	astonishing	ADJ	astonish	-	*)
+960	24	.	PUNCT	.	-	*
+
+# sentence_id = 3181
+# text = Usually back in Concord by noon , there was just time to get partially thawed out , refuel , and grab a bit of Mrs. Fogg 's hot broth before starting the second trip .
+3181	0	Usually	ADV	usually	-	*
+3181	1	back	ADV	back	-	*
+3181	2	in	ADP	in	-	*
+3181	3	Concord	PROPN	Concord	-	*
+3181	4	by	ADP	by	-	*
+3181	5	noon	NOUN	noon	-	*
+3181	6	,	PUNCT	,	-	*
+3181	7	there	PRON	there	-	*
+3181	8	was	VERB	be	-	*
+3181	9	just	ADV	just	-	*
+3181	10	time	NOUN	time	-	*
+3181	11	to	PART	to	-	*
+3181	12	get	AUX	get	-	*
+3181	13	partially	ADV	partially	-	(ATTRIBUTE*)
+3181	14	thawed	VERB	thaw	WASH_CLEAN	(V*
+3181	15	out	ADP	out	-	*)
+3181	16	,	PUNCT	,	-	*
+3181	17	refuel	VERB	refuel	-	*
+3181	18	,	PUNCT	,	-	*
+3181	19	and	CCONJ	and	-	*
+3181	20	grab	VERB	grab	-	*
+3181	21	a	DET	a	-	*
+3181	22	bit	NOUN	bit	-	*
+3181	23	of	ADP	of	-	*
+3181	24	Mrs.	PROPN	Mrs.	-	*
+3181	25	Fogg	PROPN	Fogg	-	*
+3181	26	's	PART	's	-	*
+3181	27	hot	ADJ	hot	-	*
+3181	28	broth	NOUN	broth	-	*
+3181	29	before	SCONJ	before	-	*
+3181	30	starting	VERB	start	-	*
+3181	31	the	DET	the	-	*
+3181	32	second	ADJ	second	-	*
+3181	33	trip	NOUN	trip	-	*
+3181	34	.	PUNCT	.	-	*
+
+# sentence_id = 4
+# text = The immense ocean 's surface rippled and corrugated where sweeping cloud shadows touched it .
+4	0	The	DET	the	-	(PATIENT*
+4	1	immense	ADJ	immense	-	*
+4	2	ocean	NOUN	ocean	-	*
+4	3	's	PART	's	-	*
+4	4	surface	NOUN	surface	-	*)
+4	5	rippled	VERB	ripple	-	*
+4	6	and	CCONJ	and	-	*
+4	7	corrugated	VERB	corrugate	PRESS_PUSH_FOLD	(V*)
+4	8	where	SCONJ	where	-	(LOCATION*
+4	9	sweeping	VERB	sweep	-	*
+4	10	cloud	NOUN	cloud	-	*
+4	11	shadows	NOUN	shadow	-	*
+4	12	touched	VERB	touch	-	*
+4	13	it	PRON	it	-	*)
+4	14	.	PUNCT	.	-	*
+
+# sentence_id = 6228
+# text = In 1978/79 they trademarked the name , bought their first container of Uggs , and began an initial sales trek .
+6228	0	In	ADP	in	-	(TIME*
+6228	1	1978/79	NUM	1978/79	-	*)
+6228	2	they	PRON	they	-	(AGENT*)
+6228	3	trademarked	VERB	trademark	RECORD	(V*)
+6228	4	the	DET	the	-	(THEME*
+6228	5	name	NOUN	name	-	*)
+6228	6	,	PUNCT	,	-	*
+6228	7	bought	VERB	buy	-	*
+6228	8	their	PRON	they	-	*
+6228	9	first	ADJ	first	-	*
+6228	10	container	NOUN	container	-	*
+6228	11	of	ADP	of	-	*
+6228	12	Uggs	PROPN	Uggs	-	*
+6228	13	,	PUNCT	,	-	*
+6228	14	and	CCONJ	and	-	*
+6228	15	began	VERB	begin	-	*
+6228	16	an	DET	a	-	*
+6228	17	initial	ADJ	initial	-	*
+6228	18	sales	NOUN	sale	-	*
+6228	19	trek	NOUN	trek	-	*
+6228	20	.	PUNCT	.	-	*
+
+# sentence_id = 617
+# text = It will breathe and the bag that you have it in will poof up .
+617	0	It	PRON	it	-	*
+617	1	will	AUX	will	-	*
+617	2	breathe	VERB	breathe	-	*
+617	3	and	CCONJ	and	-	*
+617	4	the	DET	the	-	(PATIENT*
+617	5	bag	NOUN	bag	-	*
+617	6	that	PRON	that	-	*
+617	7	you	PRON	you	-	*
+617	8	have	VERB	have	-	*
+617	9	it	PRON	it	-	*
+617	10	in	ADP	in	-	*)
+617	11	will	AUX	will	-	*
+617	12	poof	VERB	poof	INCREASE_ENLARGE_MULTIPLY	(V*
+617	13	up	ADP	up	-	*)
+617	14	.	PUNCT	.	-	*
+
+# sentence_id = 1467
+# text = She has conducted research in a National Aeronautics and Space Administration lab , mountaineered in the High Sierras , and lived in Italy .
+1467	0	She	PRON	she	-	(AGENT*)
+1467	1	has	AUX	have	-	*
+1467	2	conducted	VERB	conduct	-	*
+1467	3	research	NOUN	research	-	*
+1467	4	in	ADP	in	-	*
+1467	5	a	DET	a	-	*
+1467	6	National	ADJ	National	-	*
+1467	7	Aeronautics	PROPN	Aeronautics	-	*
+1467	8	and	CCONJ	and	-	*
+1467	9	Space	PROPN	Space	-	*
+1467	10	Administration	PROPN	Administration	-	*
+1467	11	lab	NOUN	lab	-	*
+1467	12	,	PUNCT	,	-	*
+1467	13	mountaineered	VERB	mountaineer	RAISE	(V*)
+1467	14	in	ADP	in	-	(LOCATION*
+1467	15	the	DET	the	-	*
+1467	16	High	ADJ	high	-	*
+1467	17	Sierras	PROPN	Sierras	-	*)
+1467	18	,	PUNCT	,	-	*
+1467	19	and	CCONJ	and	-	*
+1467	20	lived	VERB	live	-	*
+1467	21	in	ADP	in	-	*
+1467	22	Italy	PROPN	Italy	-	*
+1467	23	.	PUNCT	.	-	*
+
+# sentence_id = 833
+# text = Ships of the Second and Third Fleets have coaled .
+833	0	Ships	NOUN	ship	-	(RECIPIENT*
+833	1	of	ADP	of	-	*
+833	2	the	DET	the	-	*
+833	3	Second	ADJ	second	-	*
+833	4	and	CCONJ	and	-	*
+833	5	Third	ADJ	third	-	*
+833	6	Fleets	PROPN	Fleet	-	*)
+833	7	have	AUX	have	-	*
+833	8	coaled	VERB	coal	LOAD_PROVIDE_CHARGE_FURNISH	(V*)
+833	9	.	PUNCT	.	-	*
+
+# sentence_id = 3440
+# text = The Drakon yawed as the seawater pounded into the stern , lifting the nose .
+3440	0	The	DET	the	-	(THEME*
+3440	1	Drakon	PROPN	Drakon	-	*)
+3440	2	yawed	VERB	yaw	TURN_CHANGE-DIRECTION	(V*)
+3440	3	as	SCONJ	as	-	*
+3440	4	the	DET	the	-	*
+3440	5	seawater	NOUN	seawater	-	*
+3440	6	pounded	VERB	pound	-	*
+3440	7	into	ADP	into	-	*
+3440	8	the	DET	the	-	*
+3440	9	stern	NOUN	stern	-	*
+3440	10	,	PUNCT	,	-	*
+3440	11	lifting	VERB	lift	-	*
+3440	12	the	DET	the	-	*
+3440	13	nose	NOUN	nose	-	*
+3440	14	.	PUNCT	.	-	*
+
+# sentence_id = 4998
+# text = Our studies , showing that stored sperm results in late - season males being cuckolded by a female 's early season mate , indicate that such storage may play a more important role in shorebird natural history than previously imagined .
+4998	0	Our	PRON	we	-	*
+4998	1	studies	NOUN	study	-	*
+4998	2	,	PUNCT	,	-	*
+4998	3	showing	VERB	show	-	*
+4998	4	that	SCONJ	that	-	*
+4998	5	stored	VERB	store	-	*
+4998	6	sperm	NOUN	sperm	-	*
+4998	7	results	NOUN	result	-	*
+4998	8	in	ADP	in	-	*
+4998	9	late	ADJ	late	-	(PATIENT*
+4998	10	-	PUNCT	-	-	*
+4998	11	season	NOUN	season	-	*
+4998	12	males	NOUN	male	-	*)
+4998	13	being	AUX	be	-	*
+4998	14	cuckolded	VERB	cuckold	BETRAY	(V*)
+4998	15	by	ADP	by	-	(AGENT*
+4998	16	a	DET	a	-	*
+4998	17	female	NOUN	female	-	*
+4998	18	's	PART	's	-	*
+4998	19	early	ADJ	early	-	*
+4998	20	season	NOUN	season	-	*
+4998	21	mate	NOUN	mate	-	*)
+4998	22	,	PUNCT	,	-	*
+4998	23	indicate	VERB	indicate	-	*
+4998	24	that	SCONJ	that	-	*
+4998	25	such	ADJ	such	-	*
+4998	26	storage	NOUN	storage	-	*
+4998	27	may	AUX	may	-	*
+4998	28	play	VERB	play	-	*
+4998	29	a	DET	a	-	*
+4998	30	more	ADV	more	-	*
+4998	31	important	ADJ	important	-	*
+4998	32	role	NOUN	role	-	*
+4998	33	in	ADP	in	-	*
+4998	34	shorebird	NOUN	shorebird	-	*
+4998	35	natural	ADJ	natural	-	*
+4998	36	history	NOUN	history	-	*
+4998	37	than	SCONJ	than	-	*
+4998	38	previously	ADV	previously	-	*
+4998	39	imagined	VERB	imagine	-	*
+4998	40	.	PUNCT	.	-	*
+
+# sentence_id = 6187
+# text = The donkey brayed at the chickens in his pen .
+6187	0	The	DET	the	-	(AGENT*
+6187	1	donkey	NOUN	donkey	-	*)
+6187	2	brayed	VERB	bray	MAKE-A-SOUND	(V*)
+6187	3	at	ADP	at	-	(RECIPIENT*
+6187	4	the	DET	the	-	*
+6187	5	chickens	NOUN	chicken	-	*)
+6187	6	in	ADP	in	-	(LOCATION*
+6187	7	his	PRON	he	-	*
+6187	8	pen	NOUN	pen	-	*)
+6187	9	.	PUNCT	.	-	*
+
+# sentence_id = 5356
+# text = Twigs cracked loudly under her feet ; bushes swished and scratched at her slacks ; tree branches snapped as she pushed them ruthlessly away from her .
+5356	0	Twigs	NOUN	twig	-	*
+5356	1	cracked	VERB	crack	-	*
+5356	2	loudly	ADV	loudly	-	*
+5356	3	under	ADP	under	-	*
+5356	4	her	PRON	she	-	*
+5356	5	feet	NOUN	foot	-	*
+5356	6	;	PUNCT	;	-	*
+5356	7	bushes	NOUN	bush	-	(AGENT*)
+5356	8	swished	VERB	swish	MOVE-ONESELF	(V*)
+5356	9	and	CCONJ	and	-	*
+5356	10	scratched	VERB	scratch	-	*
+5356	11	at	ADP	at	-	*
+5356	12	her	PRON	she	-	*
+5356	13	slacks	NOUN	slack	-	*
+5356	14	;	PUNCT	;	-	*
+5356	15	tree	NOUN	tree	-	*
+5356	16	branches	NOUN	branch	-	*
+5356	17	snapped	VERB	snap	-	*
+5356	18	as	SCONJ	as	-	*
+5356	19	she	PRON	she	-	*
+5356	20	pushed	VERB	push	-	*
+5356	21	them	PRON	they	-	*
+5356	22	ruthlessly	ADV	ruthlessly	-	*
+5356	23	away	ADV	away	-	*
+5356	24	from	ADP	from	-	*
+5356	25	her	PRON	she	-	*
+5356	26	.	PUNCT	.	-	*
+
+# sentence_id = 3497
+# text = And even deeper than that : his fear lest in this closed hall he should suddenly itch to relieve himself .
+3497	0	And	CCONJ	and	-	*
+3497	1	even	ADV	even	-	*
+3497	2	deeper	ADJ	deep	-	*
+3497	3	than	ADP	than	-	*
+3497	4	that	PRON	that	-	*
+3497	5	:	PUNCT	:	-	*
+3497	6	his	PRON	he	-	*
+3497	7	fear	NOUN	fear	-	*
+3497	8	lest	SCONJ	lest	-	*
+3497	9	in	ADP	in	-	*
+3497	10	this	DET	this	-	*
+3497	11	closed	VERB	close	-	*
+3497	12	hall	NOUN	hall	-	*
+3497	13	he	PRON	he	-	(AGENT*)
+3497	14	should	AUX	should	-	*
+3497	15	suddenly	ADV	suddenly	-	(ATTRIBUTE*)
+3497	16	itch	VERB	itch	REQUIRE_NEED_WANT_HOPE	(V*)
+3497	17	to	PART	to	-	(THEME*
+3497	18	relieve	VERB	relieve	-	*
+3497	19	himself	PRON	himself	-	*)
+3497	20	.	PUNCT	.	-	*
+
+# sentence_id = 3713
+# text = Terra Rafael has apprenticed several in her midwifery practice .
+3713	0	Terra	PROPN	Terra	-	(AGENT*
+3713	1	Rafael	PROPN	Rafael	-	*)
+3713	2	has	AUX	have	-	*
+3713	3	apprenticed	VERB	apprentice	WORK	(V*)
+3713	4	several	ADJ	several	-	(CO-AGENT*)
+3713	5	in	ADP	in	-	(ATTRIBUTE*
+3713	6	her	PRON	she	-	*
+3713	7	midwifery	NOUN	midwifery	-	*
+3713	8	practice	NOUN	practice	-	*)
+3713	9	.	PUNCT	.	-	*
+
+# sentence_id = 3557
+# text = I accidently smudged some finger grease on my 46 " LCD .
+3557	0	I	PRON	I	-	(AGENT*)
+3557	1	accidently	ADV	accidently	-	*
+3557	2	smudged	VERB	smudge	DIRTY	(V*)
+3557	3	some	DET	some	-	(THEME*
+3557	4	finger	NOUN	finger	-	*
+3557	5	grease	NOUN	grease	-	*)
+3557	6	on	ADP	on	-	(DESTINATION*
+3557	7	my	PRON	my	-	*
+3557	8	46	NUM	46	-	*
+3557	9	"	PUNCT	"	-	*
+3557	10	LCD	NOUN	LCD	-	*)
+3557	11	.	PUNCT	.	-	*
+
+# sentence_id = 4617
+# text = The clash of steel against shield , crackling magics cast by wizards , arcane Dwarven technology , sinister Skaven , and many more !
+4617	0	The	DET	the	-	*
+4617	1	clash	NOUN	clash	MAKE-A-SOUND	(V*)
+4617	2	of	ADP	of	-	(AGENT*
+4617	3	steel	NOUN	steel	-	*)
+4617	4	against	ADP	against	-	(CO-AGENT*
+4617	5	shield	NOUN	shield	-	*)
+4617	6	,	PUNCT	,	-	*
+4617	7	crackling	VERB	crackle	-	*
+4617	8	magics	NOUN	magic	-	*
+4617	9	cast	VERB	cast	-	*
+4617	10	by	ADP	by	-	*
+4617	11	wizards	NOUN	wizard	-	*
+4617	12	,	PUNCT	,	-	*
+4617	13	arcane	ADJ	arcane	-	*
+4617	14	Dwarven	NOUN	dwarven	-	*
+4617	15	technology	NOUN	technology	-	*
+4617	16	,	PUNCT	,	-	*
+4617	17	sinister	ADJ	sinister	-	*
+4617	18	Skaven	PROPN	Skaven	-	*
+4617	19	,	PUNCT	,	-	*
+4617	20	and	CCONJ	and	-	*
+4617	21	many	ADJ	many	-	*
+4617	22	more	ADJ	more	-	*
+4617	23	!	PUNCT	!	-	*
+
+# sentence_id = 4861
+# text = She swung her eyes up to the blue of the window , her jaws gently mashing the bitter beans .
+4861	0	She	PRON	she	-	*
+4861	1	swung	VERB	swing	-	*
+4861	2	her	PRON	she	-	*
+4861	3	eyes	NOUN	eye	-	*
+4861	4	up	ADP	up	-	*
+4861	5	to	ADP	to	-	*
+4861	6	the	DET	the	-	*
+4861	7	blue	NOUN	blue	-	*
+4861	8	of	ADP	of	-	*
+4861	9	the	DET	the	-	*
+4861	10	window	NOUN	window	-	*
+4861	11	,	PUNCT	,	-	*
+4861	12	her	PRON	she	-	(AGENT*
+4861	13	jaws	NOUN	jaw	-	*)
+4861	14	gently	ADV	gently	-	*
+4861	15	mashing	VERB	mash	BREAK_DETERIORATE	(V*)
+4861	16	the	DET	the	-	(PATIENT*
+4861	17	bitter	ADJ	bitter	-	*
+4861	18	beans	NOUN	bean	-	*)
+4861	19	.	PUNCT	.	-	*
+
+# sentence_id = 2331
+# text = Criminal charges + lifetime ban from all grounds methinks .
+2331	0	Criminal	ADJ	criminal	-	(THEME*
+2331	1	charges	NOUN	charge	-	*
+2331	2	+	SYM	+	-	*
+2331	3	lifetime	NOUN	lifetime	-	*
+2331	4	ban	NOUN	ban	-	*
+2331	5	from	ADP	from	-	*
+2331	6	all	DET	all	-	*
+2331	7	grounds	NOUN	grounds	-	*)
+2331	8	methinks	NOUN	methink	THINK	(V*)
+2331	9	.	PUNCT	.	-	*
+
+# sentence_id = 4569
+# text = My cradle , thus set down in te abode of sorrow , was bedewed with tears .
+4569	0	My	PRON	my	-	(PATIENT*
+4569	1	cradle	NOUN	cradle	-	*)
+4569	2	,	PUNCT	,	-	*
+4569	3	thus	ADV	thus	-	*
+4569	4	set	VERB	set	-	*
+4569	5	down	ADP	down	-	*
+4569	6	in	ADP	in	-	*
+4569	7	te	DET	the	-	*
+4569	8	abode	NOUN	abode	-	*
+4569	9	of	ADP	of	-	*
+4569	10	sorrow	NOUN	sorrow	-	*
+4569	11	,	PUNCT	,	-	*
+4569	12	was	AUX	be	-	*
+4569	13	bedewed	VERB	bedew	WET	(V*)
+4569	14	with	ADP	with	-	(INSTRUMENT*
+4569	15	tears	NOUN	tear	-	*)
+4569	16	.	PUNCT	.	-	*
+
+# sentence_id = 474
+# text = This is a practice that disrespects the agreement between the two associations .
+474	0	This	PRON	this	-	*
+474	1	is	AUX	be	-	*
+474	2	a	DET	a	-	(CAUSE*
+474	3	practice	NOUN	practice	-	*)
+474	4	that	PRON	that	-	*
+474	5	disrespects	VERB	disrespect	OFFEND_DISESTEEM	(V*)
+474	6	the	DET	the	-	(EXPERIENCER*
+474	7	agreement	NOUN	agreement	-	*
+474	8	between	ADP	between	-	*
+474	9	the	DET	the	-	*
+474	10	two	NUM	two	-	*
+474	11	associations	NOUN	association	-	*)
+474	12	.	PUNCT	.	-	*
+
+# sentence_id = 6047
+# text = John 's first experience with okra prejudiced him against Southern cooking forever .
+6047	0	John	PROPN	John	-	(CAUSE*
+6047	1	's	PART	's	-	*
+6047	2	first	ADJ	first	-	*
+6047	3	experience	NOUN	experience	-	*
+6047	4	with	ADP	with	-	*
+6047	5	okra	NOUN	okra	-	*)
+6047	6	prejudiced	VERB	prejudice	EXIST-WITH-FEATURE	(V*)
+6047	7	him	PRON	he	-	(THEME*)
+6047	8	against	ADP	against	-	(GOAL*
+6047	9	Southern	ADJ	Southern	-	*
+6047	10	cooking	NOUN	cooking	-	*)
+6047	11	forever	ADV	forever	-	(EXTENT*)
+6047	12	.	PUNCT	.	-	*
+
+# sentence_id = 2914
+# text = I ' m mortified to admit that Gary Glitter came into my head instead !
+2914	0	I	PRON	I	-	(EXPERIENCER*)
+2914	1	'	PUNCT	'	-	*
+2914	2	m	AUX	be	-	*
+2914	3	mortified	ADJ	mortified	DOWNPLAY_HUMILIATE	(V*)
+2914	4	to	PART	to	-	(STIMULUS*
+2914	5	admit	VERB	admit	-	*
+2914	6	that	SCONJ	that	-	*
+2914	7	Gary	PROPN	Gary	-	*
+2914	8	Glitter	PROPN	Glitter	-	*
+2914	9	came	VERB	come	-	*
+2914	10	into	ADP	into	-	*
+2914	11	my	PRON	my	-	*
+2914	12	head	NOUN	head	-	*
+2914	13	instead	ADV	instead	-	*)
+2914	14	!	PUNCT	!	-	*
+
+# sentence_id = 5744
+# text = The parallel consists more of the emotional depths they both seek to plumb .
+5744	0	The	DET	the	-	*
+5744	1	parallel	NOUN	parallel	-	*
+5744	2	consists	VERB	consist	-	*
+5744	3	more	ADJ	more	-	*
+5744	4	of	ADP	of	-	*
+5744	5	the	DET	the	-	(THEME*
+5744	6	emotional	ADJ	emotional	-	*
+5744	7	depths	NOUN	depth	-	*)
+5744	8	they	PRON	they	-	(AGENT*)
+5744	9	both	DET	both	-	*
+5744	10	seek	VERB	seek	-	*
+5744	11	to	PART	to	-	*
+5744	12	plumb	VERB	plumb	MEASURE_EVALUATE	(V*)
+5744	13	.	PUNCT	.	-	*
+
+# sentence_id = 5944
+# text = At a cruising altitude of 39,000 feet ( FL 390 ) , a Boeing 767 's cabin will be pressurized to an altitude of 6,900 feet .
+5944	0	At	ADP	at	-	*
+5944	1	a	DET	a	-	*
+5944	2	cruising	NOUN	cruising	-	*
+5944	3	altitude	NOUN	altitude	-	*
+5944	4	of	ADP	of	-	*
+5944	5	39,000	NUM	39000	-	*
+5944	6	feet	NOUN	foot	-	*
+5944	7	(	PUNCT	(	-	*
+5944	8	FL	PROPN	FL	-	*
+5944	9	390	NUM	390	-	*
+5944	10	)	PUNCT	)	-	*
+5944	11	,	PUNCT	,	-	*
+5944	12	a	DET	a	-	(THEME*
+5944	13	Boeing	PROPN	Boeing	-	*
+5944	14	767	NUM	767	-	*
+5944	15	's	PART	's	-	*
+5944	16	cabin	NOUN	cabin	-	*)
+5944	17	will	AUX	will	-	(*)
+5944	18	be	AUX	be	-	*
+5944	19	pressurized	VERB	pressurize	EXIST-WITH-FEATURE	(V*)
+5944	20	to	ADP	to	-	(VALUE*
+5944	21	an	DET	a	-	*
+5944	22	altitude	NOUN	altitude	-	*
+5944	23	of	ADP	of	-	*
+5944	24	6,900	NUM	6900	-	*
+5944	25	feet	NOUN	foot	-	*)
+5944	26	.	PUNCT	.	-	*
+
+# sentence_id = 5577
+# text = The homes , most with front porches , breasted against the sidewalk in a neat row .
+5577	0	The	DET	the	-	(AGENT*
+5577	1	homes	NOUN	home	-	*
+5577	2	,	PUNCT	,	-	*
+5577	3	most	ADJ	most	-	*
+5577	4	with	ADP	with	-	*
+5577	5	front	ADJ	front	-	*
+5577	6	porches	NOUN	porch	-	*)
+5577	7	,	PUNCT	,	-	*
+5577	8	breasted	VERB	breast	TOUCH	(V*)
+5577	9	against	ADP	against	-	(EXPERIENCER*
+5577	10	the	DET	the	-	*
+5577	11	sidewalk	NOUN	sidewalk	-	*)
+5577	12	in	ADP	in	-	(ATTRIBUTE*
+5577	13	a	DET	a	-	*
+5577	14	neat	ADJ	neat	-	*
+5577	15	row	NOUN	row	-	*)
+5577	16	.	PUNCT	.	-	*
+
+# sentence_id = 6051
+# text = The composer 's autograph score was microfilmed and flown to New York via Tehran and Cairo .
+6051	0	The	DET	the	-	(THEME*
+6051	1	composer	NOUN	composer	-	*
+6051	2	's	PART	's	-	*
+6051	3	autograph	NOUN	autograph	-	*
+6051	4	score	NOUN	score	-	*)
+6051	5	was	AUX	be	-	*
+6051	6	microfilmed	VERB	microfil	RECORD	(V*)
+6051	7	and	CCONJ	and	-	*
+6051	8	flown	VERB	fly	-	*
+6051	9	to	ADP	to	-	*
+6051	10	New	ADJ	New	-	*
+6051	11	York	PROPN	York	-	*
+6051	12	via	ADP	via	-	*
+6051	13	Tehran	PROPN	Tehran	-	*
+6051	14	and	CCONJ	and	-	*
+6051	15	Cairo	PROPN	Cairo	-	*
+6051	16	.	PUNCT	.	-	*
+
+# sentence_id = 3471
+# text = Frankly speaking , the Democratic Progressive Party is still re - travelling the old path of Chen Shui - bian , but did not use their ideas on the correct path of developing people 's livelihood and improving the economy .
+3471	0	Frankly	ADV	frankly	-	*
+3471	1	speaking	VERB	speak	-	*
+3471	2	,	PUNCT	,	-	*
+3471	3	the	DET	the	-	(AGENT*
+3471	4	Democratic	ADJ	Democratic	-	*
+3471	5	Progressive	ADJ	Progressive	-	*
+3471	6	Party	PROPN	Party	-	*)
+3471	7	is	AUX	be	-	*
+3471	8	still	ADV	still	-	*
+3471	9	re	ADP	re	GO-FORWARD	(V*
+3471	10	-	PUNCT	-	-	*
+3471	11	travelling	VERB	travel	-	*)
+3471	12	the	DET	the	-	(LOCATION*
+3471	13	old	ADJ	old	-	*
+3471	14	path	NOUN	path	-	*
+3471	15	of	ADP	of	-	*
+3471	16	Chen	PROPN	Chen	-	*
+3471	17	Shui	PROPN	Shui	-	*
+3471	18	-	PUNCT	-	-	*
+3471	19	bian	PROPN	bian	-	*)
+3471	20	,	PUNCT	,	-	*
+3471	21	but	CCONJ	but	-	*
+3471	22	did	AUX	do	-	*
+3471	23	not	PART	not	-	*
+3471	24	use	VERB	use	-	*
+3471	25	their	PRON	they	-	*
+3471	26	ideas	NOUN	idea	-	*
+3471	27	on	ADP	on	-	*
+3471	28	the	DET	the	-	*
+3471	29	correct	ADJ	correct	-	*
+3471	30	path	NOUN	path	-	*
+3471	31	of	SCONJ	of	-	*
+3471	32	developing	VERB	develop	-	*
+3471	33	people	NOUN	people	-	*
+3471	34	's	PART	's	-	*
+3471	35	livelihood	NOUN	livelihood	-	*
+3471	36	and	CCONJ	and	-	*
+3471	37	improving	VERB	improve	-	*
+3471	38	the	DET	the	-	*
+3471	39	economy	NOUN	economy	-	*
+3471	40	.	PUNCT	.	-	*
+
+# sentence_id = 626
+# text = The door slammed behind Max , and the truck chugged to a small outbuilding .
+626	0	The	DET	the	-	*
+626	1	door	NOUN	door	-	*
+626	2	slammed	VERB	slam	-	*
+626	3	behind	ADP	behind	-	*
+626	4	Max	PROPN	Max	-	*
+626	5	,	PUNCT	,	-	*
+626	6	and	CCONJ	and	-	*
+626	7	the	DET	the	-	(AGENT*
+626	8	truck	NOUN	truck	-	*)
+626	9	chugged	VERB	chug	MOVE-ONESELF	(V*)
+626	10	to	ADP	to	-	(DESTINATION*
+626	11	a	DET	a	-	*
+626	12	small	ADJ	small	-	*
+626	13	outbuilding	NOUN	outbuilding	-	*)
+626	14	.	PUNCT	.	-	*
+
+# sentence_id = 6070
+# text = Manson trolled the streets for the homeless , runaways and neglected disenfranchised youth and made them his own  family  .
+6070	0	Manson	PROPN	Manson	-	(AGENT*)
+6070	1	trolled	VERB	troll	HUNT	(V*)
+6070	2	the	DET	the	-	(THEME*
+6070	3	streets	NOUN	street	-	*)
+6070	4	for	ADP	for	-	(CAUSE*
+6070	5	the	DET	the	-	*
+6070	6	homeless	NOUN	homeless	-	*
+6070	7	,	PUNCT	,	-	*
+6070	8	runaways	NOUN	runaway	-	*
+6070	9	and	CCONJ	and	-	*
+6070	10	neglected	VERB	neglect	-	*
+6070	11	disenfranchised	VERB	disenfranchise	-	*
+6070	12	youth	NOUN	youth	-	*)
+6070	13	and	CCONJ	and	-	*
+6070	14	made	VERB	make	-	*
+6070	15	them	PRON	they	-	*
+6070	16	his	PRON	he	-	*
+6070	17	own	ADJ	own	-	*
+6070	18	 family 	NOUN	family	-	*
+6070	19	.	PUNCT	.	-	*
+
+# sentence_id = 2652
+# text = On Saturday night , quite a few of the boys in green and gold salted away successes to salve the pain of past and , no doubt , future droughts .
+2652	0	On	ADP	on	-	*
+2652	1	Saturday	PROPN	Saturday	-	*
+2652	2	night	NOUN	night	-	*
+2652	3	,	PUNCT	,	-	*
+2652	4	quite	DET	quite	-	(AGENT*
+2652	5	a	DET	a	-	*
+2652	6	few	ADJ	few	-	*
+2652	7	of	ADP	of	-	*
+2652	8	the	DET	the	-	*
+2652	9	boys	NOUN	boy	-	*
+2652	10	in	ADP	in	-	*
+2652	11	green	NOUN	green	-	*
+2652	12	and	CCONJ	and	-	*
+2652	13	gold	NOUN	gold	-	*)
+2652	14	salted	VERB	salt	-	*
+2652	15	away	ADV	away	-	*
+2652	16	successes	NOUN	success	-	*
+2652	17	to	PART	to	-	*
+2652	18	salve	VERB	salve	HELP_HEAL_CARE_CURE	(V*)
+2652	19	the	DET	the	-	(THEME*
+2652	20	pain	NOUN	pain	-	*
+2652	21	of	ADP	of	-	*
+2652	22	past	NOUN	past	-	*
+2652	23	and	CCONJ	and	-	*
+2652	24	,	PUNCT	,	-	*
+2652	25	no	DET	no	-	*
+2652	26	doubt	NOUN	doubt	-	*
+2652	27	,	PUNCT	,	-	*
+2652	28	future	ADJ	future	-	*
+2652	29	droughts	NOUN	drought	-	*)
+2652	30	.	PUNCT	.	-	*
+
+# sentence_id = 1222
+# text = Hoag stretched his left hand to the wall and fumbled for the switch : evil flourishes in the dark .
+1222	0	Hoag	PROPN	Hoag	-	(AGENT*)
+1222	1	stretched	VERB	stretch	-	*
+1222	2	his	PRON	he	-	*
+1222	3	left	ADJ	left	-	*
+1222	4	hand	NOUN	hand	-	*
+1222	5	to	ADP	to	-	*
+1222	6	the	DET	the	-	*
+1222	7	wall	NOUN	wall	-	*
+1222	8	and	CCONJ	and	-	*
+1222	9	fumbled	VERB	fumble	MOVE-SOMETHING	(V*)
+1222	10	for	ADP	for	-	(DESTINATION*
+1222	11	the	DET	the	-	*
+1222	12	switch	NOUN	switch	-	*)
+1222	13	:	PUNCT	:	-	*
+1222	14	evil	ADJ	evil	-	*
+1222	15	flourishes	NOUN	flourish	-	*
+1222	16	in	ADP	in	-	*
+1222	17	the	DET	the	-	*
+1222	18	dark	NOUN	dark	-	*
+1222	19	.	PUNCT	.	-	*
+
+# sentence_id = 1302
+# text = In these embryos , the myocardium fails to trabeculate , and the endocardium appears detached from the myocardial layer .
+1302	0	In	ADP	in	-	*
+1302	1	these	DET	this	-	*
+1302	2	embryos	NOUN	embryo	-	*
+1302	3	,	PUNCT	,	-	*
+1302	4	the	DET	the	-	(LOCATION*
+1302	5	myocardium	NOUN	myocardium	-	*)
+1302	6	fails	VERB	fail	-	*
+1302	7	to	PART	to	-	*
+1302	8	trabeculate	VERB	trabeculate	MOUNT_ASSEMBLE_PRODUCE	(V*)
+1302	9	,	PUNCT	,	-	*
+1302	10	and	CCONJ	and	-	*
+1302	11	the	DET	the	-	*
+1302	12	endocardium	NOUN	endocardium	-	*
+1302	13	appears	VERB	appear	-	*
+1302	14	detached	VERB	detach	-	*
+1302	15	from	ADP	from	-	*
+1302	16	the	DET	the	-	*
+1302	17	myocardial	ADJ	myocardial	-	*
+1302	18	layer	NOUN	layer	-	*
+1302	19	.	PUNCT	.	-	*
+
+# sentence_id = 5558
+# text = I 'm sitting here pulling my hair out because my roomate is watching the Masters on TV . I 'd rather drink battery acid than watch golf . While semi - watching , I just realized something : while the golfer is setting up his shot , and about to swing , all the fans get very quiet for them .
+5558	0	I	PRON	I	-	*
+5558	1	'm	AUX	be	-	*
+5558	2	sitting	VERB	sit	-	*
+5558	3	here	ADV	here	-	*
+5558	4	pulling	VERB	pull	-	*
+5558	5	my	PRON	my	-	*
+5558	6	hair	NOUN	hair	-	*
+5558	7	out	ADP	out	-	*
+5558	8	because	SCONJ	because	-	*
+5558	9	my	PRON	my	-	*
+5558	10	roomate	NOUN	roomate	-	*
+5558	11	is	AUX	be	-	*
+5558	12	watching	VERB	watch	-	*
+5558	13	the	DET	the	-	*
+5558	14	Masters	PROPN	Master	-	*
+5558	15	on	ADP	on	-	*
+5558	16	TV	NOUN	tv	-	*
+5558	17	.	PUNCT	.	-	*
+5558	18	I	PRON	I	-	*
+5558	19	'd	AUX	would	-	*
+5558	20	rather	ADV	rather	-	*
+5558	21	drink	VERB	drink	-	*
+5558	22	battery	NOUN	battery	-	*
+5558	23	acid	NOUN	acid	-	*
+5558	24	than	ADP	than	-	*
+5558	25	watch	VERB	watch	-	*
+5558	26	golf	NOUN	golf	-	*
+5558	27	.	PUNCT	.	-	*
+5558	28	While	SCONJ	while	-	*
+5558	29	semi	NOUN	semi	SEE	(V*
+5558	30	-	PUNCT	-	-	*
+5558	31	watching	VERB	watch	-	*)
+5558	32	,	PUNCT	,	-	*
+5558	33	I	PRON	I	-	(EXPERIENCER*)
+5558	34	just	ADV	just	-	*
+5558	35	realized	VERB	realize	-	*
+5558	36	something	PRON	something	-	*
+5558	37	:	PUNCT	:	-	*
+5558	38	while	SCONJ	while	-	*
+5558	39	the	DET	the	-	*
+5558	40	golfer	NOUN	golfer	-	*
+5558	41	is	AUX	be	-	*
+5558	42	setting	VERB	set	-	*
+5558	43	up	ADP	up	-	*
+5558	44	his	PRON	he	-	*
+5558	45	shot	NOUN	shot	-	*
+5558	46	,	PUNCT	,	-	*
+5558	47	and	CCONJ	and	-	*
+5558	48	about	ADV	about	-	*
+5558	49	to	PART	to	-	*
+5558	50	swing	VERB	swe	-	*
+5558	51	,	PUNCT	,	-	*
+5558	52	all	DET	all	-	*
+5558	53	the	DET	the	-	*
+5558	54	fans	NOUN	fan	-	*
+5558	55	get	VERB	get	-	*
+5558	56	very	ADV	very	-	*
+5558	57	quiet	ADJ	quiet	-	*
+5558	58	for	ADP	for	-	*
+5558	59	them	PRON	they	-	*
+5558	60	.	PUNCT	.	-	*
+
+# sentence_id = 3888
+# text = Clasping his hands behind his head , he stared at the blue sky .
+3888	0	Clasping	VERB	clasp	SECURE_FASTEN_TIE	(V*)
+3888	1	his	PRON	he	-	(PATIENT*
+3888	2	hands	NOUN	hand	-	*)
+3888	3	behind	ADP	behind	-	(LOCATION*
+3888	4	his	PRON	he	-	*
+3888	5	head	NOUN	head	-	*)
+3888	6	,	PUNCT	,	-	*
+3888	7	he	PRON	he	-	(AGENT*)
+3888	8	stared	VERB	stare	-	*
+3888	9	at	ADP	at	-	*
+3888	10	the	DET	the	-	*
+3888	11	blue	ADJ	blue	-	*
+3888	12	sky	NOUN	sky	-	*
+3888	13	.	PUNCT	.	-	*
+
+# sentence_id = 4340
+# text = Mary can always spellbind John with her poetry readings .
+4340	0	Mary	PROPN	Mary	-	(AGENT*)
+4340	1	can	AUX	can	-	*
+4340	2	always	ADV	always	-	*
+4340	3	spellbind	VERB	spellb	ATTRACT_SUCK	(V*)
+4340	4	John	PROPN	John	-	(PATIENT*)
+4340	5	with	ADP	with	-	(INSTRUMENT*
+4340	6	her	PRON	she	-	*
+4340	7	poetry	NOUN	poetry	-	*
+4340	8	readings	NOUN	reading	-	*)
+4340	9	.	PUNCT	.	-	*
+
+# sentence_id = 5633
+# text = He referred to his notes extensively to help remember his speech .
+5633	0	He	PRON	he	-	(AGENT*)
+5633	1	referred	VERB	refer	CITE	(V*)
+5633	2	to	ADP	to	-	(SOURCE*
+5633	3	his	PRON	he	-	*
+5633	4	notes	NOUN	note	-	*)
+5633	5	extensively	ADV	extensively	-	*
+5633	6	to	PART	to	-	(PURPOSE*
+5633	7	help	VERB	help	-	*
+5633	8	remember	VERB	remember	-	*
+5633	9	his	PRON	he	-	*
+5633	10	speech	NOUN	speech	-	*)
+5633	11	.	PUNCT	.	-	*
+
+# sentence_id = 3890
+# text = One day when he attended a war memorial ceremony inWestminster Abbey ... someone , clasping him by the arm , whispered , " I want a word with you , please " .
+3890	0	One	NUM	one	-	*
+3890	1	day	NOUN	day	-	*
+3890	2	when	SCONJ	when	-	*
+3890	3	he	PRON	he	-	*
+3890	4	attended	VERB	attend	-	*
+3890	5	a	DET	a	-	*
+3890	6	war	NOUN	war	-	*
+3890	7	memorial	NOUN	memorial	-	*
+3890	8	ceremony	NOUN	ceremony	-	*
+3890	9	inWestminster	PROPN	inWestminster	-	*
+3890	10	Abbey	PROPN	Abbey	-	*
+3890	11	...	PUNCT	...	-	*
+3890	12	someone	PRON	someone	-	(AGENT*)
+3890	13	,	PUNCT	,	-	*
+3890	14	clasping	VERB	clasp	SECURE_FASTEN_TIE	(V*)
+3890	15	him	PRON	he	-	(PATIENT*)
+3890	16	by	ADP	by	-	(INSTRUMENT*
+3890	17	the	DET	the	-	*
+3890	18	arm	NOUN	arm	-	*)
+3890	19	,	PUNCT	,	-	*
+3890	20	whispered	VERB	whisper	-	*
+3890	21	,	PUNCT	,	-	*
+3890	22	"	PUNCT	"	-	*
+3890	23	I	PRON	I	-	*
+3890	24	want	VERB	want	-	*
+3890	25	a	DET	a	-	*
+3890	26	word	NOUN	word	-	*
+3890	27	with	ADP	with	-	*
+3890	28	you	PRON	you	-	*
+3890	29	,	PUNCT	,	-	*
+3890	30	please	INTJ	please	-	*
+3890	31	"	PUNCT	"	-	*
+3890	32	.	PUNCT	.	-	*
+
+# sentence_id = 2985
+# text = She loved it , and while I waited in line again to pay for it , she beetled about the shop 's floor looking incontestably happy with herself .
+2985	0	She	PRON	she	-	*
+2985	1	loved	VERB	love	-	*
+2985	2	it	PRON	it	-	*
+2985	3	,	PUNCT	,	-	*
+2985	4	and	CCONJ	and	-	*
+2985	5	while	SCONJ	while	-	*
+2985	6	I	PRON	I	-	*
+2985	7	waited	VERB	wait	-	*
+2985	8	in	ADP	in	-	*
+2985	9	line	NOUN	line	-	*
+2985	10	again	ADV	again	-	*
+2985	11	to	PART	to	-	*
+2985	12	pay	VERB	pay	-	*
+2985	13	for	ADP	for	-	*
+2985	14	it	PRON	it	-	*
+2985	15	,	PUNCT	,	-	*
+2985	16	she	PRON	she	-	(AGENT*)
+2985	17	beetled	VERB	beetle	GO-FORWARD	(V*)
+2985	18	about	ADP	about	-	(LOCATION*
+2985	19	the	DET	the	-	*
+2985	20	shop	NOUN	shop	-	*
+2985	21	's	PART	's	-	*
+2985	22	floor	NOUN	floor	-	*)
+2985	23	looking	VERB	look	-	*
+2985	24	incontestably	ADV	incontestably	-	*
+2985	25	happy	ADJ	happy	-	*
+2985	26	with	ADP	with	-	*
+2985	27	herself	PRON	herself	-	*
+2985	28	.	PUNCT	.	-	*
+
+# sentence_id = 1277
+# text = The victory secured Hannibal 's position in northern Italy , he barracked himself at Bologna for the remaining winter .
+1277	0	The	DET	the	-	*
+1277	1	victory	NOUN	victory	-	*
+1277	2	secured	VERB	secure	-	*
+1277	3	Hannibal	PROPN	Hannibal	-	*
+1277	4	's	PART	's	-	*
+1277	5	position	NOUN	position	-	*
+1277	6	in	ADP	in	-	*
+1277	7	northern	ADJ	northern	-	*
+1277	8	Italy	PROPN	Italy	-	*
+1277	9	,	PUNCT	,	-	*
+1277	10	he	PRON	he	-	(AGENT*)
+1277	11	barracked	VERB	barrack	STAY_DWELL	(V*)
+1277	12	himself	PRON	himself	-	(THEME*)
+1277	13	at	ADP	at	-	(LOCATION*
+1277	14	Bologna	PROPN	Bologna	-	*)
+1277	15	for	ADP	for	-	(EXTENT*
+1277	16	the	DET	the	-	*
+1277	17	remaining	VERB	remain	-	*
+1277	18	winter	NOUN	winter	-	*)
+1277	19	.	PUNCT	.	-	*
+
+# sentence_id = 5188
+# text = Japan not only outstrips the U.S. in investment flows but also outranks it in trade with most Southeast Asian countries ( although the U.S. remains the leading trade partner for all of Asia ) .
+5188	0	Japan	PROPN	Japan	-	(THEME*)
+5188	1	not	PART	not	-	*
+5188	2	only	ADV	only	-	*
+5188	3	outstrips	VERB	outstrip	-	*
+5188	4	the	DET	the	-	*
+5188	5	U.S.	PROPN	U.S.	-	*
+5188	6	in	ADP	in	-	*
+5188	7	investment	NOUN	investment	-	*
+5188	8	flows	NOUN	flow	-	*
+5188	9	but	CCONJ	but	-	*
+5188	10	also	ADV	also	-	*
+5188	11	outranks	VERB	outrank	OVERCOME_SURPASS	(V*)
+5188	12	it	PRON	it	-	(CO-THEME*)
+5188	13	in	ADP	in	-	(ATTRIBUTE*
+5188	14	trade	NOUN	trade	-	*
+5188	15	with	ADP	with	-	*
+5188	16	most	ADJ	most	-	*
+5188	17	Southeast	PROPN	Southeast	-	*
+5188	18	Asian	ADJ	Asian	-	*
+5188	19	countries	NOUN	country	-	*)
+5188	20	(	PUNCT	(	-	*
+5188	21	although	SCONJ	although	-	*
+5188	22	the	DET	the	-	*
+5188	23	U.S.	PROPN	U.S.	-	*
+5188	24	remains	VERB	remain	-	*
+5188	25	the	DET	the	-	*
+5188	26	leading	VERB	lead	-	*
+5188	27	trade	NOUN	trade	-	*
+5188	28	partner	NOUN	partner	-	*
+5188	29	for	ADP	for	-	*
+5188	30	all	DET	all	-	*
+5188	31	of	ADP	of	-	*
+5188	32	Asia	PROPN	Asia	-	*
+5188	33	)	PUNCT	)	-	*
+5188	34	.	PUNCT	.	-	*
+
+# sentence_id = 5699
+# text = The nitrile rubber and the PVC were fluxed together on the mill .
+5699	0	The	DET	the	-	(THEME*
+5699	1	nitrile	NOUN	nitrile	-	*
+5699	2	rubber	NOUN	rubber	-	*
+5699	3	and	CCONJ	and	-	*
+5699	4	the	DET	the	-	*
+5699	5	PVC	NOUN	pvc	-	*)
+5699	6	were	AUX	be	-	*
+5699	7	fluxed	VERB	flux	HARMONIZE	(V*)
+5699	8	together	ADV	together	-	*
+5699	9	on	ADP	on	-	(LOCATION*
+5699	10	the	DET	the	-	*
+5699	11	mill	NOUN	mill	-	*)
+5699	12	.	PUNCT	.	-	*
+
+# sentence_id = 302
+# text = The real fatal collision was the second one from the tailgating truck .
+302	0	The	DET	the	-	*
+302	1	real	ADJ	real	-	*
+302	2	fatal	ADJ	fatal	-	*
+302	3	collision	NOUN	collision	-	*
+302	4	was	AUX	be	-	*
+302	5	the	DET	the	-	*
+302	6	second	ADJ	second	-	*
+302	7	one	NOUN	one	-	*
+302	8	from	ADP	from	-	*
+302	9	the	DET	the	-	*
+302	10	tailgating	NOUN	tailgating	FOLLOW-IN-SPACE	(V*)
+302	11	truck	NOUN	truck	-	(AGENT*)
+302	12	.	PUNCT	.	-	*
+
+# sentence_id = 4465
+# text = Exactly one day after we noted aloud how remarkable it was that Punk Cow had survived while far tougher toys had not , Sadie bit open his nose , disemboweled him of both his stuffing and his squeaker , and left him for dead .
+4465	0	Exactly	ADV	exactly	-	*
+4465	1	one	NUM	one	-	*
+4465	2	day	NOUN	day	-	*
+4465	3	after	SCONJ	after	-	*
+4465	4	we	PRON	we	-	*
+4465	5	noted	VERB	note	-	*
+4465	6	aloud	ADV	aloud	-	*
+4465	7	how	SCONJ	how	-	*
+4465	8	remarkable	ADJ	remarkable	-	*
+4465	9	it	PRON	it	-	*
+4465	10	was	VERB	be	-	*
+4465	11	that	SCONJ	that	-	*
+4465	12	Punk	PROPN	Punk	-	*
+4465	13	Cow	PROPN	Cow	-	*
+4465	14	had	AUX	have	-	*
+4465	15	survived	VERB	survive	-	*
+4465	16	while	SCONJ	while	-	*
+4465	17	far	ADV	far	-	*
+4465	18	tougher	ADJ	tougher	-	*
+4465	19	toys	NOUN	toy	-	*
+4465	20	had	VERB	have	-	*
+4465	21	not	PART	not	-	*
+4465	22	,	PUNCT	,	-	*
+4465	23	Sadie	PROPN	Sadie	-	(AGENT*)
+4465	24	bit	VERB	bite	-	*
+4465	25	open	ADP	open	-	*
+4465	26	his	PRON	he	-	*
+4465	27	nose	NOUN	nose	-	*
+4465	28	,	PUNCT	,	-	*
+4465	29	disemboweled	VERB	disembowel	REMOVE_TAKE-AWAY_KIDNAP	(V*)
+4465	30	him	PRON	he	-	(SOURCE*)
+4465	31	of	ADP	of	-	(PATIENT*
+4465	32	both	CCONJ	both	-	*
+4465	33	his	PRON	he	-	*
+4465	34	stuffing	NOUN	stuff	-	*
+4465	35	and	CCONJ	and	-	*
+4465	36	his	PRON	he	-	*
+4465	37	squeaker	NOUN	squeaker	-	*)
+4465	38	,	PUNCT	,	-	*
+4465	39	and	CCONJ	and	-	*
+4465	40	left	VERB	leave	-	*
+4465	41	him	PRON	he	-	*
+4465	42	for	ADP	for	-	*
+4465	43	dead	ADJ	dead	-	*
+4465	44	.	PUNCT	.	-	*
+
+# sentence_id = 350
+# text = Once you noticed the sign , you would snuff it out in a flexible way .
+350	0	Once	SCONJ	once	-	(TIME*
+350	1	you	PRON	you	-	*
+350	2	noticed	VERB	notice	-	*
+350	3	the	DET	the	-	*
+350	4	sign	NOUN	sign	-	*)
+350	5	,	PUNCT	,	-	*
+350	6	you	PRON	you	-	(CAUSE*)
+350	7	would	AUX	would	-	*
+350	8	snuff	VERB	sniff	RESTRAIN	(V*)
+350	9	it	PRON	it	-	(PATIENT*)
+350	10	out	ADP	out	-	*
+350	11	in	ADP	in	-	(ATTRIBUTE*
+350	12	a	DET	a	-	*
+350	13	flexible	ADJ	flexible	-	*
+350	14	way	NOUN	way	-	*)
+350	15	.	PUNCT	.	-	*
+
+# sentence_id = 3924
+# text = You have to trust people and nail those attempts to control and hypercontrol this case .
+3924	0	You	PRON	you	-	(AGENT*)
+3924	1	have	VERB	have	-	*
+3924	2	to	PART	to	-	*
+3924	3	trust	VERB	trust	-	*
+3924	4	people	NOUN	people	-	*
+3924	5	and	CCONJ	and	-	*
+3924	6	nail	VERB	nail	-	*
+3924	7	those	DET	that	-	*
+3924	8	attempts	NOUN	attempt	-	*
+3924	9	to	PART	to	-	*
+3924	10	control	VERB	control	-	*
+3924	11	and	CCONJ	and	-	*
+3924	12	hypercontrol	VERB	hypercontrol	MANAGE	(V*)
+3924	13	this	DET	this	-	(THEME*
+3924	14	case	NOUN	case	-	*)
+3924	15	.	PUNCT	.	-	*
+
+# sentence_id = 6886
+# text = This is much easier than crumbing fish with flour , egg , and breadcrumbs .
+6886	0	This	PRON	this	-	*
+6886	1	is	AUX	be	-	*
+6886	2	much	ADV	much	-	*
+6886	3	easier	ADJ	easy	-	*
+6886	4	than	SCONJ	than	-	*
+6886	5	crumbing	VERB	crumb	COVER_SPREAD_SURMOUNT	(V*)
+6886	6	fish	NOUN	fish	-	(DESTINATION*)
+6886	7	with	ADP	with	-	(THEME*)
+6886	8	flour	NOUN	flour	-	(THEME*)
+6886	9	,	PUNCT	,	-	(THEME*)
+6886	10	egg	NOUN	egg	-	(THEME*)
+6886	11	,	PUNCT	,	-	(THEME*)
+6886	12	and	CCONJ	and	-	(THEME*)
+6886	13	breadcrumbs	NOUN	breadcrumb	-	(THEME*)
+6886	14	.	PUNCT	.	-	*
+
+# sentence_id = 3869
+# text = He howled a scream , he ululated a scream that overrode the sound of flutes , drum , and chanting .
+3869	0	He	PRON	he	-	*
+3869	1	howled	VERB	howl	-	*
+3869	2	a	DET	a	-	*
+3869	3	scream	NOUN	scream	-	*
+3869	4	,	PUNCT	,	-	*
+3869	5	he	PRON	he	-	(AGNET*)
+3869	6	ululated	VERB	ululate	CRY	(V*)
+3869	7	a	DET	a	-	(THEME*
+3869	8	scream	NOUN	scream	-	*
+3869	9	that	PRON	that	-	*
+3869	10	overrode	VERB	overrode	-	*
+3869	11	the	DET	the	-	*
+3869	12	sound	NOUN	sound	-	*
+3869	13	of	ADP	of	-	*
+3869	14	flutes	NOUN	flute	-	*
+3869	15	,	PUNCT	,	-	*
+3869	16	drum	NOUN	drum	-	*
+3869	17	,	PUNCT	,	-	*
+3869	18	and	CCONJ	and	-	*
+3869	19	chanting	NOUN	chant	-	*)
+3869	20	.	PUNCT	.	-	*
+
+# sentence_id = 2933
+# text = In order to help instead , try approaching them from a point of encouragement rather than implying that they " buck up " over something little .
+2933	0	In	SCONJ	in	-	*
+2933	1	order	NOUN	order	-	*
+2933	2	to	PART	to	-	*
+2933	3	help	VERB	help	-	*
+2933	4	instead	ADV	instead	-	*
+2933	5	,	PUNCT	,	-	*
+2933	6	try	VERB	try	-	*
+2933	7	approaching	VERB	approach	-	*
+2933	8	them	PRON	they	-	*
+2933	9	from	ADP	from	-	*
+2933	10	a	DET	a	-	*
+2933	11	point	NOUN	point	-	*
+2933	12	of	ADP	of	-	*
+2933	13	encouragement	NOUN	encouragement	-	*
+2933	14	rather	SCONJ	rather	-	*
+2933	15	than	SCONJ	than	-	*
+2933	16	implying	VERB	imply	-	*
+2933	17	that	SCONJ	that	-	*
+2933	18	they	PRON	they	-	(AGENT*)
+2933	19	"	PUNCT	"	-	*
+2933	20	buck	VERB	buck	RAISE	(V*)
+2933	21	up	ADP	up	-	*
+2933	22	"	PUNCT	"	-	*
+2933	23	over	ADP	over	-	(SOURCE*
+2933	24	something	PRON	something	-	*
+2933	25	little	ADJ	little	-	*)
+2933	26	.	PUNCT	.	-	*
+
+# sentence_id = 5168
+# text = This is far from the vulgar , leering sexuality of the middle - class square in heat .
+5168	0	This	PRON	this	-	*
+5168	1	is	AUX	be	-	*
+5168	2	far	ADV	far	-	*
+5168	3	from	ADP	from	-	*
+5168	4	the	DET	the	-	*
+5168	5	vulgar	ADJ	vulgar	-	*
+5168	6	,	PUNCT	,	-	*
+5168	7	leering	ADJ	leer	SEE	(V*)
+5168	8	sexuality	NOUN	sexuality	-	(STIMULUS*)
+5168	9	of	ADP	of	-	*
+5168	10	the	DET	the	-	*
+5168	11	middle	NOUN	middle	-	*
+5168	12	-	PUNCT	-	-	*
+5168	13	class	NOUN	class	-	*
+5168	14	square	NOUN	square	-	*
+5168	15	in	ADP	in	-	*
+5168	16	heat	NOUN	heat	-	*
+5168	17	.	PUNCT	.	-	*
+
+# sentence_id = 3681
+# text = The players were heckled by a patron during a July 4 , 1988 , game with the Martinsville Phillies .
+3681	0	The	DET	the	-	(AGENT*
+3681	1	players	NOUN	player	-	*)
+3681	2	were	AUX	be	-	*
+3681	3	heckled	VERB	heckle	FACE_CHALLENGE	(V*)
+3681	4	by	ADP	by	-	(CAUSE*
+3681	5	a	DET	a	-	*
+3681	6	patron	NOUN	patron	-	*)
+3681	7	during	ADP	during	-	(TIME*
+3681	8	a	DET	a	-	*
+3681	9	July	PROPN	July	-	*
+3681	10	4	NUM	4	-	*
+3681	11	,	PUNCT	,	-	*
+3681	12	1988	NUM	1988	-	*
+3681	13	,	PUNCT	,	-	*
+3681	14	game	NOUN	game	-	*
+3681	15	with	ADP	with	-	*
+3681	16	the	DET	the	-	*
+3681	17	Martinsville	PROPN	Martinsville	-	*
+3681	18	Phillies	PROPN	Phillies	-	*)
+3681	19	.	PUNCT	.	-	*
+
+# sentence_id = 3722
+# text = If you feel that showing the red card will exasperate the situation even further , then do not do so !
+3722	0	If	SCONJ	if	-	*
+3722	1	you	PRON	you	-	*
+3722	2	feel	VERB	feel	-	*
+3722	3	that	SCONJ	that	-	*
+3722	4	showing	VERB	show	-	(AGENT*
+3722	5	the	DET	the	-	*
+3722	6	red	ADJ	red	-	*
+3722	7	card	NOUN	card	-	*)
+3722	8	will	AUX	will	-	*
+3722	9	exasperate	VERB	exasperate	WORSEN	(V*)
+3722	10	the	DET	the	-	(PATIENT*
+3722	11	situation	NOUN	situation	-	*)
+3722	12	even	ADV	even	-	(EXTENT*
+3722	13	further	ADV	further	-	*)
+3722	14	,	PUNCT	,	-	*
+3722	15	then	ADV	then	-	*
+3722	16	do	AUX	do	-	*
+3722	17	not	PART	not	-	*
+3722	18	do	VERB	do	-	*
+3722	19	so	ADV	so	-	*
+3722	20	!	PUNCT	!	-	*
+
+# sentence_id = 3327
+# text = Sweet docile music in Hindi twanged through the air above us .
+3327	0	Sweet	ADJ	Sweet	-	(PATIENT*
+3327	1	docile	ADJ	docile	-	*
+3327	2	music	NOUN	music	-	*
+3327	3	in	ADP	in	-	*
+3327	4	Hindi	PROPN	Hindi	-	*)
+3327	5	twanged	VERB	twange	MAKE-A-SOUND	(V*)
+3327	6	through	ADP	through	-	(ATTRIBUTE*
+3327	7	the	DET	the	-	*
+3327	8	air	NOUN	air	-	*)
+3327	9	above	ADP	above	-	(LOCATION*
+3327	10	us	PRON	we	-	*)
+3327	11	.	PUNCT	.	-	*
+
+# sentence_id = 583
+# text = Through the splash of the rising waters , they could hear the roar of the river as it raged through its canyon , gnashing big chunks out of the banks .
+583	0	Through	ADP	through	-	*
+583	1	the	DET	the	-	*
+583	2	splash	NOUN	splash	-	*
+583	3	of	ADP	of	-	*
+583	4	the	DET	the	-	*
+583	5	rising	VERB	rise	-	*
+583	6	waters	NOUN	water	-	*
+583	7	,	PUNCT	,	-	*
+583	8	they	PRON	they	-	*
+583	9	could	AUX	could	-	*
+583	10	hear	VERB	hear	-	*
+583	11	the	DET	the	-	*
+583	12	roar	NOUN	roar	-	*
+583	13	of	ADP	of	-	*
+583	14	the	DET	the	-	*
+583	15	river	NOUN	river	-	*
+583	16	as	SCONJ	as	-	*
+583	17	it	PRON	it	-	(AGENT*)
+583	18	raged	VERB	rage	-	*
+583	19	through	ADP	through	-	*
+583	20	its	PRON	its	-	*
+583	21	canyon	NOUN	canyon	-	*
+583	22	,	PUNCT	,	-	*
+583	23	gnashing	VERB	gnash	BREAK_DETERIORATE	(V*)
+583	24	big	ADJ	big	-	(PATIENT*)
+583	25	chunks	NOUN	chunk	-	(PATIENT*)
+583	26	out	ADP	out	-	(SOURCE*
+583	27	of	ADP	of	-	*
+583	28	the	DET	the	-	*
+583	29	banks	NOUN	bank	-	*)
+583	30	.	PUNCT	.	-	*
+
+# sentence_id = 5830
+# text = Tomorrow I am grilling your hot ass about your halfsex with mikey .
+5830	0	Tomorrow	NOUN	tomorrow	-	(TIME*)
+5830	1	I	PRON	I	-	(AGENT*)
+5830	2	am	AUX	be	-	*
+5830	3	grilling	VERB	grill	ANALYZE	(V*)
+5830	4	your	PRON	you	-	(THEME*
+5830	5	hot	ADJ	hot	-	*
+5830	6	ass	NOUN	ass	-	*)
+5830	7	about	ADP	about	-	(ATTRIBUTE*
+5830	8	your	PRON	you	-	*
+5830	9	halfsex	NOUN	halfsex	-	*
+5830	10	with	ADP	with	-	*
+5830	11	mikey	PROPN	mikey	-	*)
+5830	12	.	PUNCT	.	-	*
+
+# sentence_id = 2838
+# text = She smote him on the back with her umbrella .
+2838	0	She	PRON	she	-	(AGENT*)
+2838	1	smote	VERB	smote	_HIT	(V*)
+2838	2	him	PRON	he	-	(PATIENT*)
+2838	3	on	ADP	on	-	(LOCATION*
+2838	4	the	DET	the	-	*
+2838	5	back	NOUN	back	-	*)
+2838	6	with	ADP	with	-	(INSTRUMENT*
+2838	7	her	PRON	she	-	*
+2838	8	umbrella	NOUN	umbrella	-	*)
+2838	9	.	PUNCT	.	-	*
+
+# sentence_id = 5869
+# text = Yo dawg . Sorry I did nt get back . Got a new phone today and just set it up . You can totally crash we d .
+5869	0	Yo	PRON	yo	-	*
+5869	1	dawg	VERB	dakg	-	*
+5869	2	.	PUNCT	.	-	*
+5869	3	Sorry	INTJ	sorry	-	*
+5869	4	I	PRON	I	-	*
+5869	5	did	AUX	do	-	*
+5869	6	nt	PART	not	-	*
+5869	7	get	VERB	get	-	*
+5869	8	back	ADV	back	-	*
+5869	9	.	PUNCT	.	-	*
+5869	10	Got	VERB	get	-	*
+5869	11	a	DET	a	-	*
+5869	12	new	ADJ	new	-	*
+5869	13	phone	NOUN	phone	-	*
+5869	14	today	NOUN	today	-	*
+5869	15	and	CCONJ	and	-	*
+5869	16	just	ADV	just	-	*
+5869	17	set	VERB	set	-	*
+5869	18	it	PRON	it	-	*
+5869	19	up	ADP	up	-	*
+5869	20	.	PUNCT	.	-	*
+5869	21	You	PRON	you	-	(AGENT*)
+5869	22	can	AUX	can	-	*
+5869	23	totally	ADV	totally	-	*
+5869	24	crash	VERB	crash	SLEEP	(V*)
+5869	25	we	PRON	we	-	*
+5869	26	d	AUX	would	-	*
+5869	27	.	PUNCT	.	-	*
+
+# sentence_id = 6547
+# text = I snorted a taste and was shocked by how powerful it was .
+6547	0	I	PRON	I	-	(AGENT*)
+6547	1	snorted	VERB	snort	EAT_BITE	(V*)
+6547	2	a	DET	a	-	(PATIENT*
+6547	3	taste	NOUN	taste	-	*)
+6547	4	and	CCONJ	and	-	*
+6547	5	was	AUX	be	-	*
+6547	6	shocked	VERB	shock	-	*
+6547	7	by	SCONJ	by	-	*
+6547	8	how	SCONJ	how	-	*
+6547	9	powerful	ADJ	powerful	-	*
+6547	10	it	PRON	it	-	*
+6547	11	was	VERB	be	-	*
+6547	12	.	PUNCT	.	-	*
+
+# sentence_id = 5326
+# text = A university president has been found guilty of plagiarizing a research paper .
+5326	0	A	DET	a	-	(AGENT*
+5326	1	university	NOUN	university	-	*
+5326	2	president	NOUN	president	-	*)
+5326	3	has	AUX	have	-	*
+5326	4	been	AUX	be	-	*
+5326	5	found	VERB	find	-	*
+5326	6	guilty	ADJ	guilty	-	*
+5326	7	of	SCONJ	of	-	*
+5326	8	plagiarizing	VERB	plagiarize	STEAL_DEPRIVE	(V*)
+5326	9	a	DET	a	-	(SOURCE*
+5326	10	research	NOUN	research	-	*
+5326	11	paper	NOUN	paper	-	*)
+5326	12	.	PUNCT	.	-	*
+
+# sentence_id = 7082
+# text = Sprucing UP THE DIGS : About 200 employees of the Maryland Department of Economic and Employment Development for four months painted walls , polished and carpeted floors , bought plants , cleaned windows and blinds , and hung pictures at the agency 's Baltimore office .
+7082	0	Sprucing	VERB	spruce	-	*
+7082	1	UP	ADP	up	-	*
+7082	2	THE	DET	the	-	*
+7082	3	DIGS	NOUN	dig	-	*
+7082	4	:	PUNCT	:	-	*
+7082	5	About	ADV	about	-	(AGENT*
+7082	6	200	NUM	200	-	*
+7082	7	employees	NOUN	employee	-	*
+7082	8	of	ADP	of	-	*
+7082	9	the	DET	the	-	*
+7082	10	Maryland	PROPN	Maryland	-	*
+7082	11	Department	PROPN	Department	-	*
+7082	12	of	ADP	of	-	*
+7082	13	Economic	ADJ	economic	-	*
+7082	14	and	CCONJ	and	-	*
+7082	15	Employment	PROPN	employment	-	*
+7082	16	Development	PROPN	Development	-	*)
+7082	17	for	ADP	for	-	(EXTENT*
+7082	18	four	NUM	four	-	*
+7082	19	months	NOUN	month	-	*)
+7082	20	painted	VERB	paint	-	*
+7082	21	walls	NOUN	wall	-	*
+7082	22	,	PUNCT	,	-	*
+7082	23	polished	ADJ	polished	-	*
+7082	24	and	CCONJ	and	-	*
+7082	25	carpeted	VERB	carpet	COVER_SPREAD_SURMOUNT	(V*)
+7082	26	floors	NOUN	floor	-	(DESTINATION*)
+7082	27	,	PUNCT	,	-	*
+7082	28	bought	VERB	buy	-	*
+7082	29	plants	NOUN	plant	-	*
+7082	30	,	PUNCT	,	-	*
+7082	31	cleaned	VERB	clean	-	*
+7082	32	windows	NOUN	window	-	*
+7082	33	and	CCONJ	and	-	*
+7082	34	blinds	NOUN	blind	-	*
+7082	35	,	PUNCT	,	-	*
+7082	36	and	CCONJ	and	-	*
+7082	37	hung	VERB	hang	-	*
+7082	38	pictures	NOUN	picture	-	*
+7082	39	at	ADP	at	-	(LOCATION*
+7082	40	the	DET	the	-	*
+7082	41	agency	NOUN	agency	-	*
+7082	42	's	PART	's	-	*
+7082	43	Baltimore	PROPN	Baltimore	-	*
+7082	44	office	NOUN	office	-	*)
+7082	45	.	PUNCT	.	-	*
+
+# sentence_id = 4378
+# text = Well I was pulling the hair trying to get as close to the skin as possible when I actually scissored a piece of skin off .
+4378	0	Well	INTJ	well	-	*
+4378	1	I	PRON	I	-	*
+4378	2	was	AUX	be	-	*
+4378	3	pulling	VERB	pull	-	*
+4378	4	the	DET	the	-	*
+4378	5	hair	NOUN	hair	-	*
+4378	6	trying	VERB	try	-	*
+4378	7	to	PART	to	-	*
+4378	8	get	VERB	get	-	*
+4378	9	as	ADV	as	-	*
+4378	10	close	ADV	close	-	*
+4378	11	to	ADP	to	-	*
+4378	12	the	DET	the	-	*
+4378	13	skin	NOUN	skin	-	*
+4378	14	as	SCONJ	as	-	*
+4378	15	possible	ADJ	possible	-	*
+4378	16	when	SCONJ	when	-	*
+4378	17	I	PRON	I	-	(AGENT*)
+4378	18	actually	ADV	actually	-	*
+4378	19	scissored	VERB	scissor	CUT	(V*)
+4378	20	a	DET	a	-	(PATIENT*
+4378	21	piece	NOUN	piece	-	*
+4378	22	of	ADP	of	-	*
+4378	23	skin	NOUN	skin	-	*)
+4378	24	off	ADP	off	-	*
+4378	25	.	PUNCT	.	-	*
+
+# sentence_id = 4333
+# text = The lower end of the biliopancreatic limb is then anastomosed to the terminal ileum .
+4333	0	The	DET	the	-	(PATIENT*
+4333	1	lower	ADJ	low	-	*
+4333	2	end	NOUN	end	-	*
+4333	3	of	ADP	of	-	*
+4333	4	the	DET	the	-	*
+4333	5	biliopancreatic	ADJ	biliopancreatic	-	*
+4333	6	limb	NOUN	limb	-	*)
+4333	7	is	AUX	be	-	*
+4333	8	then	ADV	then	-	*
+4333	9	anastomosed	VERB	anastomose	JOIN_CONNECT	(V*)
+4333	10	to	ADP	to	-	(CO-PATIENT*
+4333	11	the	DET	the	-	*
+4333	12	terminal	NOUN	terminal	-	*
+4333	13	ileum	NOUN	ileum	-	*)
+4333	14	.	PUNCT	.	-	*
+
+# sentence_id = 5230
+# text = Autocorrect just uppercased the word PICKLE . I do n't know why .
+5230	0	Autocorrect	NOUN	autocorrect	-	(AGENT*)
+5230	1	just	ADV	just	-	*
+5230	2	uppercased	VERB	uppercase	USE	(V*)
+5230	3	the	DET	the	-	(PATIENT*
+5230	4	word	NOUN	word	-	*
+5230	5	PICKLE	NOUN	pickle	-	*)
+5230	6	.	PUNCT	.	-	*
+5230	7	I	PRON	I	-	*
+5230	8	do	AUX	do	-	*
+5230	9	n't	PART	not	-	*
+5230	10	know	VERB	know	-	*
+5230	11	why	SCONJ	why	-	*
+5230	12	.	PUNCT	.	-	*
+
+# sentence_id = 7032
+# text = This is the very reason you detusk the baby pigs .
+7032	0	This	PRON	this	-	*
+7032	1	is	AUX	be	-	*
+7032	2	the	DET	the	-	*
+7032	3	very	ADJ	very	-	*
+7032	4	reason	NOUN	reason	-	*
+7032	5	you	PRON	you	-	(AGENT*)
+7032	6	detusk	VERB	detusk	REMOVE_TAKE-AWAY_KIDNAP	(V*)
+7032	7	the	DET	the	-	(PATIENT*
+7032	8	baby	NOUN	baby	-	*
+7032	9	pigs	NOUN	pig	-	*)
+7032	10	.	PUNCT	.	-	*
+
+# sentence_id = 1811
+# text = For cloning , we dephosphorylate the RNAs with shrimp nuclease and deproteinate the reaction with proteinase K , followed by phenol / chloroform extraction .
+1811	0	For	ADP	for	-	(PURPOSE*
+1811	1	cloning	NOUN	cloning	-	*)
+1811	2	,	PUNCT	,	-	*
+1811	3	we	PRON	we	-	(AGENT*)
+1811	4	dephosphorylate	VERB	dephosphorylate	DESTROY	(V*)
+1811	5	the	DET	the	-	(PATIENT*
+1811	6	RNAs	NOUN	rna	-	*)
+1811	7	with	ADP	with	-	(INSTRUMENT*
+1811	8	shrimp	NOUN	shrimp	-	*
+1811	9	nuclease	NOUN	nuclease	-	*)
+1811	10	and	CCONJ	and	-	*
+1811	11	deproteinate	VERB	deproteinate	-	*
+1811	12	the	DET	the	-	*
+1811	13	reaction	NOUN	reaction	-	*
+1811	14	with	ADP	with	-	*
+1811	15	proteinase	NOUN	proteinase	-	*
+1811	16	K	NOUN	k	-	*
+1811	17	,	PUNCT	,	-	*
+1811	18	followed	VERB	follow	-	*
+1811	19	by	ADP	by	-	*
+1811	20	phenol	NOUN	phenol	-	*
+1811	21	/	SYM	/	-	*
+1811	22	chloroform	NOUN	chloroform	-	*
+1811	23	extraction	NOUN	extraction	-	*
+1811	24	.	PUNCT	.	-	*
+
+# sentence_id = 5040
+# text = John aromatized the house with the smell of his cooking bacon .
+5040	0	John	PROPN	John	-	(AGENT*)
+5040	1	aromatized	VERB	aromatize	ODORIZE	(V*)
+5040	2	the	DET	the	-	(DESTINATION*
+5040	3	house	NOUN	house	-	*)
+5040	4	with	ADP	with	-	(INSTRUMENT*
+5040	5	the	DET	the	-	*
+5040	6	smell	NOUN	smell	-	*
+5040	7	of	ADP	of	-	*
+5040	8	his	PRON	he	-	*
+5040	9	cooking	NOUN	cooking	-	*
+5040	10	bacon	NOUN	bacon	-	*)
+5040	11	.	PUNCT	.	-	*
+
+# sentence_id = 6211
+# text = As Mr. Starch seemed to be particularly averse to having his throat cut , we only marooned him on a small key off the bay of Cadenas , where he may have subsisted on a barrel of pork and a keg of molasses , which we left him , up to the present time , for aught I know to the contrary .
+6211	0	As	SCONJ	as	-	*
+6211	1	Mr.	PROPN	Mr.	-	*
+6211	2	Starch	PROPN	Starch	-	*
+6211	3	seemed	VERB	seem	-	*
+6211	4	to	PART	to	-	*
+6211	5	be	AUX	be	-	*
+6211	6	particularly	ADV	particularly	-	*
+6211	7	averse	ADJ	averse	-	*
+6211	8	to	SCONJ	to	-	*
+6211	9	having	VERB	have	-	*
+6211	10	his	PRON	he	-	*
+6211	11	throat	NOUN	throat	-	*
+6211	12	cut	NOUN	cut	-	*
+6211	13	,	PUNCT	,	-	*
+6211	14	we	PRON	we	-	(AGENT*)
+6211	15	only	ADV	only	-	*
+6211	16	marooned	VERB	maroon	GIVE-UP_ABOLISH_ABANDON	(V*)
+6211	17	him	PRON	he	-	(PATIENT*)
+6211	18	on	ADP	on	-	(LOCATION*
+6211	19	a	DET	a	-	*
+6211	20	small	ADJ	small	-	*
+6211	21	key	NOUN	key	-	*
+6211	22	off	ADP	off	-	*
+6211	23	the	DET	the	-	*
+6211	24	bay	NOUN	bay	-	*
+6211	25	of	ADP	of	-	*
+6211	26	Cadenas	PROPN	Cadenas	-	*)
+6211	27	,	PUNCT	,	-	*
+6211	28	where	SCONJ	where	-	*
+6211	29	he	PRON	he	-	*
+6211	30	may	AUX	may	-	*
+6211	31	have	AUX	have	-	*
+6211	32	subsisted	VERB	subsist	-	*
+6211	33	on	ADP	on	-	*
+6211	34	a	DET	a	-	*
+6211	35	barrel	NOUN	barrel	-	*
+6211	36	of	ADP	of	-	*
+6211	37	pork	NOUN	pork	-	*
+6211	38	and	CCONJ	and	-	*
+6211	39	a	DET	a	-	*
+6211	40	keg	NOUN	keg	-	*
+6211	41	of	ADP	of	-	*
+6211	42	molasses	NOUN	molasses	-	*
+6211	43	,	PUNCT	,	-	*
+6211	44	which	PRON	which	-	*
+6211	45	we	PRON	we	-	*
+6211	46	left	VERB	leave	-	*
+6211	47	him	PRON	he	-	*
+6211	48	,	PUNCT	,	-	*
+6211	49	up	ADP	up	-	*
+6211	50	to	ADP	to	-	*
+6211	51	the	DET	the	-	*
+6211	52	present	ADJ	present	-	*
+6211	53	time	NOUN	time	-	*
+6211	54	,	PUNCT	,	-	*
+6211	55	for	ADP	for	-	*
+6211	56	aught	NOUN	aught	-	*
+6211	57	I	PRON	I	-	*
+6211	58	know	VERB	know	-	*
+6211	59	to	ADP	to	-	*
+6211	60	the	DET	the	-	*
+6211	61	contrary	NOUN	contrary	-	*
+6211	62	.	PUNCT	.	-	*
+
+# sentence_id = 5116
+# text = A sharp pain lanced across Nick 's chest and a bubble of air escaped from his tortured lungs , joining dozens of others that sailed lazily toward the surface like helium balloons rising into the sky .
+5116	0	A	DET	a	-	(THEME*
+5116	1	sharp	ADJ	sharp	-	*
+5116	2	pain	NOUN	pain	-	*)
+5116	3	lanced	VERB	lance	RUN	(V*)
+5116	4	across	ADP	across	-	(LOCATION*
+5116	5	Nick	PROPN	Nick	-	*
+5116	6	's	PART	's	-	*
+5116	7	chest	NOUN	chest	-	*)
+5116	8	and	CCONJ	and	-	*
+5116	9	a	DET	a	-	*
+5116	10	bubble	NOUN	bubble	-	*
+5116	11	of	ADP	of	-	*
+5116	12	air	NOUN	air	-	*
+5116	13	escaped	VERB	escape	-	*
+5116	14	from	ADP	from	-	*
+5116	15	his	PRON	he	-	*
+5116	16	tortured	VERB	torture	-	*
+5116	17	lungs	NOUN	lung	-	*
+5116	18	,	PUNCT	,	-	*
+5116	19	joining	VERB	join	-	*
+5116	20	dozens	NOUN	dozen	-	*
+5116	21	of	ADP	of	-	*
+5116	22	others	NOUN	other	-	*
+5116	23	that	PRON	that	-	*
+5116	24	sailed	VERB	sail	-	*
+5116	25	lazily	ADV	lazily	-	*
+5116	26	toward	ADP	toward	-	*
+5116	27	the	DET	the	-	*
+5116	28	surface	NOUN	surface	-	*
+5116	29	like	ADP	like	-	*
+5116	30	helium	NOUN	helium	-	*
+5116	31	balloons	NOUN	balloon	-	*
+5116	32	rising	VERB	rise	-	*
+5116	33	into	ADP	into	-	*
+5116	34	the	DET	the	-	*
+5116	35	sky	NOUN	sky	-	*
+5116	36	.	PUNCT	.	-	*
+
+# sentence_id = 4188
+# text = I entreated them to pursue their dreams with unrelenting passion .
+4188	0	I	PRON	I	-	(AGENT*)
+4188	1	entreated	VERB	entreat	ASK_REQUEST	(V*)
+4188	2	them	PRON	they	-	(RECIPIENT*)
+4188	3	to	PART	to	-	(GOAL*
+4188	4	pursue	VERB	pursue	-	*
+4188	5	their	PRON	they	-	*
+4188	6	dreams	NOUN	dream	-	*
+4188	7	with	ADP	with	-	*
+4188	8	unrelenting	ADJ	unrelenting	-	*
+4188	9	passion	NOUN	passion	-	*)
+4188	10	.	PUNCT	.	-	*
+
+# sentence_id = 3573
+# text = She spritzed the top section of hair with water .
+3573	0	She	PRON	she	-	(AGENT*)
+3573	1	spritzed	VERB	sprit	WET	(V*)
+3573	2	the	DET	the	-	(PATIENT*
+3573	3	top	ADJ	top	-	*
+3573	4	section	NOUN	section	-	*
+3573	5	of	ADP	of	-	*
+3573	6	hair	NOUN	hair	-	*)
+3573	7	with	ADP	with	-	(INSTRUMENT*
+3573	8	water	NOUN	water	-	*)
+3573	9	.	PUNCT	.	-	*
+
+# sentence_id = 3728
+# text = On behalf of that party , he ideated a few populist policies like free Internet in every hostel room and introducing a cheaper student pass for the local metro .
+3728	0	On	ADP	on	-	*
+3728	1	behalf	NOUN	behalf	-	*
+3728	2	of	ADP	of	-	*
+3728	3	that	DET	that	-	*
+3728	4	party	NOUN	party	-	*
+3728	5	,	PUNCT	,	-	*
+3728	6	he	PRON	he	-	(AGENT*)
+3728	7	ideated	VERB	ideat	IMAGINE	(V*)
+3728	8	a	DET	a	-	(THEME*
+3728	9	few	ADJ	few	-	*
+3728	10	populist	ADJ	populist	-	*
+3728	11	policies	NOUN	policy	-	*
+3728	12	like	ADP	like	-	*
+3728	13	free	ADJ	free	-	*
+3728	14	Internet	NOUN	internet	-	*
+3728	15	in	ADP	in	-	*
+3728	16	every	DET	every	-	*
+3728	17	hostel	NOUN	hostel	-	*
+3728	18	room	NOUN	room	-	*
+3728	19	and	CCONJ	and	-	*
+3728	20	introducing	VERB	introduce	-	*
+3728	21	a	DET	a	-	*
+3728	22	cheaper	ADJ	cheap	-	*
+3728	23	student	NOUN	student	-	*
+3728	24	pass	NOUN	pass	-	*
+3728	25	for	ADP	for	-	*
+3728	26	the	DET	the	-	*
+3728	27	local	ADJ	local	-	*
+3728	28	metro	NOUN	metro	-	*)
+3728	29	.	PUNCT	.	-	*
+
+# sentence_id = 0
+# text = Later still he moved to Indiana , and I was at Hawaii , and he wangled a job for me at Indiana .
+0	0	Later	ADV	late	-	(TIME*
+0	1	still	ADV	still	-	*)
+0	2	he	PRON	he	-	*
+0	3	moved	VERB	move	-	*
+0	4	to	ADP	to	-	*
+0	5	Indiana	PROPN	Indiana	-	*
+0	6	,	PUNCT	,	-	*
+0	7	and	CCONJ	and	-	*
+0	8	I	PRON	I	-	*
+0	9	was	AUX	be	-	*
+0	10	at	ADP	at	-	*
+0	11	Hawaii	PROPN	Hawaii	-	*
+0	12	,	PUNCT	,	-	*
+0	13	and	CCONJ	and	-	*
+0	14	he	PRON	he	-	(AGENT*)
+0	15	wangled	VERB	wangle	DECEIVE	(V*)
+0	16	a	DET	a	-	(THEME*
+0	17	job	NOUN	job	-	*)
+0	18	for	ADP	for	-	(BENEFICIARY*
+0	19	me	PRON	I	-	*)
+0	20	at	ADP	at	-	(LOCATION*
+0	21	Indiana	PROPN	Indiana	-	*)
+0	22	.	PUNCT	.	-	*
+
+# sentence_id = 7046
+# text = When I was at uni , I think I could count the number of students who lived away from home and had a car on one hand - the rest made do with a young person 's railcard .
+7046	0	When	SCONJ	when	-	*
+7046	1	I	PRON	I	-	*
+7046	2	was	AUX	be	-	*
+7046	3	at	ADP	at	-	*
+7046	4	uni	NOUN	uni	-	*
+7046	5	,	PUNCT	,	-	*
+7046	6	I	PRON	I	-	*
+7046	7	think	VERB	think	-	*
+7046	8	I	PRON	I	-	*
+7046	9	could	AUX	could	-	*
+7046	10	count	VERB	count	-	*
+7046	11	the	DET	the	-	*
+7046	12	number	NOUN	number	-	*
+7046	13	of	ADP	of	-	*
+7046	14	students	NOUN	student	-	*
+7046	15	who	PRON	who	-	*
+7046	16	lived	VERB	live	-	*
+7046	17	away	ADV	away	-	*
+7046	18	from	ADP	from	-	*
+7046	19	home	NOUN	home	-	*
+7046	20	and	CCONJ	and	-	*
+7046	21	had	VERB	have	-	*
+7046	22	a	DET	a	-	*
+7046	23	car	NOUN	car	-	*
+7046	24	on	ADP	on	-	*
+7046	25	one	NUM	one	-	*
+7046	26	hand	NOUN	hand	-	*
+7046	27	-	PUNCT	-	-	*
+7046	28	the	DET	the	-	(THEME*
+7046	29	rest	NOUN	rest	-	*)
+7046	30	made	VERB	make	EXIST-WITH-FEATURE	(V*)
+7046	31	do	VERB	do	-	*
+7046	32	with	ADP	with	-	(ATTRIBUTE*
+7046	33	a	DET	a	-	*
+7046	34	young	ADJ	young	-	*
+7046	35	person	NOUN	person	-	*
+7046	36	's	PART	's	-	*
+7046	37	railcard	NOUN	railcard	-	*)
+7046	38	.	PUNCT	.	-	*
+
+# sentence_id = 556
+# text = She babbled a lot , in an age - appropriate way with reduplicated syllables .
+556	0	She	PRON	she	-	(AGENT*)
+556	1	babbled	VERB	babble	SPEAK	(V*)
+556	2	a	DET	a	-	(EXTENT*
+556	3	lot	NOUN	lot	-	*)
+556	4	,	PUNCT	,	-	*
+556	5	in	ADP	in	-	*
+556	6	an	DET	a	-	*
+556	7	age	NOUN	age	-	*
+556	8	-	PUNCT	-	-	*
+556	9	appropriate	ADJ	appropriate	-	*
+556	10	way	NOUN	way	-	*
+556	11	with	ADP	with	-	*
+556	12	reduplicated	ADJ	reduplicated	-	*
+556	13	syllables	NOUN	syllable	-	*
+556	14	.	PUNCT	.	-	*
+
+# sentence_id = 2740
+# text = The wounds from the primary skin tumor fungated , becoming malodorous and quite painful .
+2740	0	The	DET	the	-	(PATIENT*
+2740	1	wounds	NOUN	wound	-	*
+2740	2	from	ADP	from	-	*
+2740	3	the	DET	the	-	*
+2740	4	primary	ADJ	primary	-	*
+2740	5	skin	NOUN	skin	-	*
+2740	6	tumor	NOUN	tumor	-	*)
+2740	7	fungated	VERB	fungate	CHANGE	(V*)
+2740	8	,	PUNCT	,	-	*
+2740	9	becoming	VERB	become	-	*
+2740	10	malodorous	ADJ	malodorous	-	*
+2740	11	and	CCONJ	and	-	*
+2740	12	quite	ADV	quite	-	*
+2740	13	painful	ADJ	painful	-	*
+2740	14	.	PUNCT	.	-	*
+
+# sentence_id = 4823
+# text = From a distance the T and C Tower sparkles in the southern Taiwan sunshine .
+4823	0	From	ADP	from	-	(ATTRIBUTE*
+4823	1	a	DET	a	-	*
+4823	2	distance	NOUN	distance	-	*)
+4823	3	the	DET	the	-	(THEME*
+4823	4	T	PROPN	T	-	*
+4823	5	and	CCONJ	and	-	*
+4823	6	C	PROPN	C	-	*
+4823	7	Tower	PROPN	Tower	-	*)
+4823	8	sparkles	VERB	sparkle	LIGHT_SHINE	(V*)
+4823	9	in	ADP	in	-	(LOCATION*
+4823	10	the	DET	the	-	*
+4823	11	southern	ADJ	southern	-	*
+4823	12	Taiwan	PROPN	Taiwan	-	*
+4823	13	sunshine	NOUN	sunshine	-	*)
+4823	14	.	PUNCT	.	-	*
+
+# sentence_id = 4653
+# text = Mr. Jensen righted the spilled glass and sopped the water with his napkin .
+4653	0	Mr.	PROPN	Mr.	-	(AGENT*
+4653	1	Jensen	PROPN	Jensen	-	*)
+4653	2	righted	VERB	right	-	*
+4653	3	the	DET	the	-	*
+4653	4	spilled	VERB	spill	-	*
+4653	5	glass	NOUN	glass	-	*
+4653	6	and	CCONJ	and	-	*
+4653	7	sopped	VERB	sop	ABSORB	(V*)
+4653	8	the	DET	the	-	(THEME*
+4653	9	water	NOUN	water	-	*)
+4653	10	with	ADP	with	-	(INSTRUMENT*
+4653	11	his	PRON	he	-	*
+4653	12	napkin	NOUN	napkin	-	*)
+4653	13	.	PUNCT	.	-	*
+
+# sentence_id = 6803
+# text = If we rerun the 2004 elections , its going to be like Groundhog 's Day .
+6803	0	If	SCONJ	if	-	*
+6803	1	we	PRON	we	-	(AGENT*)
+6803	2	rerun	VERB	rerun	PERFORM	(V*)
+6803	3	the	DET	the	-	(THEME*
+6803	4	2004	NUM	2004	-	*
+6803	5	elections	NOUN	election	-	*)
+6803	6	,	PUNCT	,	-	*
+6803	7	its	PRON	its	-	*
+6803	8	going	VERB	go	-	*
+6803	9	to	PART	to	-	*
+6803	10	be	AUX	be	-	*
+6803	11	like	ADP	like	-	*
+6803	12	Groundhog	PROPN	Groundhog	-	*
+6803	13	's	PART	's	-	*
+6803	14	Day	PROPN	Day	-	*
+6803	15	.	PUNCT	.	-	*
+
+# sentence_id = 3261
+# text = He parodied Confucian teachings by saying " Of all sins , filial piety is the worst ; of all virtues licentiousness is the greatest         . .
+3261	0	He	PRON	he	-	(AGENT*)
+3261	1	parodied	VERB	parody	JOKE	(V*)
+3261	2	Confucian	ADJ	Confucian	-	(THEME*
+3261	3	teachings	NOUN	teaching	-	*)
+3261	4	by	SCONJ	by	-	*
+3261	5	saying	VERB	say	-	*
+3261	6	"	PUNCT	"	-	*
+3261	7	Of	ADP	of	-	*
+3261	8	all	DET	all	-	*
+3261	9	sins	NOUN	sin	-	*
+3261	10	,	PUNCT	,	-	*
+3261	11	filial	ADJ	filial	-	*
+3261	12	piety	NOUN	piety	-	*
+3261	13	is	AUX	be	-	*
+3261	14	the	DET	the	-	*
+3261	15	worst	ADJ	bad	-	*
+3261	16	;	PUNCT	;	-	*
+3261	17	of	ADP	of	-	*
+3261	18	all	DET	all	-	*
+3261	19	virtues	NOUN	virtue	-	*
+3261	20	licentiousness	NOUN	licentiousness	-	*
+3261	21	is	AUX	be	-	*
+3261	22	the	DET	the	-	*
+3261	23	greatest        	ADJ	great	-	*
+3261	24	.	PUNCT	.	-	*
+3261	25	.	PUNCT	.	-	*
+
+# sentence_id = 5816
+# text = You have to open the back of the camera -LRB- in a darkroom -RRB- to rewind the film .
+5816	0	You	PRON	you	-	(AGENT*)
+5816	1	have	VERB	have	-	*
+5816	2	to	PART	to	-	*
+5816	3	open	VERB	open	-	*
+5816	4	the	DET	the	-	*
+5816	5	back	NOUN	back	-	*
+5816	6	of	ADP	of	-	*
+5816	7	the	DET	the	-	*
+5816	8	camera	NOUN	camera	-	*
+5816	9	-LRB-	PUNCT	-lrb-	-	*
+5816	10	in	ADP	in	-	*
+5816	11	a	DET	a	-	*
+5816	12	darkroom	NOUN	darkroom	-	*
+5816	13	-RRB-	NOUN	-rrb-	-	*
+5816	14	to	PART	to	-	*
+5816	15	rewind	VERB	rewind	INVERT_	(V*)
+5816	16	the	DET	the	-	(PATIENT*
+5816	17	film	NOUN	film	-	*)
+5816	18	.	PUNCT	.	-	*
+
+# sentence_id = 6670
+# text = Ymirites do not aberrate in such fashion , said Thua stiffly .
+6670	0	Ymirites	NOUN	ymirite	-	(AGENT*)
+6670	1	do	AUX	do	-	*
+6670	2	not	PART	not	-	*
+6670	3	aberrate	VERB	aberrate	DIVERSIFY	(V*)
+6670	4	in	ADP	in	-	(ATTRIBUTE*
+6670	5	such	ADJ	such	-	*
+6670	6	fashion	NOUN	fashion	-	*)
+6670	7	,	PUNCT	,	-	*
+6670	8	said	VERB	say	-	*
+6670	9	Thua	PROPN	Thua	-	*
+6670	10	stiffly	ADV	stiffly	-	*
+6670	11	.	PUNCT	.	-	*
+
+# sentence_id = 3342
+# text = In time , Bush sundered the party that rallied behind him .
+3342	0	In	ADP	in	-	(TIME*
+3342	1	time	NOUN	time	-	*)
+3342	2	,	PUNCT	,	-	*
+3342	3	Bush	PROPN	Bush	-	(AGENT*)
+3342	4	sundered	VERB	sunder	BREAK_DETERIORATE	(V*)
+3342	5	the	DET	the	-	(PATIENT*
+3342	6	party	NOUN	party	-	*
+3342	7	that	PRON	that	-	*
+3342	8	rallied	VERB	rally	-	*
+3342	9	behind	ADP	behind	-	*
+3342	10	him	PRON	he	-	*)
+3342	11	.	PUNCT	.	-	*
+
+# sentence_id = 498
+# text = They drop shipped them directly to me from Redranger .
+498	0	They	PRON	they	-	(AGENT*)
+498	1	drop	VERB	drop	CARRY_TRANSPORT	(V*)
+498	2	shipped	VERB	ship	-	*
+498	3	them	PRON	they	-	(THEME*)
+498	4	directly	ADV	directly	-	*
+498	5	to	ADP	to	-	(DESTINATION*
+498	6	me	PRON	I	-	*)
+498	7	from	ADP	from	-	(SOURCE*
+498	8	Redranger	PROPN	Redranger	-	*)
+498	9	.	PUNCT	.	-	*
+
+# sentence_id = 6710
+# text = This is sometimes called levying distress or distraining upon goods .
+6710	0	This	PRON	this	-	*
+6710	1	is	AUX	be	-	*
+6710	2	sometimes	ADV	sometimes	-	*
+6710	3	called	VERB	call	-	*
+6710	4	levying	VERB	levy	-	*
+6710	5	distress	NOUN	distress	-	*
+6710	6	or	CCONJ	or	-	*
+6710	7	distraining	VERB	distrain	TAKE	(V*)
+6710	8	upon	ADP	upon	-	(ASSET*
+6710	9	goods	NOUN	goods	-	*)
+6710	10	.	PUNCT	.	-	*
+
+# sentence_id = 6842
+# text = Accommodative esotropia decompensated to cyclic esotropia in a 6 - year - old boy .
+6842	0	Accommodative	ADJ	accommodative	-	(PATIENT*
+6842	1	esotropia	NOUN	esotropia	-	*)
+6842	2	decompensated	VERB	decompensate	WORSEN	(V*)
+6842	3	to	ADP	to	-	(PRODUCT*
+6842	4	cyclic	ADJ	cyclic	-	*
+6842	5	esotropia	NOUN	esotropia	-	*)
+6842	6	in	ADP	in	-	(SOURCE*
+6842	7	a	DET	a	-	*
+6842	8	6	NUM	6	-	*
+6842	9	-	PUNCT	-	-	*
+6842	10	year	NOUN	year	-	*
+6842	11	-	PUNCT	-	-	*
+6842	12	old	ADJ	old	-	*
+6842	13	boy	NOUN	boy	-	*)
+6842	14	.	PUNCT	.	-	*
+

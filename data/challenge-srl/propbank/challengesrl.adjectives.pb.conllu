@@ -1,0 +1,2451 @@
+# sentence_id = 1586
+# text = Those workers saw their earnings drop 30 percent on average compared to similar nondisplaced workers .
+1586	0	Those	DET	that	-	*
+1586	1	workers	NOUN	worker	-	*
+1586	2	saw	VERB	see	-	*
+1586	3	their	PRON	they	-	*
+1586	4	earnings	NOUN	earnings	-	*
+1586	5	drop	VERB	drop	-	*
+1586	6	30	NUM	30	-	*
+1586	7	percent	NOUN	percent	-	*
+1586	8	on	ADP	on	-	*
+1586	9	average	NOUN	average	-	*
+1586	10	compared	VERB	compare	-	*
+1586	11	to	ADP	to	-	*
+1586	12	similar	ADJ	similar	-	(ARGM-ADJ*)
+1586	13	nondisplaced	ADJ	nondisplaced	nondisplaced.01	(V*)
+1586	14	workers	NOUN	worker	-	(ARG1*)
+1586	15	.	PUNCT	.	-	*
+
+# sentence_id = 974
+# text = Received fresh labeled " right pelvic side wall lymph node " is a 1.2 x 1.0 x 0.7 cm lymph node which grossly is necrotic .
+974	0	Received	VERB	receive	-	*
+974	1	fresh	ADJ	fresh	-	*
+974	2	labeled	VERB	label	-	*
+974	3	"	PUNCT	"	-	*
+974	4	right	ADJ	right	-	*
+974	5	pelvic	ADJ	pelvic	-	*
+974	6	side	NOUN	side	-	*
+974	7	wall	NOUN	wall	-	*
+974	8	lymph	NOUN	lymph	-	*
+974	9	node	NOUN	node	-	*
+974	10	"	PUNCT	"	-	*
+974	11	is	AUX	be	-	*
+974	12	a	DET	a	-	*
+974	13	1.2	NUM	1.2	-	*
+974	14	x	SYM	x	-	*
+974	15	1.0	NUM	1.0	-	*
+974	16	x	SYM	x	-	*
+974	17	0.7	NUM	0.7	-	*
+974	18	cm	NOUN	cm	-	*
+974	19	lymph	NOUN	lymph	-	*
+974	20	node	NOUN	node	-	*
+974	21	which	PRON	which	-	(ARG1*)
+974	22	grossly	ADV	grossly	-	(ARGM-ADV*)
+974	23	is	AUX	be	-	*
+974	24	necrotic	ADJ	necrotic	necrotize.101	(V*)
+974	25	.	PUNCT	.	-	*
+
+# sentence_id = 406
+# text = Haha it 's actually been going pretty well ... i ve found that the more organized I am , the more laid back that allows me to be , since I know where everything stands -LRB- control freak much ? Haha .. -RRB- .
+406	0	Haha	INTJ	haha	-	*
+406	1	it	PRON	it	-	*
+406	2	's	AUX	be	-	*
+406	3	actually	ADV	actually	-	*
+406	4	been	AUX	be	-	*
+406	5	going	VERB	go	-	*
+406	6	pretty	ADV	pretty	-	*
+406	7	well	ADV	well	-	*
+406	8	...	PUNCT	...	-	*
+406	9	i	PRON	I	-	*
+406	10	ve	AUX	have	-	*
+406	11	found	VERB	find	-	*
+406	12	that	SCONJ	that	-	*
+406	13	the	DET	the	-	*
+406	14	more	ADV	more	-	*
+406	15	organized	VERB	organize	-	*
+406	16	I	PRON	I	-	*
+406	17	am	AUX	be	-	*
+406	18	,	PUNCT	,	-	*
+406	19	the	DET	the	-	*
+406	20	more	ADV	more	-	(ARGM-EXT*)
+406	21	laid	ADJ	laid	laid_back.05	(V*
+406	22	back	ADV	back	-	*)
+406	23	that	PRON	that	-	*
+406	24	allows	VERB	allow	-	*
+406	25	me	PRON	I	-	(ARG1*)
+406	26	to	PART	to	-	*
+406	27	be	VERB	be	-	*
+406	28	,	PUNCT	,	-	*
+406	29	since	SCONJ	since	-	*
+406	30	I	PRON	I	-	*
+406	31	know	VERB	know	-	*
+406	32	where	SCONJ	where	-	*
+406	33	everything	PRON	everything	-	*
+406	34	stands	VERB	stand	-	*
+406	35	-LRB-	PUNCT	-lrb-	-	*
+406	36	control	NOUN	control	-	*
+406	37	freak	NOUN	freak	-	*
+406	38	much	ADV	much	-	*
+406	39	?	PUNCT	?	-	*
+406	40	Haha	INTJ	haha	-	*
+406	41	..	PUNCT	..	-	*
+406	42	-RRB-	INTJ	-rrb-	-	*
+406	43	.	PUNCT	.	-	*
+
+# sentence_id = 793
+# text = Man runs into Ross Campground Church , announces he 's high on " bath salts " .
+793	0	Man	NOUN	man	-	*
+793	1	runs	VERB	run	-	*
+793	2	into	ADP	into	-	*
+793	3	Ross	PROPN	Ross	-	*
+793	4	Campground	PROPN	Campground	-	*
+793	5	Church	PROPN	Church	-	*
+793	6	,	PUNCT	,	-	*
+793	7	announces	VERB	announce	-	*
+793	8	he	PRON	he	-	(ARG1*)
+793	9	's	AUX	be	-	*
+793	10	high	ADJ	high	high.04	(V*)
+793	11	on	ADP	on	-	(ARG0*
+793	12	"	PUNCT	"	-	*
+793	13	bath	NOUN	bath	-	*
+793	14	salts	NOUN	salt	-	*
+793	15	"	PUNCT	"	-	*)
+793	16	.	PUNCT	.	-	*
+
+# sentence_id = 135
+# text = Notwithstanding the public debates , the framers knew that slavery was immoral .
+135	0	Notwithstanding	VERB	notwithstand	-	*
+135	1	the	DET	the	-	*
+135	2	public	ADJ	public	-	*
+135	3	debates	NOUN	debate	-	*
+135	4	,	PUNCT	,	-	*
+135	5	the	DET	the	-	*
+135	6	framers	NOUN	framer	-	*
+135	7	knew	VERB	know	-	*
+135	8	that	SCONJ	that	-	*
+135	9	slavery	NOUN	slavery	-	(ARG1*)
+135	10	was	AUX	be	-	*
+135	11	immoral	ADJ	immoral	immoral.01	(V*)
+135	12	.	PUNCT	.	-	*
+
+# sentence_id = 417
+# text = Excellent ! I 'm sure it will be delish !
+417	0	Excellent	ADJ	excellent	-	*
+417	1	!	PUNCT	!	-	*
+417	2	I	PRON	I	-	*
+417	3	'm	AUX	be	-	*
+417	4	sure	ADJ	sure	-	*
+417	5	it	PRON	it	-	(ARG1*)
+417	6	will	AUX	will	-	(ARGM-MOD*)
+417	7	be	AUX	be	-	*
+417	8	delish	ADJ	delish	delicious.01	(V*)
+417	9	!	PUNCT	!	-	*
+
+# sentence_id = 243
+# text = They pay money to build the hospital for you . How can you be so ungrateful ?
+243	0	They	PRON	they	-	*
+243	1	pay	VERB	pay	-	*
+243	2	money	NOUN	money	-	*
+243	3	to	PART	to	-	*
+243	4	build	VERB	build	-	*
+243	5	the	DET	the	-	*
+243	6	hospital	NOUN	hospital	-	*
+243	7	for	ADP	for	-	*
+243	8	you	PRON	you	-	*
+243	9	.	PUNCT	.	-	*
+243	10	How	ADV	how	-	(ARGM-CAU*)
+243	11	can	AUX	can	-	*
+243	12	you	PRON	you	-	(ARG0*)
+243	13	be	AUX	be	-	*
+243	14	so	ADV	so	-	(ARGM-EXT*)
+243	15	ungrateful	ADJ	ungrateful	ungrateful.01	(V*)
+243	16	?	PUNCT	?	-	*
+
+# sentence_id = 1108
+# text = However , COBRA is primary to Medicare when an individual is eligible for Medicare based on ESRD .
+1108	0	However	ADV	however	-	*
+1108	1	,	PUNCT	,	-	*
+1108	2	COBRA	PROPN	COBRA	-	(ARG1*)
+1108	3	is	AUX	be	-	*
+1108	4	primary	ADJ	primary	primary.01	(V*)
+1108	5	to	ADP	to	-	(ARG2*
+1108	6	Medicare	PROPN	Medicare	-	*)
+1108	7	when	SCONJ	when	-	(ARGM-TMP*
+1108	8	an	DET	a	-	*
+1108	9	individual	NOUN	individual	-	*
+1108	10	is	AUX	be	-	*
+1108	11	eligible	ADJ	eligible	-	*
+1108	12	for	ADP	for	-	*
+1108	13	Medicare	PROPN	Medicare	-	*
+1108	14	based	VERB	base	-	*
+1108	15	on	ADP	on	-	*
+1108	16	ESRD	NOUN	esrd	-	*)
+1108	17	.	PUNCT	.	-	*
+
+# sentence_id = 1495
+# text = The ref was there and clearly determined that the kick was a result of his leg unintentionally hitting it due to the tackle ( which was premature of the ball arriving - thus could have easily been called PI ) .
+1495	0	The	DET	the	-	*
+1495	1	ref	NOUN	ref	-	*
+1495	2	was	AUX	be	-	*
+1495	3	there	ADV	there	-	*
+1495	4	and	CCONJ	and	-	*
+1495	5	clearly	ADV	clearly	-	*
+1495	6	determined	VERB	determine	-	*
+1495	7	that	SCONJ	that	-	*
+1495	8	the	DET	the	-	*
+1495	9	kick	NOUN	kick	-	*
+1495	10	was	AUX	be	-	*
+1495	11	a	DET	a	-	*
+1495	12	result	NOUN	result	-	*
+1495	13	of	ADP	of	-	*
+1495	14	his	PRON	he	-	*
+1495	15	leg	NOUN	leg	-	*
+1495	16	unintentionally	ADV	unintentionally	-	*
+1495	17	hitting	VERB	hit	-	*
+1495	18	it	PRON	it	-	*
+1495	19	due	ADP	due	-	*
+1495	20	to	ADP	to	-	*
+1495	21	the	DET	the	-	*
+1495	22	tackle	NOUN	tackle	-	*
+1495	23	(	PUNCT	(	-	*
+1495	24	which	PRON	which	-	(ARG1*)
+1495	25	was	AUX	be	-	*
+1495	26	premature	ADJ	premature	premature.01	(V*)
+1495	27	of	ADP	of	-	(ARG2*
+1495	28	the	DET	the	-	*
+1495	29	ball	NOUN	ball	-	*
+1495	30	arriving	VERB	arrive	-	*)
+1495	31	-	PUNCT	-	-	*
+1495	32	thus	ADV	thus	-	*
+1495	33	could	AUX	could	-	*
+1495	34	have	AUX	have	-	*
+1495	35	easily	ADV	easily	-	*
+1495	36	been	AUX	be	-	*
+1495	37	called	VERB	call	-	*
+1495	38	PI	NOUN	pi	-	*
+1495	39	)	PUNCT	)	-	*
+1495	40	.	PUNCT	.	-	*
+
+# sentence_id = 1392
+# text = The economy is screwed , we do n't know how to unscrew it , and inflation is about the only tool we 've got to manipulate it .
+1392	0	The	DET	the	-	(ARG1*
+1392	1	economy	NOUN	economy	-	*)
+1392	2	is	AUX	be	-	*
+1392	3	screwed	VERB	screw	screw.02	(V*)
+1392	4	,	PUNCT	,	-	*
+1392	5	we	PRON	we	-	*
+1392	6	do	AUX	do	-	*
+1392	7	n't	PART	not	-	*
+1392	8	know	VERB	know	-	*
+1392	9	how	SCONJ	how	-	*
+1392	10	to	PART	to	-	*
+1392	11	unscrew	VERB	unsc	-	*
+1392	12	it	PRON	it	-	*
+1392	13	,	PUNCT	,	-	*
+1392	14	and	CCONJ	and	-	*
+1392	15	inflation	NOUN	inflation	-	*
+1392	16	is	AUX	be	-	*
+1392	17	about	ADV	about	-	*
+1392	18	the	DET	the	-	*
+1392	19	only	ADJ	only	-	*
+1392	20	tool	NOUN	tool	-	*
+1392	21	we	PRON	we	-	*
+1392	22	've	AUX	have	-	*
+1392	23	got	VERB	get	-	*
+1392	24	to	PART	to	-	*
+1392	25	manipulate	VERB	manipulate	-	*
+1392	26	it	PRON	it	-	*
+1392	27	.	PUNCT	.	-	*
+
+# sentence_id = 211
+# text = I thought it was a type of amber -LRB- a tree resin product -RRB- , but it is totally unrelated .
+211	0	I	PRON	I	-	*
+211	1	thought	VERB	think	-	*
+211	2	it	PRON	it	-	*
+211	3	was	AUX	be	-	*
+211	4	a	DET	a	-	*
+211	5	type	NOUN	type	-	*
+211	6	of	ADP	of	-	*
+211	7	amber	NOUN	amber	-	*
+211	8	-LRB-	PUNCT	-lrb-	-	*
+211	9	a	DET	a	-	*
+211	10	tree	NOUN	tree	-	*
+211	11	resin	NOUN	resin	-	*
+211	12	product	NOUN	product	-	*
+211	13	-RRB-	NOUN	-rrb-	-	*
+211	14	,	PUNCT	,	-	*
+211	15	but	CCONJ	but	-	*
+211	16	it	PRON	it	-	(ARG1*)
+211	17	is	AUX	be	-	*
+211	18	totally	ADV	totally	-	(ARGM-EXT*)
+211	19	unrelated	ADJ	unrelated	unrelated.01	(V*)
+211	20	.	PUNCT	.	-	*
+
+# sentence_id = 993
+# text = And to know that he was " inhumane " to his housekeeper makes me feel just that much safer .
+993	0	And	CCONJ	and	-	*
+993	1	to	PART	to	-	*
+993	2	know	VERB	know	-	*
+993	3	that	SCONJ	that	-	*
+993	4	he	PRON	he	-	(ARG0*)
+993	5	was	AUX	be	-	*
+993	6	"	PUNCT	"	-	*
+993	7	inhumane	ADJ	inhumane	inhumane.01	(V*)
+993	8	"	PUNCT	"	-	*
+993	9	to	ADP	to	-	(ARG2*
+993	10	his	PRON	he	-	*
+993	11	housekeeper	NOUN	housekeeper	-	*)
+993	12	makes	VERB	make	-	*
+993	13	me	PRON	I	-	*
+993	14	feel	VERB	feel	-	*
+993	15	just	ADV	just	-	*
+993	16	that	ADV	that	-	*
+993	17	much	ADV	much	-	*
+993	18	safer	ADJ	safe	-	*
+993	19	.	PUNCT	.	-	*
+
+# sentence_id = 33
+# text = Growing up poor and white in a mostly non white school was horrible .
+33	0	Growing	VERB	Growing	-	(ARG1*
+33	1	up	ADP	up	-	*
+33	2	poor	ADJ	poor	-	*
+33	3	and	CCONJ	and	-	*
+33	4	white	ADJ	white	-	*
+33	5	in	ADP	in	-	*
+33	6	a	DET	a	-	*
+33	7	mostly	ADV	mostly	-	*
+33	8	non	ADV	non	-	*
+33	9	white	ADJ	white	-	*
+33	10	school	NOUN	school	-	*)
+33	11	was	AUX	be	-	*
+33	12	horrible	ADJ	horrible	horrible.01	(V*)
+33	13	.	PUNCT	.	-	*
+
+# sentence_id = 604
+# text = When the Government is through with his education he will be a top- notch printer , the kind that every composing - room foreman will welcome .
+604	0	When	SCONJ	when	-	*
+604	1	the	DET	the	-	(ARG0*
+604	2	Government	NOUN	government	-	*)
+604	3	is	AUX	be	-	*
+604	4	through	ADV	through	through.01	(V*)
+604	5	with	ADP	with	-	(ARG1*
+604	6	his	PRON	he	-	*
+604	7	education	NOUN	education	-	*)
+604	8	he	PRON	he	-	*
+604	9	will	AUX	will	-	*
+604	10	be	AUX	be	-	*
+604	11	a	DET	a	-	*
+604	12	top-	ADJ	top-	-	*
+604	13	notch	NOUN	notch	-	*
+604	14	printer	NOUN	printer	-	*
+604	15	,	PUNCT	,	-	*
+604	16	the	DET	the	-	*
+604	17	kind	NOUN	kind	-	*
+604	18	that	PRON	that	-	*
+604	19	every	DET	every	-	*
+604	20	composing	NOUN	compose	-	*
+604	21	-	PUNCT	-	-	*
+604	22	room	NOUN	room	-	*
+604	23	foreman	NOUN	foreman	-	*
+604	24	will	AUX	will	-	*
+604	25	welcome	VERB	welcome	-	*
+604	26	.	PUNCT	.	-	*
+
+# sentence_id = 1361
+# text = Evaluation in the Emergency Department included an abdominal pelvic CT , and this revealed a 7 x 5 - cm regular mass in the transverse colon .
+1361	0	Evaluation	NOUN	evaluation	-	*
+1361	1	in	ADP	in	-	*
+1361	2	the	DET	the	-	*
+1361	3	Emergency	NOUN	emergency	-	*
+1361	4	Department	PROPN	Department	-	*
+1361	5	included	VERB	include	-	*
+1361	6	an	DET	a	-	*
+1361	7	abdominal	ADJ	abdominal	-	*
+1361	8	pelvic	NOUN	pelvic	-	*
+1361	9	CT	NOUN	ct	-	*
+1361	10	,	PUNCT	,	-	*
+1361	11	and	CCONJ	and	-	*
+1361	12	this	PRON	this	-	*
+1361	13	revealed	VERB	reveal	-	*
+1361	14	a	DET	a	-	*
+1361	15	7	NUM	7	-	*
+1361	16	x	SYM	x	-	*
+1361	17	5	NUM	5	-	*
+1361	18	-	PUNCT	-	-	*
+1361	19	cm	NOUN	cm	-	*
+1361	20	regular	ADJ	regular	regular.02	(V*)
+1361	21	mass	NOUN	mass	-	(ARG1*)
+1361	22	in	ADP	in	-	*
+1361	23	the	DET	the	-	*
+1361	24	transverse	ADJ	transverse	-	*
+1361	25	colon	NOUN	colon	-	*
+1361	26	.	PUNCT	.	-	*
+
+# sentence_id = 430
+# text = I gave her a gift , but her response was cold .
+430	0	I	PRON	I	-	*
+430	1	gave	VERB	give	-	*
+430	2	her	PRON	she	-	*
+430	3	a	DET	a	-	*
+430	4	gift	NOUN	gift	-	*
+430	5	,	PUNCT	,	-	*
+430	6	but	CCONJ	but	-	*
+430	7	her	PRON	she	-	(ARG1*
+430	8	response	NOUN	response	-	*)
+430	9	was	AUX	be	-	*
+430	10	cold	ADJ	cold	cold.02	(V*)
+430	11	.	PUNCT	.	-	*
+
+# sentence_id = 684
+# text = Incidentally ; if you 're white , female , black , communist , jewish , whatever ; you can still not get married if you 're gay .
+684	0	Incidentally	ADV	incidentally	-	*
+684	1	;	PUNCT	;	-	*
+684	2	if	SCONJ	if	-	*
+684	3	you	PRON	you	-	(ARG1*)
+684	4	're	AUX	be	-	*
+684	5	white	ADJ	white	-	*
+684	6	,	PUNCT	,	-	*
+684	7	female	ADJ	female	-	*
+684	8	,	PUNCT	,	-	*
+684	9	black	ADJ	black	black.05	(V*)
+684	10	,	PUNCT	,	-	*
+684	11	communist	ADJ	communist	-	*
+684	12	,	PUNCT	,	-	*
+684	13	jewish	ADJ	jewish	-	*
+684	14	,	PUNCT	,	-	*
+684	15	whatever	PRON	whatever	-	*
+684	16	;	PUNCT	;	-	*
+684	17	you	PRON	you	-	*
+684	18	can	AUX	can	-	*
+684	19	still	ADV	still	-	*
+684	20	not	PART	not	-	*
+684	21	get	AUX	get	-	*
+684	22	married	ADJ	married	-	*
+684	23	if	SCONJ	if	-	*
+684	24	you	PRON	you	-	*
+684	25	're	AUX	be	-	*
+684	26	gay	ADJ	gay	-	*
+684	27	.	PUNCT	.	-	*
+
+# sentence_id = 1706
+# text = When they 're done campaigning against motherhood , maybe the GOP will launch an attack on apple pie .
+1706	0	When	SCONJ	when	-	(ARGM-TMP*)
+1706	1	they	PRON	they	-	(ARG1*)
+1706	2	're	AUX	be	-	*
+1706	3	done	VERB	do	done.08	(V*)
+1706	4	campaigning	VERB	campaign	-	(C-ARG1*
+1706	5	against	ADP	against	-	*
+1706	6	motherhood	NOUN	motherhood	-	*)
+1706	7	,	PUNCT	,	-	*
+1706	8	maybe	ADV	maybe	-	*
+1706	9	the	DET	the	-	*
+1706	10	GOP	PROPN	GOP	-	*
+1706	11	will	AUX	will	-	*
+1706	12	launch	VERB	launch	-	*
+1706	13	an	DET	a	-	*
+1706	14	attack	NOUN	attack	-	*
+1706	15	on	ADP	on	-	*
+1706	16	apple	NOUN	apple	-	*
+1706	17	pie	NOUN	pie	-	*
+1706	18	.	PUNCT	.	-	*
+
+# sentence_id = 822
+# text = One thing we could do is sum up all of the degrees of the vertices in this graph and see if that number was odd or even .
+822	0	One	NUM	one	-	*
+822	1	thing	NOUN	thing	-	*
+822	2	we	PRON	we	-	*
+822	3	could	AUX	could	-	*
+822	4	do	VERB	do	-	*
+822	5	is	AUX	be	-	*
+822	6	sum	VERB	sum	-	*
+822	7	up	ADP	up	-	*
+822	8	all	DET	all	-	*
+822	9	of	ADP	of	-	*
+822	10	the	DET	the	-	*
+822	11	degrees	NOUN	degree	-	*
+822	12	of	ADP	of	-	*
+822	13	the	DET	the	-	*
+822	14	vertices	NOUN	vertice	-	*
+822	15	in	ADP	in	-	*
+822	16	this	DET	this	-	*
+822	17	graph	NOUN	graph	-	*
+822	18	and	CCONJ	and	-	*
+822	19	see	VERB	see	-	*
+822	20	if	SCONJ	if	-	*
+822	21	that	DET	that	-	(ARG1*
+822	22	number	NOUN	number	-	*)
+822	23	was	AUX	be	-	*
+822	24	odd	ADJ	odd	odd.02	(V*)
+822	25	or	CCONJ	or	-	*
+822	26	even	ADV	even	-	*
+822	27	.	PUNCT	.	-	*
+
+# sentence_id = 1229
+# text = He brooked no equal , and was heartless in his dealings .
+1229	0	He	PRON	he	-	(ARG0*)
+1229	1	brooked	VERB	brook	-	*
+1229	2	no	DET	no	-	*
+1229	3	equal	ADJ	equal	-	*
+1229	4	,	PUNCT	,	-	*
+1229	5	and	CCONJ	and	-	*
+1229	6	was	AUX	be	-	*
+1229	7	heartless	ADJ	heartless	heartless.01	(V*)
+1229	8	in	ADP	in	-	(ARG1*
+1229	9	his	PRON	he	-	*
+1229	10	dealings	NOUN	dealing	-	*)
+1229	11	.	PUNCT	.	-	*
+
+# sentence_id = 1239
+# text = The base of the ulcer is purulent with necrotic debris and hemorrhagic exudate .
+1239	0	The	DET	the	-	(ARG1*
+1239	1	base	NOUN	base	-	*
+1239	2	of	ADP	of	-	*
+1239	3	the	DET	the	-	*
+1239	4	ulcer	NOUN	ulcer	-	*)
+1239	5	is	AUX	be	-	*
+1239	6	purulent	ADJ	purulent	purulent.01	(V*)
+1239	7	with	ADP	with	-	(ARG2*
+1239	8	necrotic	ADJ	necrotic	-	*
+1239	9	debris	NOUN	debris	-	*
+1239	10	and	CCONJ	and	-	*
+1239	11	hemorrhagic	ADJ	hemorrhagic	-	*
+1239	12	exudate	NOUN	exudate	-	*)
+1239	13	.	PUNCT	.	-	*
+
+# sentence_id = 1611
+# text = Frankly , i was somewhat skeptical that this book could deliver on the promises made in its subtitle .
+1611	0	Frankly	ADV	frankly	-	*
+1611	1	,	PUNCT	,	-	*
+1611	2	i	PRON	I	-	(ARG1*)
+1611	3	was	AUX	be	-	*
+1611	4	somewhat	ADV	somewhat	-	(ARGM-EXT*)
+1611	5	skeptical	ADJ	skeptical	skeptical.01	(V*)
+1611	6	that	SCONJ	that	-	(ARG0*
+1611	7	this	DET	this	-	*
+1611	8	book	NOUN	book	-	*
+1611	9	could	AUX	could	-	*
+1611	10	deliver	VERB	deliver	-	*
+1611	11	on	ADP	on	-	*
+1611	12	the	DET	the	-	*
+1611	13	promises	NOUN	promise	-	*
+1611	14	made	VERB	make	-	*
+1611	15	in	ADP	in	-	*
+1611	16	its	PRON	its	-	*
+1611	17	subtitle	NOUN	subtitle	-	*)
+1611	18	.	PUNCT	.	-	*
+
+# sentence_id = 87
+# text = Her hemodynamics were mildly labile but were generally on the normotensive side .
+87	0	Her	PRON	her	-	(ARG1*
+87	1	hemodynamics	NOUN	hemodynamics	-	*)
+87	2	were	AUX	be	-	*
+87	3	mildly	ADV	mildly	-	(ARGM-EXT*)
+87	4	labile	ADJ	labile	labile.01	(V*)
+87	5	but	CCONJ	but	-	*
+87	6	were	AUX	be	-	*
+87	7	generally	ADV	generally	-	*
+87	8	on	ADP	on	-	*
+87	9	the	DET	the	-	*
+87	10	normotensive	ADJ	normotensive	-	*
+87	11	side	NOUN	side	-	*
+87	12	.	PUNCT	.	-	*
+
+# sentence_id = 842
+# text = Common iliac arteries are heavily calcified and extremely tortuous .
+842	0	Common	ADJ	common	-	(ARG1*
+842	1	iliac	NOUN	iliac	-	*
+842	2	arteries	NOUN	artery	-	*)
+842	3	are	AUX	be	-	*
+842	4	heavily	ADV	heavily	-	*
+842	5	calcified	VERB	calcify	-	*
+842	6	and	CCONJ	and	-	*
+842	7	extremely	ADV	extremely	-	(ARGM-EXT*)
+842	8	tortuous	ADJ	tortuous	tortuous.01	(V*)
+842	9	.	PUNCT	.	-	*
+
+# sentence_id = 646
+# text = So once I saw it was a brick wall and I was malnourished of God 's love , with his help and those around me I was able tear down the wall .
+646	0	So	ADV	so	-	*
+646	1	once	SCONJ	once	-	*
+646	2	I	PRON	I	-	*
+646	3	saw	VERB	see	-	*
+646	4	it	PRON	it	-	*
+646	5	was	AUX	be	-	*
+646	6	a	DET	a	-	*
+646	7	brick	NOUN	brick	-	*
+646	8	wall	NOUN	wall	-	*
+646	9	and	CCONJ	and	-	*
+646	10	I	PRON	I	-	(ARG1*)
+646	11	was	AUX	be	-	*
+646	12	malnourished	ADJ	malnourished	-	(V*)
+646	13	of	ADP	of	-	(ARG2*
+646	14	God	PROPN	God	malnourished.01	*
+646	15	's	PART	's	-	*
+646	16	love	NOUN	love	-	*)
+646	17	,	PUNCT	,	-	*
+646	18	with	ADP	with	-	*
+646	19	his	PRON	he	-	*
+646	20	help	NOUN	help	-	*
+646	21	and	CCONJ	and	-	*
+646	22	those	PRON	that	-	*
+646	23	around	ADP	around	-	*
+646	24	me	PRON	I	-	*
+646	25	I	PRON	I	-	*
+646	26	was	AUX	be	-	*
+646	27	able	ADJ	able	-	*
+646	28	tear	VERB	tear	-	*
+646	29	down	ADP	down	-	*
+646	30	the	DET	the	-	*
+646	31	wall	NOUN	wall	-	*
+646	32	.	PUNCT	.	-	*
+
+# sentence_id = 685
+# text = The humor was black and so is death , the narrator almost seemed to be annoyed with dying , like he does it every other day .
+685	0	The	DET	the	-	*
+685	1	humor	NOUN	humor	-	(ARG1*)
+685	2	was	AUX	be	-	*
+685	3	black	ADJ	black	black.06	(V*)
+685	4	and	CCONJ	and	-	*
+685	5	so	ADV	so	-	*
+685	6	is	AUX	be	-	*
+685	7	death	NOUN	death	-	*
+685	8	,	PUNCT	,	-	*
+685	9	the	DET	the	-	*
+685	10	narrator	NOUN	narrator	-	*
+685	11	almost	ADV	almost	-	*
+685	12	seemed	VERB	seem	-	*
+685	13	to	PART	to	-	*
+685	14	be	AUX	be	-	*
+685	15	annoyed	VERB	annoy	-	*
+685	16	with	ADP	with	-	*
+685	17	dying	NOUN	die	-	*
+685	18	,	PUNCT	,	-	*
+685	19	like	SCONJ	like	-	*
+685	20	he	PRON	he	-	*
+685	21	does	VERB	do	-	*
+685	22	it	PRON	it	-	*
+685	23	every	DET	every	-	*
+685	24	other	ADJ	other	-	*
+685	25	day	NOUN	day	-	*
+685	26	.	PUNCT	.	-	*
+
+# sentence_id = 667
+# text = As a general rule , if your skin is n't totally perfect , or if it 's a bit oily , then a primer is going to make your foundation last a lot longer and look a lot better .
+667	0	As	ADP	as	-	*
+667	1	a	DET	a	-	*
+667	2	general	ADJ	general	-	*
+667	3	rule	NOUN	rule	-	*
+667	4	,	PUNCT	,	-	*
+667	5	if	SCONJ	if	-	*
+667	6	your	PRON	you	-	*
+667	7	skin	NOUN	skin	-	*
+667	8	is	AUX	be	-	*
+667	9	n't	PART	not	-	*
+667	10	totally	ADV	totally	-	*
+667	11	perfect	ADJ	perfect	-	*
+667	12	,	PUNCT	,	-	*
+667	13	or	CCONJ	or	-	*
+667	14	if	SCONJ	if	-	*
+667	15	it	PRON	it	-	(ARG1*)
+667	16	's	AUX	be	-	*
+667	17	a	DET	a	-	(ARGM-EXT*
+667	18	bit	NOUN	bit	-	*)
+667	19	oily	ADJ	oily	oily.03	(V*)
+667	20	,	PUNCT	,	-	*
+667	21	then	ADV	then	-	*
+667	22	a	DET	a	-	*
+667	23	primer	NOUN	primer	-	*
+667	24	is	AUX	be	-	*
+667	25	going	VERB	go	-	*
+667	26	to	PART	to	-	*
+667	27	make	VERB	make	-	*
+667	28	your	PRON	you	-	*
+667	29	foundation	NOUN	foundation	-	*
+667	30	last	VERB	last	-	*
+667	31	a	DET	a	-	*
+667	32	lot	NOUN	lot	-	*
+667	33	longer	ADV	long	-	*
+667	34	and	CCONJ	and	-	*
+667	35	look	VERB	look	-	*
+667	36	a	DET	a	-	*
+667	37	lot	NOUN	lot	-	*
+667	38	better	ADJ	good	-	*
+667	39	.	PUNCT	.	-	*
+
+# sentence_id = 342
+# text = How long does mayonnaise last ? Answers related to sell and use by dates , how to store mayonnaise and how to tell if mayonnaise is bad .
+342	0	How	ADV	how	-	*
+342	1	long	ADV	long	-	*
+342	2	does	AUX	do	-	*
+342	3	mayonnaise	NOUN	mayonnaise	-	*
+342	4	last	VERB	last	-	*
+342	5	?	PUNCT	?	-	*
+342	6	Answers	NOUN	answer	-	*
+342	7	related	ADJ	related	-	*
+342	8	to	PART	to	-	*
+342	9	sell	VERB	sell	-	*
+342	10	and	CCONJ	and	-	*
+342	11	use	VERB	use	-	*
+342	12	by	ADP	by	-	*
+342	13	dates	NOUN	date	-	*
+342	14	,	PUNCT	,	-	*
+342	15	how	SCONJ	how	-	*
+342	16	to	PART	to	-	*
+342	17	store	VERB	store	-	*
+342	18	mayonnaise	NOUN	mayonnaise	-	*
+342	19	and	CCONJ	and	-	*
+342	20	how	SCONJ	how	-	*
+342	21	to	PART	to	-	*
+342	22	tell	VERB	tell	-	*
+342	23	if	SCONJ	if	-	*
+342	24	mayonnaise	NOUN	mayonnaise	-	(ARG1*)
+342	25	is	AUX	be	-	*
+342	26	bad	ADJ	bad	bad.03	(V*)
+342	27	.	PUNCT	.	-	*
+
+# sentence_id = 1327
+# text = The cut surfaces are white - tan , fibrous , throughout with a few cystic spaces filled with tan slightly grumous material .
+1327	0	The	DET	the	-	(ARG1*
+1327	1	cut	NOUN	cut	-	*
+1327	2	surfaces	NOUN	surface	-	*)
+1327	3	are	AUX	be	-	*
+1327	4	white	ADJ	white	whitetan.01	(V*
+1327	5	-	PUNCT	-	-	*
+1327	6	tan	ADJ	tan	-	*)
+1327	7	,	PUNCT	,	-	*
+1327	8	fibrous	ADJ	fibrous	-	*
+1327	9	,	PUNCT	,	-	*
+1327	10	throughout	ADP	throughout	-	(ARGM-LOC*)
+1327	11	with	ADP	with	-	(ARGM-ADV*
+1327	12	a	DET	a	-	*
+1327	13	few	ADJ	few	-	*
+1327	14	cystic	ADJ	cystic	-	*
+1327	15	spaces	NOUN	space	-	*
+1327	16	filled	VERB	fill	-	*
+1327	17	with	ADP	with	-	*
+1327	18	tan	NOUN	tan	-	*
+1327	19	slightly	ADV	slightly	-	*
+1327	20	grumous	ADJ	grumous	-	*
+1327	21	material	NOUN	material	-	*)
+1327	22	.	PUNCT	.	-	*
+
+# sentence_id = 158
+# text = I was so giddy . He adored my first edition .
+158	0	I	PRON	I	-	(ARG1*)
+158	1	was	AUX	be	-	*
+158	2	so	ADV	so	-	(ARGM-EXT*)
+158	3	giddy	ADJ	giddy	giddy.01	(V*)
+158	4	.	PUNCT	.	-	*
+158	5	He	PRON	he	-	*
+158	6	adored	VERB	adore	-	*
+158	7	my	PRON	my	-	*
+158	8	first	ADJ	first	-	*
+158	9	edition	NOUN	edition	-	*
+158	10	.	PUNCT	.	-	*
+
+# sentence_id = 1342
+# text = It was n't that he was selfish of his time or uninterested in helping . He just was n't sure how he could contribute .
+1342	0	It	PRON	it	-	*
+1342	1	was	VERB	be	-	*
+1342	2	n't	PART	not	-	*
+1342	3	that	SCONJ	that	-	*
+1342	4	he	PRON	he	-	(ARG0*)
+1342	5	was	AUX	be	-	*
+1342	6	selfish	ADJ	selfish	selfish.01	(V*)
+1342	7	of	ADP	of	-	(ARG2*
+1342	8	his	PRON	he	-	*
+1342	9	time	NOUN	time	-	*)
+1342	10	or	CCONJ	or	-	*
+1342	11	uninterested	ADJ	uninterested	-	*
+1342	12	in	SCONJ	in	-	*
+1342	13	helping	VERB	help	-	*
+1342	14	.	PUNCT	.	-	*
+1342	15	He	PRON	he	-	*
+1342	16	just	ADV	just	-	*
+1342	17	was	AUX	be	-	*
+1342	18	n't	PART	not	-	*
+1342	19	sure	ADJ	sure	-	*
+1342	20	how	SCONJ	how	-	*
+1342	21	he	PRON	he	-	*
+1342	22	could	AUX	could	-	*
+1342	23	contribute	VERB	contribute	-	*
+1342	24	.	PUNCT	.	-	*
+
+# sentence_id = 1223
+# text = If he brought it up , he also hoped that Ludo would n't think he was weird to think that way .
+1223	0	If	SCONJ	if	-	*
+1223	1	he	PRON	he	-	*
+1223	2	brought	VERB	bring	-	*
+1223	3	it	PRON	it	-	*
+1223	4	up	ADP	up	-	*
+1223	5	,	PUNCT	,	-	*
+1223	6	he	PRON	he	-	*
+1223	7	also	ADV	also	-	*
+1223	8	hoped	VERB	hope	-	*
+1223	9	that	SCONJ	that	-	*
+1223	10	Ludo	PROPN	Ludo	-	*
+1223	11	would	AUX	would	-	*
+1223	12	n't	PART	not	-	*
+1223	13	think	VERB	think	-	*
+1223	14	he	PRON	he	-	(ARG1*)
+1223	15	was	AUX	be	-	*
+1223	16	weird	ADJ	weird	weird.01	(V*)
+1223	17	to	PART	to	-	(C-ARG1*
+1223	18	think	VERB	think	-	*
+1223	19	that	DET	that	-	*
+1223	20	way	NOUN	way	-	*)
+1223	21	.	PUNCT	.	-	*
+
+# sentence_id = 424
+# text = Trail inhibits tumor growth but is nontoxic to human hepatocytes in chimeric mice .
+424	0	Trail	NOUN	Trail	-	(ARG1*)
+424	1	inhibits	VERB	inhibit	-	*
+424	2	tumor	NOUN	tumor	-	*
+424	3	growth	NOUN	growth	-	*
+424	4	but	CCONJ	but	-	*
+424	5	is	AUX	be	-	*
+424	6	nontoxic	ADJ	nontoxic	nontoxic.01	(V*)
+424	7	to	ADP	to	-	(ARG2*
+424	8	human	ADJ	human	-	*
+424	9	hepatocytes	NOUN	hepatocyte	-	*)
+424	10	in	ADP	in	-	(ARGM-LOC*
+424	11	chimeric	ADJ	chimeric	-	*
+424	12	mice	NOUN	mouse	-	*)
+424	13	.	PUNCT	.	-	*
+
+# sentence_id = 622
+# text = Potato - butter roll . At first I was uncertain of what was actually happening with this roll .
+622	0	Potato	NOUN	potato	-	*
+622	1	-	PUNCT	-	-	*
+622	2	butter	NOUN	butter	-	*
+622	3	roll	NOUN	roll	-	*
+622	4	.	PUNCT	.	-	*
+622	5	At	ADP	at	-	(ARGM-TMP*
+622	6	first	ADV	first	-	*)
+622	7	I	PRON	I	-	(ARG0*)
+622	8	was	AUX	be	-	*
+622	9	uncertain	ADJ	uncertain	uncertain.01	(V*)
+622	10	of	SCONJ	of	-	(ARG1*
+622	11	what	PRON	what	-	*
+622	12	was	AUX	be	-	*
+622	13	actually	ADV	actually	-	*
+622	14	happening	VERB	happen	-	*
+622	15	with	ADP	with	-	*
+622	16	this	DET	this	-	*
+622	17	roll	NOUN	roll	-	*)
+622	18	.	PUNCT	.	-	*
+
+# sentence_id = 1412
+# text = The outer surface is brown - tan , ragged with adherent yellow , lobulated adipose tissue and the inner surface is pink - tan , smooth and focally granular .
+1412	0	The	DET	the	-	(ARG1*
+1412	1	outer	ADJ	outer	-	*
+1412	2	surface	NOUN	surface	-	*)
+1412	3	is	AUX	be	-	*
+1412	4	brown	ADJ	brown	browntan.01	(V*
+1412	5	-	PUNCT	-	-	*
+1412	6	tan	NOUN	tan	-	*)
+1412	7	,	PUNCT	,	-	*
+1412	8	ragged	VERB	rag	-	*
+1412	9	with	ADP	with	-	(ARGM-ADV*
+1412	10	adherent	ADJ	adherent	-	*
+1412	11	yellow	ADJ	yellow	-	*
+1412	12	,	PUNCT	,	-	*
+1412	13	lobulated	VERB	lobulate	-	*
+1412	14	adipose	NOUN	adipose	-	*
+1412	15	tissue	NOUN	tissue	-	*)
+1412	16	and	CCONJ	and	-	*
+1412	17	the	DET	the	-	*
+1412	18	inner	ADJ	inner	-	*
+1412	19	surface	NOUN	surface	-	*
+1412	20	is	AUX	be	-	*
+1412	21	pink	ADJ	pink	-	*
+1412	22	-	PUNCT	-	-	*
+1412	23	tan	ADJ	tan	-	*
+1412	24	,	PUNCT	,	-	*
+1412	25	smooth	ADJ	smooth	-	*
+1412	26	and	CCONJ	and	-	*
+1412	27	focally	ADV	focally	-	*
+1412	28	granular	ADJ	granular	-	*
+1412	29	.	PUNCT	.	-	*
+
+# sentence_id = 418
+# text = In the past , acetate fiber was used for filling in the filter tips , it is a kind of wood fiber which is relatively expensive but harmless to the human body ; it also has a relatively good filtering effect .
+418	0	In	ADP	in	-	*
+418	1	the	DET	the	-	*
+418	2	past	NOUN	past	-	*
+418	3	,	PUNCT	,	-	*
+418	4	acetate	NOUN	acetate	-	*
+418	5	fiber	NOUN	fiber	-	*
+418	6	was	AUX	be	-	*
+418	7	used	VERB	use	-	*
+418	8	for	SCONJ	for	-	*
+418	9	filling	VERB	fill	-	*
+418	10	in	ADP	in	-	*
+418	11	the	DET	the	-	*
+418	12	filter	NOUN	filter	-	*
+418	13	tips	NOUN	tip	-	*
+418	14	,	PUNCT	,	-	*
+418	15	it	PRON	it	-	*
+418	16	is	AUX	be	-	*
+418	17	a	DET	a	-	*
+418	18	kind	NOUN	kind	-	*
+418	19	of	ADP	of	-	*
+418	20	wood	NOUN	wood	-	*
+418	21	fiber	NOUN	fiber	-	*
+418	22	which	PRON	which	-	(ARG0*)
+418	23	is	AUX	be	-	*
+418	24	relatively	ADV	relatively	-	*
+418	25	expensive	ADJ	expensive	-	*
+418	26	but	CCONJ	but	-	*
+418	27	harmless	ADJ	harmless	harmless.01	(V*)
+418	28	to	ADP	to	-	(ARG1*
+418	29	the	DET	the	-	*
+418	30	human	ADJ	human	-	*
+418	31	body	NOUN	body	-	*)
+418	32	;	PUNCT	;	-	*
+418	33	it	PRON	it	-	*
+418	34	also	ADV	also	-	*
+418	35	has	VERB	have	-	*
+418	36	a	DET	a	-	*
+418	37	relatively	ADV	relatively	-	*
+418	38	good	ADJ	good	-	*
+418	39	filtering	NOUN	filter	-	*
+418	40	effect	NOUN	effect	-	*
+418	41	.	PUNCT	.	-	*
+
+# sentence_id = 1370
+# text = If China is lost as a investment and trade partner , this will be extremely non - advantageous to India 's development .
+1370	0	If	SCONJ	if	-	(ARGM-ADV*
+1370	1	China	PROPN	China	-	*
+1370	2	is	AUX	be	-	*
+1370	3	lost	VERB	lose	-	*
+1370	4	as	ADP	as	-	*
+1370	5	a	DET	a	-	*
+1370	6	investment	NOUN	investment	-	*
+1370	7	and	CCONJ	and	-	*
+1370	8	trade	NOUN	trade	-	*
+1370	9	partner	NOUN	partner	-	*)
+1370	10	,	PUNCT	,	-	*
+1370	11	this	PRON	this	-	(ARG1*)
+1370	12	will	AUX	will	-	(ARGM-MOD*)
+1370	13	be	AUX	be	-	*
+1370	14	extremely	ADV	extremely	-	(ARGM-EXT*)
+1370	15	non	ADV	non	-	(V*
+1370	16	-	PUNCT	-	nonadvantageous.01	*
+1370	17	advantageous	ADJ	advantageous	-	*)
+1370	18	to	ADP	to	-	(ARG2*
+1370	19	India	PROPN	India	-	*
+1370	20	's	PART	's	-	*
+1370	21	development	NOUN	development	-	*)
+1370	22	.	PUNCT	.	-	*
+
+# sentence_id = 1556
+# text = We also have the advantage that we are from the same unit for life in most cases and so the cohesiveness is more and we know each other well .
+1556	0	We	PRON	we	-	*
+1556	1	also	ADV	also	-	*
+1556	2	have	VERB	have	-	*
+1556	3	the	DET	the	-	*
+1556	4	advantage	NOUN	advantage	-	*
+1556	5	that	SCONJ	that	-	*
+1556	6	we	PRON	we	-	*
+1556	7	are	AUX	be	-	*
+1556	8	from	ADP	from	-	*
+1556	9	the	DET	the	-	*
+1556	10	same	ADJ	same	-	*
+1556	11	unit	NOUN	unit	-	*
+1556	12	for	ADP	for	-	*
+1556	13	life	NOUN	life	-	*
+1556	14	in	ADP	in	-	*
+1556	15	most	ADJ	most	-	*
+1556	16	cases	NOUN	case	-	*
+1556	17	and	CCONJ	and	-	*
+1556	18	so	ADV	so	-	*
+1556	19	the	DET	the	-	(ARG1*
+1556	20	cohesiveness	NOUN	cohesiveness	-	*)
+1556	21	is	AUX	be	-	*
+1556	22	more	ADJ	more	more.01	(V*)
+1556	23	and	CCONJ	and	-	*
+1556	24	we	PRON	we	-	*
+1556	25	know	VERB	know	-	*
+1556	26	each	DET	each	-	*
+1556	27	other	ADJ	other	-	*
+1556	28	well	ADV	well	-	*
+1556	29	.	PUNCT	.	-	*
+
+# sentence_id = 157
+# text = Be aware that even though fresh juice is fabulous for you , it does not have any fiber .
+157	0	Be	AUX	be	-	*
+157	1	aware	ADJ	aware	-	*
+157	2	that	SCONJ	that	-	*
+157	3	even	ADV	even	-	*
+157	4	though	SCONJ	though	-	*
+157	5	fresh	ADJ	fresh	-	(ARG1*
+157	6	juice	NOUN	juice	-	*)
+157	7	is	AUX	be	-	*
+157	8	fabulous	ADJ	fabulous	fabulous.03	(V*)
+157	9	for	ADP	for	-	(ARG2*
+157	10	you	PRON	you	-	*)
+157	11	,	PUNCT	,	-	*
+157	12	it	PRON	it	-	*
+157	13	does	AUX	do	-	*
+157	14	not	PART	not	-	*
+157	15	have	VERB	have	-	*
+157	16	any	DET	any	-	*
+157	17	fiber	NOUN	fiber	-	*
+157	18	.	PUNCT	.	-	*
+
+# sentence_id = 647
+# text = I went around and asked the other tables to make sure that no one 's soda was flat .
+647	0	I	PRON	I	-	*
+647	1	went	VERB	go	-	*
+647	2	around	ADV	around	-	*
+647	3	and	CCONJ	and	-	*
+647	4	asked	VERB	ask	-	*
+647	5	the	DET	the	-	*
+647	6	other	ADJ	other	-	*
+647	7	tables	NOUN	table	-	*
+647	8	to	PART	to	-	*
+647	9	make	VERB	make	-	*
+647	10	sure	ADJ	sure	-	*
+647	11	that	SCONJ	that	-	*
+647	12	no	DET	no	-	(ARG1*
+647	13	one	NOUN	one	-	*
+647	14	's	PART	's	-	*
+647	15	soda	NOUN	soda	-	*)
+647	16	was	AUX	be	-	*
+647	17	flat	ADJ	flat	flat.03	(V*)
+647	18	.	PUNCT	.	-	*
+
+# sentence_id = 1589
+# text = Your credit card bill is going to be major after the game .
+1589	0	Your	PRON	you	-	(ARG1*
+1589	1	credit	NOUN	credit	-	*
+1589	2	card	NOUN	card	-	*
+1589	3	bill	NOUN	bill	-	*)
+1589	4	is	AUX	be	-	*
+1589	5	going	VERB	go	-	*
+1589	6	to	PART	to	-	*
+1589	7	be	AUX	be	-	*
+1589	8	major	ADJ	major	major.02	(V*)
+1589	9	after	ADP	after	-	*
+1589	10	the	DET	the	-	*
+1589	11	game	NOUN	game	-	*
+1589	12	.	PUNCT	.	-	*
+
+# sentence_id = 1579
+# text = The rest of your OP was just too damned long .
+1579	0	The	DET	the	-	(ARG1*
+1579	1	rest	NOUN	rest	-	*
+1579	2	of	ADP	of	-	*
+1579	3	your	PRON	you	-	*
+1579	4	OP	NOUN	OP	-	*)
+1579	5	was	AUX	be	-	*
+1579	6	just	ADV	just	-	(ARGM-ADV*)
+1579	7	too	ADV	too	-	(ARGM-EXT*)
+1579	8	damned	ADJ	damned	-	(ARGM-DIS*)
+1579	9	long	ADV	long	long.03	(V*)
+1579	10	.	PUNCT	.	-	*
+
+# sentence_id = 113
+# text = The ticket machine at Gaithersburg is out of service .
+113	0	The	DET	the	-	(ARG1*
+113	1	ticket	NOUN	ticket	-	*
+113	2	machine	NOUN	machine	-	*)
+113	3	at	ADP	at	-	*
+113	4	Gaithersburg	PROPN	Gaithersburg	-	*
+113	5	is	AUX	be	-	*
+113	6	out	ADP	out	out.03	(V*)
+113	7	of	ADP	of	-	(ARG2*
+113	8	service	NOUN	service	-	*)
+113	9	.	PUNCT	.	-	*
+
+# sentence_id = 213
+# text = If it is said that Taiwan people were still cagey and secretive about the issue of " Unification or Independence " from the past until now , and closed their mouths to not discuss it , and disputes about " Unification or Independence " even triggered ethnic group conflicts , then this Taiwan " General Election " has more and more ordinary people publicly acknowledging the benefits of the " 1992 Consensus , " .
+213	0	If	SCONJ	if	-	*
+213	1	it	PRON	it	-	*
+213	2	is	AUX	be	-	*
+213	3	said	VERB	say	-	*
+213	4	that	SCONJ	that	-	*
+213	5	Taiwan	PROPN	Taiwan	-	(ARG0*
+213	6	people	NOUN	people	-	*)
+213	7	were	AUX	be	-	*
+213	8	still	ADV	still	-	(ARGM-TMP*)
+213	9	cagey	ADJ	cagey	cagey.01	(V*)
+213	10	and	CCONJ	and	-	*
+213	11	secretive	ADJ	secretive	-	*
+213	12	about	ADP	about	-	(ARG1*
+213	13	the	DET	the	-	*
+213	14	issue	NOUN	issue	-	*
+213	15	of	ADP	of	-	*
+213	16	"	PUNCT	"	-	*
+213	17	Unification	PROPN	Unification	-	*
+213	18	or	CCONJ	or	-	*
+213	19	Independence	PROPN	Independence	-	*
+213	20	"	PUNCT	"	-	*)
+213	21	from	ADP	from	-	(ARGM-TMP*
+213	22	the	DET	the	-	*
+213	23	past	NOUN	past	-	*
+213	24	until	ADP	until	-	*
+213	25	now	ADV	now	-	*)
+213	26	,	PUNCT	,	-	*
+213	27	and	CCONJ	and	-	*
+213	28	closed	VERB	close	-	*
+213	29	their	PRON	they	-	*
+213	30	mouths	NOUN	mouth	-	*
+213	31	to	PART	to	-	*
+213	32	not	PART	not	-	*
+213	33	discuss	VERB	discuss	-	*
+213	34	it	PRON	it	-	*
+213	35	,	PUNCT	,	-	*
+213	36	and	CCONJ	and	-	*
+213	37	disputes	NOUN	dispute	-	*
+213	38	about	ADP	about	-	*
+213	39	"	PUNCT	"	-	*
+213	40	Unification	PROPN	Unification	-	*
+213	41	or	CCONJ	or	-	*
+213	42	Independence	PROPN	Independence	-	*
+213	43	"	PUNCT	"	-	*
+213	44	even	ADV	even	-	*
+213	45	triggered	VERB	trigger	-	*
+213	46	ethnic	ADJ	ethnic	-	*
+213	47	group	NOUN	group	-	*
+213	48	conflicts	NOUN	conflict	-	*
+213	49	,	PUNCT	,	-	*
+213	50	then	ADV	then	-	*
+213	51	this	DET	this	-	*
+213	52	Taiwan	PROPN	Taiwan	-	*
+213	53	"	PUNCT	"	-	*
+213	54	General	ADJ	General	-	*
+213	55	Election	PROPN	Election	-	*
+213	56	"	PUNCT	"	-	*
+213	57	has	VERB	have	-	*
+213	58	more	ADJ	more	-	*
+213	59	and	CCONJ	and	-	*
+213	60	more	ADJ	more	-	*
+213	61	ordinary	ADJ	ordinary	-	*
+213	62	people	NOUN	people	-	*
+213	63	publicly	ADV	publicly	-	*
+213	64	acknowledging	VERB	acknowledge	-	*
+213	65	the	DET	the	-	*
+213	66	benefits	NOUN	benefit	-	*
+213	67	of	ADP	of	-	*
+213	68	the	DET	the	-	*
+213	69	"	PUNCT	"	-	*
+213	70	1992	NUM	1992	-	*
+213	71	Consensus	PROPN	Consensus	-	*
+213	72	,	PUNCT	,	-	*
+213	73	"	PUNCT	"	-	*
+213	74	.	PUNCT	.	-	*
+
+# sentence_id = 1282
+# text = If their contact has been on and off over the years and they 're not that close anyway then I would put my foot down , it is your special day and he should appreciate that his ex being there makes you uncomfortable .
+1282	0	If	SCONJ	if	-	*
+1282	1	their	PRON	they	-	*
+1282	2	contact	NOUN	contact	-	*
+1282	3	has	AUX	have	-	*
+1282	4	been	AUX	be	-	*
+1282	5	on	ADP	on	-	*
+1282	6	and	CCONJ	and	-	*
+1282	7	off	ADV	off	-	*
+1282	8	over	ADP	over	-	*
+1282	9	the	DET	the	-	*
+1282	10	years	NOUN	year	-	*
+1282	11	and	CCONJ	and	-	*
+1282	12	they	PRON	they	-	(ARG1*)
+1282	13	're	AUX	be	-	*
+1282	14	not	PART	not	-	(ARGM-NEG*)
+1282	15	that	ADV	that	-	(ARGM-EXT*)
+1282	16	close	ADJ	close	close.13	(V*)
+1282	17	anyway	ADV	anyway	-	(ARGM-ADV*)
+1282	18	then	ADV	then	-	*
+1282	19	I	PRON	I	-	*
+1282	20	would	AUX	would	-	*
+1282	21	put	VERB	put	-	*
+1282	22	my	PRON	my	-	*
+1282	23	foot	NOUN	foot	-	*
+1282	24	down	ADP	down	-	*
+1282	25	,	PUNCT	,	-	*
+1282	26	it	PRON	it	-	*
+1282	27	is	AUX	be	-	*
+1282	28	your	PRON	you	-	*
+1282	29	special	ADJ	special	-	*
+1282	30	day	NOUN	day	-	*
+1282	31	and	CCONJ	and	-	*
+1282	32	he	PRON	he	-	*
+1282	33	should	AUX	should	-	*
+1282	34	appreciate	VERB	appreciate	-	*
+1282	35	that	SCONJ	that	-	*
+1282	36	his	PRON	he	-	*
+1282	37	ex	NOUN	ex	-	*
+1282	38	being	AUX	be	-	*
+1282	39	there	ADV	there	-	*
+1282	40	makes	VERB	make	-	*
+1282	41	you	PRON	you	-	*
+1282	42	uncomfortable	ADJ	uncomfortable	-	*
+1282	43	.	PUNCT	.	-	*
+
+# sentence_id = 1137
+# text = The baby is 3 weeks overdue ( to be born ) .
+1137	0	The	DET	the	-	(ARG1*
+1137	1	baby	NOUN	baby	-	*)
+1137	2	is	AUX	be	-	*
+1137	3	3	NUM	3	-	(ARGM-EXT*
+1137	4	weeks	NOUN	week	-	*)
+1137	5	overdue	ADJ	overdue	overdue.02	(V*)
+1137	6	(	PUNCT	(	-	*
+1137	7	to	PART	to	-	(ARG2*
+1137	8	be	AUX	be	-	*
+1137	9	born	VERB	bear	-	*)
+1137	10	)	PUNCT	)	-	*
+1137	11	.	PUNCT	.	-	*
+
+# sentence_id = 819
+# text = She adored Paul , and together they were merry about all of life 's little things .
+819	0	She	PRON	she	-	*
+819	1	adored	VERB	adore	-	*
+819	2	Paul	PROPN	Paul	-	*
+819	3	,	PUNCT	,	-	*
+819	4	and	CCONJ	and	-	*
+819	5	together	ADV	together	-	(ARGM-MNR*)
+819	6	they	PRON	they	-	(ARG1*)
+819	7	were	AUX	be	-	*
+819	8	merry	ADJ	merry	merry.01	(V*)
+819	9	about	ADP	about	-	(ARG0*
+819	10	all	DET	all	-	*
+819	11	of	ADP	of	-	*
+819	12	life	NOUN	life	-	*
+819	13	's	PART	's	-	*
+819	14	little	ADJ	little	-	*
+819	15	things	NOUN	thing	-	*)
+819	16	.	PUNCT	.	-	*
+
+# sentence_id = 984
+# text = He was insane to have demanded her as his personal assistant .
+984	0	He	PRON	he	-	(ARG1*)
+984	1	was	AUX	be	-	*
+984	2	insane	ADJ	insane	insane.01	(V*)
+984	3	to	PART	to	-	(C-ARG1*
+984	4	have	AUX	have	-	*
+984	5	demanded	VERB	demand	-	*
+984	6	her	PRON	she	-	*
+984	7	as	ADP	as	-	*
+984	8	his	PRON	he	-	*
+984	9	personal	ADJ	personal	-	*
+984	10	assistant	NOUN	assistant	-	*)
+984	11	.	PUNCT	.	-	*
+
+# sentence_id = 787
+# text = The proximal neck of the aneurysm is 3 cm caudal to the right renal artery .
+787	0	The	DET	the	-	(ARG1*
+787	1	proximal	ADJ	proximal	-	*
+787	2	neck	NOUN	neck	-	*
+787	3	of	ADP	of	-	*
+787	4	the	DET	the	-	*
+787	5	aneurysm	NOUN	aneurysm	-	*)
+787	6	is	AUX	be	-	*
+787	7	3	NUM	3	-	(ARGM-EXT*
+787	8	cm	NOUN	cm	-	*)
+787	9	caudal	ADJ	caudal	caudal.01	(V*)
+787	10	to	ADP	to	-	(ARG2*
+787	11	the	DET	the	-	*
+787	12	right	ADJ	right	-	*
+787	13	renal	NOUN	renal	-	*
+787	14	artery	NOUN	artery	-	*)
+787	15	.	PUNCT	.	-	*
+
+# sentence_id = 966
+# text = The affair made him uneasy , and he conceded that he was perhaps being " foolish " about the matter but asserted that he was too old to change .
+966	0	The	DET	the	-	*
+966	1	affair	NOUN	affair	-	*
+966	2	made	VERB	make	-	*
+966	3	him	PRON	he	-	*
+966	4	uneasy	ADJ	uneasy	-	*
+966	5	,	PUNCT	,	-	*
+966	6	and	CCONJ	and	-	*
+966	7	he	PRON	he	-	*
+966	8	conceded	VERB	concede	-	*
+966	9	that	SCONJ	that	-	*
+966	10	he	PRON	he	-	(ARG1*)
+966	11	was	AUX	be	-	*
+966	12	perhaps	ADV	perhaps	-	*
+966	13	being	AUX	be	-	*
+966	14	"	PUNCT	"	-	*
+966	15	foolish	ADJ	foolish	foolish.01	(V*)
+966	16	"	PUNCT	"	-	*
+966	17	about	ADP	about	-	*
+966	18	the	DET	the	-	*
+966	19	matter	NOUN	matter	-	*
+966	20	but	CCONJ	but	-	*
+966	21	asserted	VERB	assert	-	*
+966	22	that	SCONJ	that	-	*
+966	23	he	PRON	he	-	*
+966	24	was	AUX	be	-	*
+966	25	too	ADV	too	-	*
+966	26	old	ADJ	old	-	*
+966	27	to	PART	to	-	*
+966	28	change	VERB	change	-	*
+966	29	.	PUNCT	.	-	*
+
+# sentence_id = 156
+# text = No , it was n't an abstinance only program in the benighted sense of the late bush administration , but it did advocate for waiting until you felt ready and strategies for dealing with peer pressure .
+156	0	No	INTJ	no	-	*
+156	1	,	PUNCT	,	-	*
+156	2	it	PRON	it	-	*
+156	3	was	AUX	be	-	*
+156	4	n't	PART	not	-	*
+156	5	an	DET	a	-	*
+156	6	abstinance	NOUN	abstinance	-	*
+156	7	only	ADJ	only	-	*
+156	8	program	NOUN	program	-	*
+156	9	in	ADP	in	-	*
+156	10	the	DET	the	-	*
+156	11	benighted	ADJ	benighted	benight.01	(V*)
+156	12	sense	NOUN	sense	-	(ARG1*)
+156	13	of	ADP	of	-	*
+156	14	the	DET	the	-	*
+156	15	late	ADJ	late	-	*
+156	16	bush	NOUN	bush	-	*
+156	17	administration	NOUN	administration	-	*
+156	18	,	PUNCT	,	-	*
+156	19	but	CCONJ	but	-	*
+156	20	it	PRON	it	-	*
+156	21	did	AUX	do	-	*
+156	22	advocate	VERB	advocate	-	*
+156	23	for	SCONJ	for	-	*
+156	24	waiting	VERB	wait	-	*
+156	25	until	SCONJ	until	-	*
+156	26	you	PRON	you	-	*
+156	27	felt	VERB	feel	-	*
+156	28	ready	ADJ	ready	-	*
+156	29	and	CCONJ	and	-	*
+156	30	strategies	NOUN	strategy	-	*
+156	31	for	SCONJ	for	-	*
+156	32	dealing	VERB	deal	-	*
+156	33	with	ADP	with	-	*
+156	34	peer	NOUN	peer	-	*
+156	35	pressure	NOUN	pressure	-	*
+156	36	.	PUNCT	.	-	*
+
+# sentence_id = 298
+# text = The memory arrangement 10 is operable as a cache memory in a first mode of operation .
+298	0	The	DET	the	-	(ARG1*
+298	1	memory	NOUN	memory	-	*
+298	2	arrangement	NOUN	arrangement	-	*
+298	3	10	NUM	10	-	*)
+298	4	is	AUX	be	-	*
+298	5	operable	ADJ	operable	operable.03	(V*)
+298	6	as	ADP	as	-	(ARG3*
+298	7	a	DET	a	-	*
+298	8	cache	NOUN	cache	-	*
+298	9	memory	NOUN	memory	-	*)
+298	10	in	ADP	in	-	(ARGM-LOC*
+298	11	a	DET	a	-	*
+298	12	first	ADJ	first	-	*
+298	13	mode	NOUN	mode	-	*
+298	14	of	ADP	of	-	*
+298	15	operation	NOUN	operation	-	*)
+298	16	.	PUNCT	.	-	*
+
+# sentence_id = 866
+# text = I 'm sorry I am so impulsive please promise to forget my outlast .
+866	0	I	PRON	I	-	*
+866	1	'm	AUX	be	-	*
+866	2	sorry	ADJ	sorry	-	*
+866	3	I	PRON	I	-	(ARG0*)
+866	4	am	AUX	be	-	*
+866	5	so	ADV	so	-	(ARGM-EXT*)
+866	6	impulsive	ADJ	impulsive	impulsive.01	(V*)
+866	7	please	INTJ	please	-	*
+866	8	promise	VERB	promise	-	*
+866	9	to	PART	to	-	*
+866	10	forget	VERB	forget	-	*
+866	11	my	PRON	my	-	*
+866	12	outlast	NOUN	outlast	-	*
+866	13	.	PUNCT	.	-	*
+
+# sentence_id = 1198
+# text = There were also bilateral pulmonary nodules that were small but multiple and suspicious for metastasis .
+1198	0	There	PRON	there	-	*
+1198	1	were	VERB	be	-	*
+1198	2	also	ADV	also	-	*
+1198	3	bilateral	ADJ	bilateral	-	*
+1198	4	pulmonary	ADJ	pulmonary	-	*
+1198	5	nodules	NOUN	nodule	-	*
+1198	6	that	PRON	that	-	(ARG1*)
+1198	7	were	AUX	be	-	*
+1198	8	small	ADJ	small	-	*
+1198	9	but	CCONJ	but	-	*
+1198	10	multiple	ADJ	multiple	multiple.01	(V*)
+1198	11	and	CCONJ	and	-	*
+1198	12	suspicious	ADJ	suspicious	-	*
+1198	13	for	ADP	for	-	*
+1198	14	metastasis	NOUN	metastasis	-	*
+1198	15	.	PUNCT	.	-	*
+
+# sentence_id = 477
+# text = When we were in the pub later on , two Argentinians also commented , saying that they did n't think it was right for him to say that , as you would n't expect a Scottish person to say that they were from the UK .
+477	0	When	SCONJ	when	-	*
+477	1	we	PRON	we	-	*
+477	2	were	AUX	be	-	*
+477	3	in	ADP	in	-	*
+477	4	the	DET	the	-	*
+477	5	pub	NOUN	pub	-	*
+477	6	later	ADV	late	-	*
+477	7	on	ADV	on	-	*
+477	8	,	PUNCT	,	-	*
+477	9	two	NUM	two	-	*
+477	10	Argentinians	PROPN	Argentinian	-	*
+477	11	also	ADV	also	-	*
+477	12	commented	VERB	comment	-	*
+477	13	,	PUNCT	,	-	*
+477	14	saying	VERB	say	-	*
+477	15	that	SCONJ	that	-	*
+477	16	they	PRON	they	-	*
+477	17	did	AUX	do	-	*
+477	18	n't	PART	not	-	*
+477	19	think	VERB	think	-	*
+477	20	it	PRON	it	-	*
+477	21	was	AUX	be	-	*
+477	22	right	ADJ	right	right.02	(V*)
+477	23	for	SCONJ	for	-	(ARG1*
+477	24	him	PRON	he	-	*
+477	25	to	PART	to	-	*
+477	26	say	VERB	say	-	*
+477	27	that	SCONJ	that	-	*)
+477	28	,	PUNCT	,	-	*
+477	29	as	SCONJ	as	-	(ARGM-CAU*
+477	30	you	PRON	you	-	*
+477	31	would	AUX	would	-	*
+477	32	n't	PART	not	-	*
+477	33	expect	VERB	expect	-	*
+477	34	a	DET	a	-	*
+477	35	Scottish	ADJ	Scottish	-	*
+477	36	person	NOUN	person	-	*
+477	37	to	PART	to	-	*
+477	38	say	VERB	say	-	*
+477	39	that	SCONJ	that	-	*
+477	40	they	PRON	they	-	*
+477	41	were	AUX	be	-	*
+477	42	from	ADP	from	-	*
+477	43	the	DET	the	-	*
+477	44	UK	PROPN	UK	-	*)
+477	45	.	PUNCT	.	-	*
+
+# sentence_id = 1496
+# text = Which is lame because I 'm dressed like a tiger Mummer .
+1496	0	Which	PRON	which	-	(ARG1*)
+1496	1	is	AUX	be	-	*
+1496	2	lame	ADJ	lame	lame.01	(V*)
+1496	3	because	SCONJ	because	-	(ARGM-CAU*
+1496	4	I	PRON	I	-	*
+1496	5	'm	AUX	be	-	*
+1496	6	dressed	VERB	dress	-	*
+1496	7	like	ADP	like	-	*
+1496	8	a	DET	a	-	*
+1496	9	tiger	NOUN	tiger	-	*
+1496	10	Mummer	PROPN	Mummer	-	*)
+1496	11	.	PUNCT	.	-	*
+
+# sentence_id = 61
+# text = Beyond that , most of the research I 'm privy to -LRB- via my sister -RRB- is actually based in the private education sector .
+61	0	Beyond	ADP	beyond	-	*
+61	1	that	PRON	that	-	*
+61	2	,	PUNCT	,	-	*
+61	3	most	ADJ	most	-	*
+61	4	of	ADP	of	-	*
+61	5	the	DET	the	-	(C-ARG2*
+61	6	research	NOUN	research	-	*)
+61	7	I	PRON	I	-	(ARG1*)
+61	8	'm	AUX	be	-	*
+61	9	privy	ADJ	privy	privy.01	(V*)
+61	10	to	ADP	to	-	*
+61	11	-LRB-	PROPN	-LRB-	-	*
+61	12	via	ADP	via	-	*
+61	13	my	PRON	my	-	*
+61	14	sister	NOUN	sister	-	*
+61	15	-RRB-	NOUN	-rrb-	-	*
+61	16	is	AUX	be	-	*
+61	17	actually	ADV	actually	-	*
+61	18	based	VERB	base	-	*
+61	19	in	ADP	in	-	*
+61	20	the	DET	the	-	*
+61	21	private	ADJ	private	-	*
+61	22	education	NOUN	education	-	*
+61	23	sector	NOUN	sector	-	*
+61	24	.	PUNCT	.	-	*
+
+# sentence_id = 351
+# text = But an agressive opposition , along with a biased press and press with an agenda make them out to be a lot worse than they are .
+351	0	But	CCONJ	but	-	*
+351	1	an	DET	a	-	*
+351	2	agressive	ADJ	agressive	-	*
+351	3	opposition	NOUN	opposition	-	*
+351	4	,	PUNCT	,	-	*
+351	5	along	ADP	along	-	*
+351	6	with	ADP	with	-	*
+351	7	a	DET	a	-	*
+351	8	biased	VERB	biased	-	*
+351	9	press	NOUN	press	-	*
+351	10	and	CCONJ	and	-	*
+351	11	press	NOUN	press	-	*
+351	12	with	ADP	with	-	*
+351	13	an	DET	a	-	*
+351	14	agenda	NOUN	agenda	-	*
+351	15	make	VERB	make	-	*
+351	16	them	PRON	they	-	(ARG1*)
+351	17	out	ADP	out	-	*
+351	18	to	PART	to	-	*
+351	19	be	AUX	be	-	*
+351	20	a	DET	a	-	(ARGM-EXT*
+351	21	lot	NOUN	lot	-	*)
+351	22	worse	ADJ	bad	bad.07	(V*)
+351	23	than	SCONJ	than	-	(ARGM-CXN*
+351	24	they	PRON	they	-	*
+351	25	are	VERB	be	-	*)
+351	26	.	PUNCT	.	-	*
+
+# sentence_id = 1186
+# text = Breathing quiet and non - labored without retractions or use of accessory muscle No audible stridor or wheezes .
+1186	0	Breathing	VERB	breathe	-	(ARG1*)
+1186	1	quiet	ADJ	quiet	-	*
+1186	2	and	CCONJ	and	-	*
+1186	3	non	ADV	non	nonlabored.01	(V*
+1186	4	-	PUNCT	-	-	*
+1186	5	labored	VERB	labor	-	*)
+1186	6	without	ADP	without	-	*
+1186	7	retractions	NOUN	retraction	-	*
+1186	8	or	CCONJ	or	-	*
+1186	9	use	NOUN	use	-	*
+1186	10	of	ADP	of	-	*
+1186	11	accessory	NOUN	accessory	-	*
+1186	12	muscle	NOUN	muscle	-	*
+1186	13	No	DET	no	-	*
+1186	14	audible	ADJ	audible	-	*
+1186	15	stridor	NOUN	stridor	-	*
+1186	16	or	CCONJ	or	-	*
+1186	17	wheezes	NOUN	wheeze	-	*
+1186	18	.	PUNCT	.	-	*
+
+# sentence_id = 680
+# text = The instructions were clear , if the child was black of hair , if it looked like him it was to be smothered and taken away before Robert could see it .
+680	0	The	DET	the	-	*
+680	1	instructions	NOUN	instruction	-	*
+680	2	were	AUX	be	-	*
+680	3	clear	ADJ	clear	-	*
+680	4	,	PUNCT	,	-	*
+680	5	if	SCONJ	if	-	*
+680	6	the	DET	the	-	(ARG1*
+680	7	child	NOUN	child	-	*)
+680	8	was	AUX	be	-	*
+680	9	black	ADJ	black	black.04	(V*)
+680	10	of	ADP	of	-	(ARG2*
+680	11	hair	NOUN	hair	-	*)
+680	12	,	PUNCT	,	-	*
+680	13	if	SCONJ	if	-	*
+680	14	it	PRON	it	-	*
+680	15	looked	VERB	look	-	*
+680	16	like	ADP	like	-	*
+680	17	him	PRON	he	-	*
+680	18	it	PRON	it	-	*
+680	19	was	VERB	be	-	*
+680	20	to	PART	to	-	*
+680	21	be	AUX	be	-	*
+680	22	smothered	VERB	smother	-	*
+680	23	and	CCONJ	and	-	*
+680	24	taken	VERB	take	-	*
+680	25	away	ADV	away	-	*
+680	26	before	SCONJ	before	-	*
+680	27	Robert	PROPN	Robert	-	*
+680	28	could	AUX	could	-	*
+680	29	see	VERB	see	-	*
+680	30	it	PRON	it	-	*
+680	31	.	PUNCT	.	-	*
+
+# sentence_id = 1344
+# text = The index is rising because builders are optimistic that sales will rise this year .
+1344	0	The	DET	the	-	*
+1344	1	index	NOUN	index	-	*
+1344	2	is	AUX	be	-	*
+1344	3	rising	VERB	rise	-	*
+1344	4	because	SCONJ	because	-	*
+1344	5	builders	NOUN	builder	-	(ARG1*)
+1344	6	are	AUX	be	-	*
+1344	7	optimistic	ADJ	optimistic	optimistic.01	(V*)
+1344	8	that	SCONJ	that	-	(ARG0*
+1344	9	sales	NOUN	sale	-	*
+1344	10	will	AUX	will	-	*
+1344	11	rise	VERB	rise	-	*
+1344	12	this	DET	this	-	*
+1344	13	year	NOUN	year	-	*)
+1344	14	.	PUNCT	.	-	*
+
+# sentence_id = 1497
+# text = Lame from the accident , he walked with a cane .
+1497	0	Lame	INTJ	lame	lame.02	(V*)
+1497	1	from	ADP	from	-	(ARG0*
+1497	2	the	DET	the	-	*
+1497	3	accident	NOUN	accident	-	*)
+1497	4	,	PUNCT	,	-	*
+1497	5	he	PRON	he	-	(ARG1*)
+1497	6	walked	VERB	walk	-	*
+1497	7	with	ADP	with	-	*
+1497	8	a	DET	a	-	*
+1497	9	cane	NOUN	cane	-	*
+1497	10	.	PUNCT	.	-	*
+
+# sentence_id = 947
+# text = At first , it was humanitarian to be in sympathy with the New Deal .
+947	0	At	ADP	at	-	(ARGM-TMP*
+947	1	first	ADV	first	-	*)
+947	2	,	PUNCT	,	-	*
+947	3	it	PRON	it	-	*
+947	4	was	AUX	be	-	*
+947	5	humanitarian	ADJ	humanitarian	humanitarian.01	(V*)
+947	6	to	PART	to	-	(ARG1*
+947	7	be	AUX	be	-	*
+947	8	in	ADP	in	-	*
+947	9	sympathy	NOUN	sympathy	-	*
+947	10	with	ADP	with	-	*
+947	11	the	DET	the	-	*
+947	12	New	PROPN	New	-	*
+947	13	Deal	PROPN	deal	-	*)
+947	14	.	PUNCT	.	-	*
+
+# sentence_id = 868
+# text = Either they are extremely shameless or extremely mentally retarded .
+868	0	Either	CCONJ	either	-	*
+868	1	they	PRON	they	-	(ARG1*)
+868	2	are	AUX	be	-	*
+868	3	extremely	ADV	extremely	-	*
+868	4	shameless	ADJ	shameless	-	*
+868	5	or	CCONJ	or	-	*
+868	6	extremely	ADV	extremely	-	(ARGM-EXT*)
+868	7	mentally	ADV	mentally	-	(ARG2*)
+868	8	retarded	ADJ	retarded	retard.01	(V*)
+868	9	.	PUNCT	.	-	*
+
+# sentence_id = 120
+# text = This finding is non - specific as to the cause .
+120	0	This	DET	this	-	(ARG1*
+120	1	finding	NOUN	finding	-	*)
+120	2	is	AUX	be	-	*
+120	3	non	ADV	non	nonspecific.01	(V*
+120	4	-	PUNCT	-	-	*
+120	5	specific	ADJ	specific	-	*)
+120	6	as	ADP	as	-	(ARG2*
+120	7	to	ADP	to	-	*
+120	8	the	DET	the	-	*
+120	9	cause	NOUN	cause	-	*)
+120	10	.	PUNCT	.	-	*
+
+# sentence_id = 1595
+# text = But these pirates are not only unrepentant in the face of the benevolence of the Chinese nation , they continue to sprinkle salt onto the wounds of the Chinese nation over and over again , exposing the scar and .
+1595	0	But	CCONJ	but	-	*
+1595	1	these	DET	this	-	(ARG0*
+1595	2	pirates	NOUN	pirate	-	*)
+1595	3	are	AUX	be	-	*
+1595	4	not	PART	not	-	(ARGM-ADV*
+1595	5	only	ADV	only	-	*)
+1595	6	unrepentant	ADJ	unrepentant	unrepentant.01	(V*)
+1595	7	in	ADP	in	-	(ARGM-ADV*
+1595	8	the	DET	the	-	*
+1595	9	face	NOUN	face	-	*
+1595	10	of	ADP	of	-	*
+1595	11	the	DET	the	-	*
+1595	12	benevolence	NOUN	benevolence	-	*
+1595	13	of	ADP	of	-	*
+1595	14	the	DET	the	-	*
+1595	15	Chinese	ADJ	Chinese	-	*
+1595	16	nation	NOUN	nation	-	*)
+1595	17	,	PUNCT	,	-	*
+1595	18	they	PRON	they	-	*
+1595	19	continue	VERB	continue	-	*
+1595	20	to	PART	to	-	*
+1595	21	sprinkle	VERB	sprinkle	-	*
+1595	22	salt	NOUN	salt	-	*
+1595	23	onto	ADP	onto	-	*
+1595	24	the	DET	the	-	*
+1595	25	wounds	NOUN	wound	-	*
+1595	26	of	ADP	of	-	*
+1595	27	the	DET	the	-	*
+1595	28	Chinese	ADJ	Chinese	-	*
+1595	29	nation	NOUN	nation	-	*
+1595	30	over	ADV	over	-	*
+1595	31	and	CCONJ	and	-	*
+1595	32	over	ADV	over	-	*
+1595	33	again	ADV	again	-	*
+1595	34	,	PUNCT	,	-	*
+1595	35	exposing	VERB	expose	-	*
+1595	36	the	DET	the	-	*
+1595	37	scar	NOUN	scar	-	*
+1595	38	and	CCONJ	and	-	*
+1595	39	.	PUNCT	.	-	*
+
+# sentence_id = 1652
+# text = The legal system in Louisiana is unique in the U.S. in that it is primarily based on the French and Spanish civil codes .
+1652	0	The	DET	the	-	(ARG1*
+1652	1	legal	ADJ	legal	-	*
+1652	2	system	NOUN	system	-	*
+1652	3	in	ADP	in	-	*
+1652	4	Louisiana	PROPN	Louisiana	-	*)
+1652	5	is	AUX	be	-	*
+1652	6	unique	ADJ	unique	unique.01	(V*)
+1652	7	in	ADP	in	-	(ARG3*
+1652	8	the	DET	the	-	*
+1652	9	U.S.	PROPN	U.S.	-	*)
+1652	10	in	SCONJ	in	-	(ARG4*
+1652	11	that	SCONJ	that	-	*
+1652	12	it	PRON	it	-	*
+1652	13	is	AUX	be	-	*
+1652	14	primarily	ADV	primarily	-	*
+1652	15	based	VERB	base	-	*
+1652	16	on	ADP	on	-	*
+1652	17	the	DET	the	-	*
+1652	18	French	ADJ	French	-	*
+1652	19	and	CCONJ	and	-	*
+1652	20	Spanish	ADJ	Spanish	-	*
+1652	21	civil	ADJ	civil	-	*
+1652	22	codes	NOUN	code	-	*)
+1652	23	.	PUNCT	.	-	*
+
+# sentence_id = 1538
+# text = The tip is firmly adherent to the perisigmoid tissue by fibrous bands , and is , grossly uninvolved by tumor .
+1538	0	The	DET	the	-	(ARG1*
+1538	1	tip	NOUN	tip	-	*)
+1538	2	is	AUX	be	-	*
+1538	3	firmly	ADV	firmly	-	(ARGM-MNR*)
+1538	4	adherent	ADJ	adherent	adhere.01	(V*)
+1538	5	to	ADP	to	-	(ARG2*
+1538	6	the	DET	the	-	*
+1538	7	perisigmoid	ADJ	perisigmoid	-	*
+1538	8	tissue	NOUN	tissue	-	*)
+1538	9	by	ADP	by	-	(ARGM-MNR*
+1538	10	fibrous	ADJ	fibrous	-	*
+1538	11	bands	NOUN	band	-	*)
+1538	12	,	PUNCT	,	-	*
+1538	13	and	CCONJ	and	-	*
+1538	14	is	AUX	be	-	*
+1538	15	,	PUNCT	,	-	*
+1538	16	grossly	ADV	grossly	-	*
+1538	17	uninvolved	ADJ	uninvolved	-	*
+1538	18	by	ADP	by	-	*
+1538	19	tumor	NOUN	tumor	-	*
+1538	20	.	PUNCT	.	-	*
+
+# sentence_id = 1174
+# text = My phone was off and I thought the charging cable I had home is n't working .
+1174	0	My	PRON	my	-	(ARG1*
+1174	1	phone	NOUN	phone	-	*)
+1174	2	was	AUX	be	-	*
+1174	3	off	ADV	off	off.05	(V*)
+1174	4	and	CCONJ	and	-	*
+1174	5	I	PRON	I	-	*
+1174	6	thought	VERB	think	-	*
+1174	7	the	DET	the	-	*
+1174	8	charging	NOUN	charging	-	*
+1174	9	cable	NOUN	cable	-	*
+1174	10	I	PRON	I	-	*
+1174	11	had	VERB	have	-	*
+1174	12	home	NOUN	home	-	*
+1174	13	is	AUX	be	-	*
+1174	14	n't	PART	not	-	*
+1174	15	working	VERB	work	-	*
+1174	16	.	PUNCT	.	-	*
+
+# sentence_id = 1636
+# text = Li Chengfu , one of the bullies , was extremely conceited and claimed , " I am a Secretary of the Committee for Discipline Inspection -- I do not fear anyone and am not afraid to kill you . .
+1636	0	Li	PROPN	Li	-	(ARG1*
+1636	1	Chengfu	PROPN	Chengfu	-	*
+1636	2	,	PUNCT	,	-	*
+1636	3	one	NUM	one	-	*
+1636	4	of	ADP	of	-	*
+1636	5	the	DET	the	-	*
+1636	6	bullies	NOUN	bully	-	*)
+1636	7	,	PUNCT	,	-	*
+1636	8	was	AUX	be	-	*
+1636	9	extremely	ADV	extremely	-	(ARGM-EXT*)
+1636	10	conceited	ADJ	conceited	conceited.01	(V*)
+1636	11	and	CCONJ	and	-	*
+1636	12	claimed	VERB	claim	-	*
+1636	13	,	PUNCT	,	-	*
+1636	14	"	PUNCT	"	-	*
+1636	15	I	PRON	I	-	*
+1636	16	am	AUX	be	-	*
+1636	17	a	DET	a	-	*
+1636	18	Secretary	PROPN	Secretary	-	*
+1636	19	of	ADP	of	-	*
+1636	20	the	DET	the	-	*
+1636	21	Committee	PROPN	Committee	-	*
+1636	22	for	ADP	for	-	*
+1636	23	Discipline	PROPN	Discipline	-	*
+1636	24	Inspection	PROPN	inspection	-	*
+1636	25	--	PUNCT	--	-	*
+1636	26	I	PRON	I	-	*
+1636	27	do	AUX	do	-	*
+1636	28	not	PART	not	-	*
+1636	29	fear	VERB	fear	-	*
+1636	30	anyone	PRON	anyone	-	*
+1636	31	and	CCONJ	and	-	*
+1636	32	am	AUX	be	-	*
+1636	33	not	PART	not	-	*
+1636	34	afraid	ADJ	afraid	-	*
+1636	35	to	PART	to	-	*
+1636	36	kill	VERB	kill	-	*
+1636	37	you	PRON	you	-	*
+1636	38	.	PUNCT	.	-	*
+1636	39	.	PUNCT	.	-	*
+
+# sentence_id = 1635
+# text = So what may appear as a rich mineral bonanza , will be shot down for now and the forseable future , because the cost of extraction , is larger than any profit margin .
+1635	0	So	ADV	so	-	*
+1635	1	what	PRON	what	-	*
+1635	2	may	AUX	may	-	*
+1635	3	appear	VERB	appear	-	*
+1635	4	as	ADP	as	-	*
+1635	5	a	DET	a	-	*
+1635	6	rich	ADJ	rich	-	*
+1635	7	mineral	NOUN	mineral	-	*
+1635	8	bonanza	NOUN	bonanza	-	*
+1635	9	,	PUNCT	,	-	*
+1635	10	will	AUX	will	-	*
+1635	11	be	AUX	be	-	*
+1635	12	shot	VERB	shoot	-	*
+1635	13	down	ADP	down	-	*
+1635	14	for	ADP	for	-	*
+1635	15	now	ADV	now	-	*
+1635	16	and	CCONJ	and	-	*
+1635	17	the	DET	the	-	*
+1635	18	forseable	ADJ	forseable	-	*
+1635	19	future	NOUN	future	-	*
+1635	20	,	PUNCT	,	-	*
+1635	21	because	SCONJ	because	-	*
+1635	22	the	DET	the	-	(ARG1*
+1635	23	cost	NOUN	cost	-	*
+1635	24	of	ADP	of	-	*
+1635	25	extraction	NOUN	extraction	-	*)
+1635	26	,	PUNCT	,	-	*
+1635	27	is	AUX	be	-	*
+1635	28	larger	ADJ	large	large.01	(V*)
+1635	29	than	ADP	than	-	(ARGM-CXN*
+1635	30	any	DET	any	-	*
+1635	31	profit	NOUN	profit	-	*
+1635	32	margin	NOUN	margin	-	*)
+1635	33	.	PUNCT	.	-	*
+
+# sentence_id = 1182
+# text = Lang Xianping is right , China 's economy is sick . If the problem is not solved then I am afraid the future of China is bleak .
+1182	0	Lang	PROPN	Lang	-	*
+1182	1	Xianping	PROPN	Xianping	-	*
+1182	2	is	AUX	be	-	*
+1182	3	right	ADJ	right	-	*
+1182	4	,	PUNCT	,	-	*
+1182	5	China	PROPN	China	-	*
+1182	6	's	PART	's	-	*
+1182	7	economy	NOUN	economy	-	*
+1182	8	is	AUX	be	-	*
+1182	9	sick	ADJ	sick	-	*
+1182	10	.	PUNCT	.	-	*
+1182	11	If	SCONJ	if	-	*
+1182	12	the	DET	the	-	*
+1182	13	problem	NOUN	problem	-	*
+1182	14	is	AUX	be	-	*
+1182	15	not	PART	not	-	*
+1182	16	solved	VERB	solve	-	*
+1182	17	then	ADV	then	-	*
+1182	18	I	PRON	I	-	*
+1182	19	am	AUX	be	-	*
+1182	20	afraid	ADJ	afraid	-	*
+1182	21	the	DET	the	-	(ARG1*
+1182	22	future	NOUN	future	-	*
+1182	23	of	ADP	of	-	*
+1182	24	China	PROPN	China	-	*)
+1182	25	is	AUX	be	-	*
+1182	26	bleak	ADJ	bleak	bleak.01	(V*)
+1182	27	.	PUNCT	.	-	*
+
+# sentence_id = 625
+# text = That to realize sustainable development of the economy in a place , the most important thing is to improve the soft environment . And to improve the soft environment , the most important thing is that the government should be faithful .
+625	0	That	PRON	that	-	*
+625	1	to	PART	to	-	*
+625	2	realize	VERB	realize	-	*
+625	3	sustainable	ADJ	sustainable	-	*
+625	4	development	NOUN	development	-	*
+625	5	of	ADP	of	-	*
+625	6	the	DET	the	-	*
+625	7	economy	NOUN	economy	-	*
+625	8	in	ADP	in	-	*
+625	9	a	DET	a	-	*
+625	10	place	NOUN	place	-	*
+625	11	,	PUNCT	,	-	*
+625	12	the	DET	the	-	*
+625	13	most	ADV	most	-	*
+625	14	important	ADJ	important	-	*
+625	15	thing	NOUN	thing	-	*
+625	16	is	VERB	be	-	*
+625	17	to	PART	to	-	*
+625	18	improve	VERB	improve	-	*
+625	19	the	DET	the	-	*
+625	20	soft	ADJ	soft	-	*
+625	21	environment	NOUN	environment	-	*
+625	22	.	PUNCT	.	-	*
+625	23	And	CCONJ	and	-	*
+625	24	to	PART	to	-	*
+625	25	improve	VERB	improve	-	*
+625	26	the	DET	the	-	*
+625	27	soft	ADJ	soft	-	*
+625	28	environment	NOUN	environment	-	*
+625	29	,	PUNCT	,	-	*
+625	30	the	DET	the	-	*
+625	31	most	ADV	most	-	*
+625	32	important	ADJ	important	-	*
+625	33	thing	NOUN	thing	-	*
+625	34	is	VERB	be	-	*
+625	35	that	SCONJ	that	-	*
+625	36	the	DET	the	-	(ARG1*
+625	37	government	NOUN	government	-	*)
+625	38	should	AUX	should	-	(ARGM-MOD*)
+625	39	be	AUX	be	-	*
+625	40	faithful	ADJ	faithful	faithful.01	(V*)
+625	41	.	PUNCT	.	-	*
+
+# sentence_id = 1609
+# text = But this is particular to Oracle , and it gives me syntax error when executing queries on Microsoft SQL Server .
+1609	0	But	CCONJ	but	-	*
+1609	1	this	PRON	this	-	(ARG1*)
+1609	2	is	AUX	be	-	*
+1609	3	particular	ADJ	particular	particular.01	(V*)
+1609	4	to	ADP	to	-	(ARG2*
+1609	5	Oracle	PROPN	Oracle	-	*)
+1609	6	,	PUNCT	,	-	*
+1609	7	and	CCONJ	and	-	*
+1609	8	it	PRON	it	-	*
+1609	9	gives	VERB	give	-	*
+1609	10	me	PRON	I	-	*
+1609	11	syntax	NOUN	syntax	-	*
+1609	12	error	NOUN	error	-	*
+1609	13	when	SCONJ	when	-	*
+1609	14	executing	VERB	execute	-	*
+1609	15	queries	NOUN	query	-	*
+1609	16	on	ADP	on	-	*
+1609	17	Microsoft	PROPN	Microsoft	-	*
+1609	18	SQL	PROPN	sql	-	*
+1609	19	Server	NOUN	server	-	*
+1609	20	.	PUNCT	.	-	*
+
+# sentence_id = 770
+# text = He became more flatulent but did not have any obvious changes in stool caliber .
+770	0	He	PRON	he	-	(ARG1*)
+770	1	became	VERB	become	-	*
+770	2	more	ADV	more	-	(ARGM-EXT*)
+770	3	flatulent	ADJ	flatulent	flatulent.01	(V*)
+770	4	but	CCONJ	but	-	*
+770	5	did	AUX	do	-	*
+770	6	not	PART	not	-	*
+770	7	have	VERB	have	-	*
+770	8	any	DET	any	-	*
+770	9	obvious	ADJ	obvious	-	*
+770	10	changes	NOUN	change	-	*
+770	11	in	ADP	in	-	*
+770	12	stool	NOUN	stool	-	*
+770	13	caliber	NOUN	caliber	-	*
+770	14	.	PUNCT	.	-	*
+
+# sentence_id = 1067
+# text = That standing ovation was extremely awkward , was n't it ?
+1067	0	That	DET	that	-	(ARG1*
+1067	1	standing	NOUN	standing	-	*
+1067	2	ovation	NOUN	ovation	-	*)
+1067	3	was	AUX	be	-	*
+1067	4	extremely	ADV	extremely	-	(ARGM-EXT*)
+1067	5	awkward	ADJ	awkward	awkward.01	(V*)
+1067	6	,	PUNCT	,	-	*
+1067	7	was	AUX	be	-	*
+1067	8	n't	PART	not	-	*
+1067	9	it	PRON	it	-	*
+1067	10	?	PUNCT	?	-	*
+
+# sentence_id = 44
+# text = Anything linked to money and material benefits can not be that pure .
+44	0	Anything	PRON	anything	-	(ARG1*
+44	1	linked	VERB	link	-	*
+44	2	to	ADP	to	-	*
+44	3	money	NOUN	money	-	*
+44	4	and	CCONJ	and	-	*
+44	5	material	NOUN	material	-	*
+44	6	benefits	NOUN	benefit	-	*)
+44	7	can	AUX	can	-	(ARGM-MOD*)
+44	8	not	PART	not	-	(ARGM-NEG*)
+44	9	be	AUX	be	-	*
+44	10	that	ADV	that	-	(ARGM-EXT*)
+44	11	pure	ADJ	pure	pure.02	(V*)
+44	12	.	PUNCT	.	-	*
+
+# sentence_id = 697
+# text = I wonder how outdated we will think Harry Potter is 50 years time .
+697	0	I	PRON	I	-	*
+697	1	wonder	VERB	wonder	-	*
+697	2	how	SCONJ	how	-	(ARGM-EXT*)
+697	3	outdated	ADJ	outdated	outdate.01	(V*)
+697	4	we	PRON	we	-	*
+697	5	will	AUX	will	-	*
+697	6	think	VERB	think	-	*
+697	7	Harry	PROPN	Harry	-	(ARG1*
+697	8	Potter	PROPN	Potter	-	*)
+697	9	is	AUX	be	-	*
+697	10	50	NUM	50	-	(ARGM-TMP*
+697	11	years	NOUN	year	-	*
+697	12	time	NOUN	time	-	*)
+697	13	.	PUNCT	.	-	*
+
+# sentence_id = 1099
+# text = Jeb Bush is too liberal to run for the GOP nomination .
+1099	0	Jeb	PROPN	Jeb	-	(ARG1*
+1099	1	Bush	PROPN	Bush	-	*)
+1099	2	is	AUX	be	-	*
+1099	3	too	ADV	too	-	(ARGM-CXN*)
+1099	4	liberal	ADJ	liberal	liberal.02	(V*)
+1099	5	to	PART	to	-	(C-ARGM-CXN*
+1099	6	run	VERB	run	-	*
+1099	7	for	ADP	for	-	*
+1099	8	the	DET	the	-	*
+1099	9	GOP	PROPN	GOP	-	*
+1099	10	nomination	NOUN	nomination	-	*)
+1099	11	.	PUNCT	.	-	*
+
+# sentence_id = 1031
+# text = The nicotine – body weight relationship is noteworthy to us for a couple of reasons .
+1031	0	The	DET	the	-	(ARG1*
+1031	1	nicotine	NOUN	nicotine	-	*
+1031	2	–	PUNCT	-	-	*
+1031	3	body	NOUN	body	-	*
+1031	4	weight	NOUN	weight	-	*
+1031	5	relationship	NOUN	relationship	-	*)
+1031	6	is	AUX	be	-	*
+1031	7	noteworthy	ADJ	noteworthy	noteworthy.03	(V*)
+1031	8	to	ADP	to	-	(ARG0*
+1031	9	us	PRON	we	-	*)
+1031	10	for	ADP	for	-	(ARG2*
+1031	11	a	DET	a	-	*
+1031	12	couple	NOUN	couple	-	*
+1031	13	of	ADP	of	-	*
+1031	14	reasons	NOUN	reason	-	*)
+1031	15	.	PUNCT	.	-	*
+
+# sentence_id = 133
+# text = Man ! I am completely spent from that basketball game !
+133	0	Man	NOUN	man	-	*
+133	1	!	PUNCT	!	-	*
+133	2	I	PRON	I	-	(ARG1*)
+133	3	am	AUX	be	-	*
+133	4	completely	ADV	completely	-	(ARGM-EXT*)
+133	5	spent	VERB	spend	spend.04	(V*)
+133	6	from	ADP	from	-	(ARG2*
+133	7	that	DET	that	-	*
+133	8	basketball	NOUN	basketball	-	*
+133	9	game	NOUN	game	-	*)
+133	10	!	PUNCT	!	-	*
+
+# sentence_id = 591
+# text = She had a cart full of groceries and when it was time for her to pay she was short $ 10 .
+591	0	She	PRON	she	-	*
+591	1	had	VERB	have	-	*
+591	2	a	DET	a	-	*
+591	3	cart	NOUN	cart	-	*
+591	4	full	ADJ	full	-	*
+591	5	of	ADP	of	-	*
+591	6	groceries	NOUN	grocery	-	*
+591	7	and	CCONJ	and	-	*
+591	8	when	SCONJ	when	-	(ARGM-TMP*
+591	9	it	PRON	it	-	*
+591	10	was	AUX	be	-	*
+591	11	time	NOUN	time	-	*
+591	12	for	SCONJ	for	-	*
+591	13	her	PRON	she	-	*
+591	14	to	PART	to	-	*
+591	15	pay	VERB	pay	-	*)
+591	16	she	PRON	she	-	(ARG1*)
+591	17	was	AUX	be	-	*
+591	18	short	ADJ	short	short.06	(V*)
+591	19	$	SYM	$	-	(ARG2*
+591	20	10	NUM	10	-	*)
+591	21	.	PUNCT	.	-	*
+
+# sentence_id = 122
+# text = Our country is wealthy in resources such as oil , material , men power and the high - experiences in a lot of fields ( medical , engineering and most of modern science ) .
+122	0	Our	PRON	we	-	(ARG1*
+122	1	country	NOUN	country	-	*)
+122	2	is	AUX	be	-	*
+122	3	wealthy	ADJ	wealthy	wealthy.01	(V*)
+122	4	in	ADP	in	-	(ARG2*
+122	5	resources	NOUN	resource	-	*
+122	6	such	ADJ	such	-	*
+122	7	as	ADP	as	-	*
+122	8	oil	NOUN	oil	-	*
+122	9	,	PUNCT	,	-	*
+122	10	material	NOUN	material	-	*
+122	11	,	PUNCT	,	-	*
+122	12	men	NOUN	man	-	*
+122	13	power	NOUN	power	-	*
+122	14	and	CCONJ	and	-	*
+122	15	the	DET	the	-	*
+122	16	high	ADJ	high	-	*
+122	17	-	PUNCT	-	-	*
+122	18	experiences	NOUN	experience	-	*
+122	19	in	ADP	in	-	*
+122	20	a	DET	a	-	*
+122	21	lot	NOUN	lot	-	*
+122	22	of	ADP	of	-	*
+122	23	fields	NOUN	field	-	*
+122	24	(	PUNCT	(	-	*
+122	25	medical	ADJ	medical	-	*
+122	26	,	PUNCT	,	-	*
+122	27	engineering	NOUN	engineering	-	*
+122	28	and	CCONJ	and	-	*
+122	29	most	ADJ	most	-	*
+122	30	of	ADP	of	-	*
+122	31	modern	ADJ	modern	-	*
+122	32	science	NOUN	science	-	*
+122	33	)	PUNCT	)	-	*)
+122	34	.	PUNCT	.	-	*
+
+# sentence_id = 657
+# text = The July unemployment rate in Ohio was unchanged from 7.2 % in the like month last year .
+657	0	The	DET	the	-	(ARG1*
+657	1	July	PROPN	July	-	*
+657	2	unemployment	NOUN	unemployment	-	*
+657	3	rate	NOUN	rate	-	*
+657	4	in	ADP	in	-	*
+657	5	Ohio	PROPN	Ohio	-	*)
+657	6	was	AUX	be	-	*
+657	7	unchanged	ADJ	unchanged	unchanged.01	(V*)
+657	8	from	ADP	from	-	(ARG2*
+657	9	7.2	NUM	7.2	-	*
+657	10	%	SYM	%	-	*)
+657	11	in	ADP	in	-	(ARGM-TMP*
+657	12	the	DET	the	-	*
+657	13	like	ADJ	like	-	*
+657	14	month	NOUN	month	-	*
+657	15	last	ADJ	last	-	*
+657	16	year	NOUN	year	-	*)
+657	17	.	PUNCT	.	-	*
+
+# sentence_id = 1672
+# text = Last time we got a thread like this , I suggested Tiuta and the OP did some research and found the cost was prohibitive .
+1672	0	Last	ADJ	last	-	*
+1672	1	time	NOUN	time	-	*
+1672	2	we	PRON	we	-	*
+1672	3	got	VERB	get	-	*
+1672	4	a	DET	a	-	*
+1672	5	thread	NOUN	thread	-	*
+1672	6	like	ADP	like	-	*
+1672	7	this	PRON	this	-	*
+1672	8	,	PUNCT	,	-	*
+1672	9	I	PRON	I	-	*
+1672	10	suggested	VERB	suggest	-	*
+1672	11	Tiuta	PROPN	Tiuta	-	*
+1672	12	and	CCONJ	and	-	*
+1672	13	the	DET	the	-	*
+1672	14	OP	PROPN	OP	-	*
+1672	15	did	VERB	do	-	*
+1672	16	some	DET	some	-	*
+1672	17	research	NOUN	research	-	*
+1672	18	and	CCONJ	and	-	*
+1672	19	found	VERB	find	-	*
+1672	20	the	DET	the	-	(ARG0*
+1672	21	cost	NOUN	cost	-	*)
+1672	22	was	AUX	be	-	*
+1672	23	prohibitive	ADJ	prohibitive	prohibitive.02	(V*)
+1672	24	.	PUNCT	.	-	*
+
+# sentence_id = 1273
+# text = Ms. Miller 's cardiac risk factors include hypertension , family history and being postmenopausal .
+1273	0	Ms.	PROPN	Ms.	-	(ARG1*
+1273	1	Miller	PROPN	Miller	-	*)
+1273	2	's	PART	's	-	*
+1273	3	cardiac	ADJ	cardiac	-	*
+1273	4	risk	NOUN	risk	-	*
+1273	5	factors	NOUN	factor	-	*
+1273	6	include	VERB	include	-	*
+1273	7	hypertension	NOUN	hypertension	-	*
+1273	8	,	PUNCT	,	-	*
+1273	9	family	NOUN	family	-	*
+1273	10	history	NOUN	history	-	*
+1273	11	and	CCONJ	and	-	*
+1273	12	being	AUX	be	-	*
+1273	13	postmenopausal	ADJ	postmenopausal	postmenopausal.01	(V*)
+1273	14	.	PUNCT	.	-	*
+
+# sentence_id = 1426
+# text = You say it is crazy that america forces sanction on Iran , yet it is not in their economic or defence interests to allow this to happen so in fact it is perfectly sane .
+1426	0	You	PRON	you	-	*
+1426	1	say	VERB	say	-	*
+1426	2	it	PRON	it	-	*
+1426	3	is	AUX	be	-	*
+1426	4	crazy	ADJ	crazy	-	*
+1426	5	that	SCONJ	that	-	*
+1426	6	america	PROPN	america	-	*
+1426	7	forces	VERB	force	-	*
+1426	8	sanction	NOUN	sanction	-	*
+1426	9	on	ADP	on	-	*
+1426	10	Iran	PROPN	Iran	-	*
+1426	11	,	PUNCT	,	-	*
+1426	12	yet	CCONJ	yet	-	*
+1426	13	it	PRON	it	-	*
+1426	14	is	AUX	be	-	*
+1426	15	not	PART	not	-	*
+1426	16	in	ADP	in	-	*
+1426	17	their	PRON	they	-	*
+1426	18	economic	ADJ	economic	-	*
+1426	19	or	CCONJ	or	-	*
+1426	20	defence	NOUN	defence	-	*
+1426	21	interests	NOUN	interest	-	*
+1426	22	to	PART	to	-	*
+1426	23	allow	VERB	allow	-	*
+1426	24	this	PRON	this	-	*
+1426	25	to	PART	to	-	*
+1426	26	happen	VERB	happen	-	*
+1426	27	so	ADV	so	-	(ARGM-ADV*)
+1426	28	in	ADP	in	-	(ARGM-ADV*
+1426	29	fact	NOUN	fact	-	*)
+1426	30	it	PRON	it	-	(ARG1*)
+1426	31	is	AUX	be	-	*
+1426	32	perfectly	ADV	perfectly	-	(ARGM-ADV*)
+1426	33	sane	ADJ	sane	sane.01	(V*)
+1426	34	.	PUNCT	.	-	*
+
+# sentence_id = 1626
+# text = I thought she was cruel to punish me for thinking she was cruel .
+1626	0	I	PRON	I	-	*
+1626	1	thought	VERB	think	-	*
+1626	2	she	PRON	she	-	(ARG0*)
+1626	3	was	AUX	be	-	*
+1626	4	cruel	ADJ	cruel	cruel.01	(V*)
+1626	5	to	PART	to	-	(ARG1*
+1626	6	punish	VERB	punish	-	*
+1626	7	me	PRON	I	-	*
+1626	8	for	SCONJ	for	-	*
+1626	9	thinking	VERB	think	-	*
+1626	10	she	PRON	she	-	*
+1626	11	was	AUX	be	-	*
+1626	12	cruel	ADJ	cruel	-	*)
+1626	13	.	PUNCT	.	-	*
+
+# sentence_id = 1442
+# text = I 'll be frank with you , I 'm getting annoyed at their continuous comments of independence yet at the same time they have it the best out of the states that make up the United Kingdom .
+1442	0	I	PRON	I	-	(ARG0*)
+1442	1	'll	AUX	will	-	(ARGM-MOD*)
+1442	2	be	AUX	be	-	*
+1442	3	frank	ADJ	frank	frank.01	(V*)
+1442	4	with	ADP	with	-	(ARG2*
+1442	5	you	PRON	you	-	*)
+1442	6	,	PUNCT	,	-	*
+1442	7	I	PRON	I	-	*
+1442	8	'm	AUX	be	-	*
+1442	9	getting	VERB	get	-	*
+1442	10	annoyed	VERB	annoy	-	*
+1442	11	at	ADP	at	-	*
+1442	12	their	PRON	they	-	*
+1442	13	continuous	ADJ	continuous	-	*
+1442	14	comments	NOUN	comment	-	*
+1442	15	of	ADP	of	-	*
+1442	16	independence	NOUN	independence	-	*
+1442	17	yet	ADV	yet	-	*
+1442	18	at	ADP	at	-	*
+1442	19	the	DET	the	-	*
+1442	20	same	ADJ	same	-	*
+1442	21	time	NOUN	time	-	*
+1442	22	they	PRON	they	-	*
+1442	23	have	VERB	have	-	*
+1442	24	it	PRON	it	-	*
+1442	25	the	DET	the	-	*
+1442	26	best	ADJ	good	-	*
+1442	27	out	ADP	out	-	*
+1442	28	of	ADP	of	-	*
+1442	29	the	DET	the	-	*
+1442	30	states	NOUN	state	-	*
+1442	31	that	PRON	that	-	*
+1442	32	make	VERB	make	-	*
+1442	33	up	ADP	up	-	*
+1442	34	the	DET	the	-	*
+1442	35	United	ADJ	United	-	*
+1442	36	Kingdom	PROPN	Kingdom	-	*
+1442	37	.	PUNCT	.	-	*
+
+# sentence_id = 1454
+# text = I think the biggest face slap for me was when he was cynical to my apology , as if all " younger " people in the world are malicious and irresponsible .
+1454	0	I	PRON	I	-	*
+1454	1	think	VERB	think	-	*
+1454	2	the	DET	the	-	*
+1454	3	biggest	ADJ	big	-	*
+1454	4	face	NOUN	face	-	*
+1454	5	slap	NOUN	slap	-	*
+1454	6	for	ADP	for	-	*
+1454	7	me	PRON	I	-	*
+1454	8	was	VERB	be	-	*
+1454	9	when	SCONJ	when	-	(ARGM-TMP*)
+1454	10	he	PRON	he	-	(ARG1*)
+1454	11	was	AUX	be	-	*
+1454	12	cynical	ADJ	cynical	cynical.01	(V*)
+1454	13	to	ADP	to	-	(ARG0*
+1454	14	my	PRON	my	-	*
+1454	15	apology	NOUN	apology	-	*)
+1454	16	,	PUNCT	,	-	*
+1454	17	as	SCONJ	as	-	(ARGM-MNR*
+1454	18	if	SCONJ	if	-	*
+1454	19	all	DET	all	-	*
+1454	20	"	PUNCT	"	-	*
+1454	21	younger	ADJ	young	-	*
+1454	22	"	PUNCT	"	-	*
+1454	23	people	NOUN	people	-	*
+1454	24	in	ADP	in	-	*
+1454	25	the	DET	the	-	*
+1454	26	world	NOUN	world	-	*
+1454	27	are	AUX	be	-	*
+1454	28	malicious	ADJ	malicious	-	*
+1454	29	and	CCONJ	and	-	*
+1454	30	irresponsible	ADJ	irresponsible	-	*)
+1454	31	.	PUNCT	.	-	*
+
+# sentence_id = 607
+# text = Rafael Nadal is through to the semi - finals of the China Open after coming from a set down to beat Jack Sock .
+607	0	Rafael	PROPN	Rafael	-	(ARG1*
+607	1	Nadal	PROPN	Nadal	-	*)
+607	2	is	AUX	be	-	*
+607	3	through	ADP	through	through.02	(V*)
+607	4	to	ADP	to	-	(ARG3*
+607	5	the	DET	the	-	*
+607	6	semi	NOUN	semi	-	*
+607	7	-	PUNCT	-	-	*
+607	8	finals	NOUN	final	-	*
+607	9	of	ADP	of	-	*
+607	10	the	DET	the	-	*
+607	11	China	PROPN	China	-	*
+607	12	Open	PROPN	Open	-	*)
+607	13	after	SCONJ	after	-	(ARGM-TMP*
+607	14	coming	VERB	come	-	*
+607	15	from	ADP	from	-	*
+607	16	a	DET	a	-	*
+607	17	set	NOUN	set	-	*
+607	18	down	ADP	down	-	*
+607	19	to	PART	to	-	*
+607	20	beat	VERB	beat	-	*
+607	21	Jack	PROPN	Jack	-	*
+607	22	Sock	PROPN	Sock	-	*)
+607	23	.	PUNCT	.	-	*
+
+# sentence_id = 967
+# text = From the outset , the NSL was antiwar , but it distinguished between imperalist wars and " progressive " wars ( anti - imperialistic or class wars ) .
+967	0	From	ADP	from	-	*
+967	1	the	DET	the	-	*
+967	2	outset	NOUN	outset	-	*
+967	3	,	PUNCT	,	-	*
+967	4	the	DET	the	-	(ARG1*
+967	5	NSL	PROPN	NSL	-	*)
+967	6	was	AUX	be	-	*
+967	7	antiwar	ADJ	antiwar	antiwar.01	(V*)
+967	8	,	PUNCT	,	-	*
+967	9	but	CCONJ	but	-	*
+967	10	it	PRON	it	-	*
+967	11	distinguished	VERB	distinguish	-	*
+967	12	between	ADP	between	-	*
+967	13	imperalist	ADJ	imperalist	-	*
+967	14	wars	NOUN	war	-	*
+967	15	and	CCONJ	and	-	*
+967	16	"	PUNCT	"	-	*
+967	17	progressive	ADJ	progressive	-	*
+967	18	"	PUNCT	"	-	*
+967	19	wars	NOUN	war	-	*
+967	20	(	PUNCT	(	-	*
+967	21	anti	ADJ	anti	-	*
+967	22	-	PUNCT	-	-	*
+967	23	imperialistic	ADJ	imperialistic	-	*
+967	24	or	CCONJ	or	-	*
+967	25	class	NOUN	class	-	*
+967	26	wars	NOUN	war	-	*
+967	27	)	PUNCT	)	-	*
+967	28	.	PUNCT	.	-	*
+
+# sentence_id = 1285
+# text = Some conservatives have argued that simply having Muslim ancestors means Obama himself was Muslim before embracing Christianity .
+1285	0	Some	DET	some	-	*
+1285	1	conservatives	NOUN	conservative	-	*
+1285	2	have	AUX	have	-	*
+1285	3	argued	VERB	argue	-	*
+1285	4	that	SCONJ	that	-	*
+1285	5	simply	ADV	simply	-	*
+1285	6	having	VERB	have	-	*
+1285	7	Muslim	ADJ	Muslim	muslim.01	(V*)
+1285	8	ancestors	NOUN	ancestor	-	(ARG1*)
+1285	9	means	VERB	mean	-	*
+1285	10	Obama	PROPN	Obama	-	*
+1285	11	himself	PRON	himself	-	*
+1285	12	was	AUX	be	-	*
+1285	13	Muslim	ADJ	Muslim	-	*
+1285	14	before	SCONJ	before	-	*
+1285	15	embracing	VERB	embrace	-	*
+1285	16	Christianity	PROPN	Christianity	-	*
+1285	17	.	PUNCT	.	-	*
+
+# sentence_id = 773
+# text = She 's asking me what y r txting , she does not miss a beat . I think she 's getting antsy living with a grandpa .
+773	0	She	PRON	she	-	*
+773	1	's	AUX	be	-	*
+773	2	asking	VERB	ask	-	*
+773	3	me	PRON	I	-	*
+773	4	what	PRON	what	-	*
+773	5	y	PRON	y	-	*
+773	6	r	AUX	be	-	*
+773	7	txting	VERB	txte	-	*
+773	8	,	PUNCT	,	-	*
+773	9	she	PRON	she	-	*
+773	10	does	AUX	do	-	*
+773	11	not	PART	not	-	*
+773	12	miss	VERB	miss	-	*
+773	13	a	DET	a	-	*
+773	14	beat	NOUN	beat	-	*
+773	15	.	PUNCT	.	-	*
+773	16	I	PRON	I	-	*
+773	17	think	VERB	think	-	*
+773	18	she	PRON	she	-	(ARG1*)
+773	19	's	AUX	be	-	*
+773	20	getting	VERB	get	-	*
+773	21	antsy	ADJ	antsy	antsy.01	(V*)
+773	22	living	VERB	live	-	(ARG0*
+773	23	with	ADP	with	-	*
+773	24	a	DET	a	-	*
+773	25	grandpa	NOUN	grandpa	-	*)
+773	26	.	PUNCT	.	-	*
+
+# sentence_id = 1124
+# text = He was light of heart , and his soul was in love with Bah?'u'll?h .
+1124	0	He	PRON	he	-	(ARG1*)
+1124	1	was	AUX	be	-	*
+1124	2	light	ADJ	light	light.05	(V*)
+1124	3	of	ADP	of	-	(ARG2*
+1124	4	heart	NOUN	heart	-	*)
+1124	5	,	PUNCT	,	-	*
+1124	6	and	CCONJ	and	-	*
+1124	7	his	PRON	he	-	*
+1124	8	soul	NOUN	soul	-	*
+1124	9	was	AUX	be	-	*
+1124	10	in	ADP	in	-	*
+1124	11	love	NOUN	love	-	*
+1124	12	with	ADP	with	-	*
+1124	13	Bah?'u'll?h	PROPN	Bah?'u'll?h	-	*
+1124	14	.	PUNCT	.	-	*
+
+# sentence_id = 505
+# text = He is nervous at the prospect of failing math again .
+505	0	He	PRON	he	-	(ARG1*)
+505	1	is	AUX	be	-	*
+505	2	nervous	ADJ	nervous	nervous.01	(V*)
+505	3	at	ADP	at	-	(ARG2*
+505	4	the	DET	the	-	*
+505	5	prospect	NOUN	prospect	-	*
+505	6	of	SCONJ	of	-	*
+505	7	failing	VERB	fail	-	*
+505	8	math	NOUN	math	-	*
+505	9	again	ADV	again	-	*)
+505	10	.	PUNCT	.	-	*
+

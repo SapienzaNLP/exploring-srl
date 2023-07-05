@@ -1,0 +1,2354 @@
+# sentence_id = 1552
+# text = Christian singer promotes counteraction against planned burning of the Quran .
+1552	0	Christian	ADJ	Christian	-	*
+1552	1	singer	NOUN	singer	-	*
+1552	2	promotes	VERB	promote	-	*
+1552	3	counteraction	NOUN	counteraction	counteraction.01	(V*)
+1552	4	against	ADP	against	-	(ARG1*
+1552	5	planned	VERB	plan	-	*
+1552	6	burning	NOUN	burning	-	*
+1552	7	of	ADP	of	-	*
+1552	8	the	DET	the	-	*
+1552	9	Quran	PROPN	Quran	-	*)
+1552	10	.	PUNCT	.	-	*
+
+# sentence_id = 503
+# text = I just get voicemail when I call and a robo - response when I email directing me to a way out - of - date , highly uninformative website .
+503	0	I	PRON	I	-	*
+503	1	just	ADV	just	-	*
+503	2	get	VERB	get	-	*
+503	3	voicemail	NOUN	voicemail	-	*
+503	4	when	SCONJ	when	-	*
+503	5	I	PRON	I	-	*
+503	6	call	VERB	call	-	*
+503	7	and	CCONJ	and	-	*
+503	8	a	DET	a	-	*
+503	9	robo	NOUN	robo	roboresponse.01	(V*
+503	10	-	PUNCT	-	-	*
+503	11	response	NOUN	response	-	*)
+503	12	when	SCONJ	when	-	*
+503	13	I	PRON	I	-	*
+503	14	email	VERB	email	-	*
+503	15	directing	VERB	direct	-	*
+503	16	me	PRON	I	-	*
+503	17	to	ADP	to	-	*
+503	18	a	DET	a	-	*
+503	19	way	NOUN	way	-	*
+503	20	out	ADP	out	-	*
+503	21	-	PUNCT	-	-	*
+503	22	of	ADP	of	-	*
+503	23	-	PUNCT	-	-	*
+503	24	date	NOUN	date	-	*
+503	25	,	PUNCT	,	-	*
+503	26	highly	ADV	highly	-	*
+503	27	uninformative	ADJ	uninformative	-	*
+503	28	website	NOUN	website	-	*
+503	29	.	PUNCT	.	-	*
+
+# sentence_id = 143
+# text = The conflagration of fire roared skyward several hundred feet .
+143	0	The	DET	the	-	*
+143	1	conflagration	NOUN	conflagration	conflagrate.01	(V*)
+143	2	of	ADP	of	-	(ARG2*
+143	3	fire	NOUN	fire	-	*)
+143	4	roared	VERB	roar	-	*
+143	5	skyward	ADV	skyward	-	*
+143	6	several	ADJ	several	-	*
+143	7	hundred	NUM	hundred	-	*
+143	8	feet	NOUN	foot	-	*
+143	9	.	PUNCT	.	-	*
+
+# sentence_id = 150
+# text = In a match for SWA in Huntington , WV , Chance Prophet unleashes the fury that is the BODYSLAM OF DOOOOOM !
+150	0	In	ADP	in	-	*
+150	1	a	DET	a	-	*
+150	2	match	NOUN	match	-	*
+150	3	for	ADP	for	-	*
+150	4	SWA	PROPN	SWA	-	*
+150	5	in	ADP	in	-	*
+150	6	Huntington	PROPN	Huntington	-	*
+150	7	,	PUNCT	,	-	*
+150	8	WV	PROPN	WV	-	*
+150	9	,	PUNCT	,	-	*
+150	10	Chance	PROPN	Chance	-	*
+150	11	Prophet	PROPN	Prophet	-	*
+150	12	unleashes	VERB	unleash	-	*
+150	13	the	DET	the	-	*
+150	14	fury	NOUN	fury	-	*
+150	15	that	PRON	that	-	*
+150	16	is	AUX	be	-	*
+150	17	the	DET	the	-	*
+150	18	BODYSLAM	NOUN	bodyslam	bodyslam.01	(V*)
+150	19	OF	ADP	of	-	(ARGM-ADJ*
+150	20	DOOOOOM	NOUN	dooooom	-	*)
+150	21	!	PUNCT	!	-	*
+
+# sentence_id = 935
+# text = The airplane is at a height of 30,000 ft .
+935	0	The	DET	the	-	*
+935	1	airplane	NOUN	airplane	-	*
+935	2	is	AUX	be	-	*
+935	3	at	ADP	at	-	*
+935	4	a	DET	a	-	*
+935	5	height	NOUN	height	high.02	(V*)
+935	6	of	ADP	of	-	(ARG2*
+935	7	30,000	NUM	30000	-	*
+935	8	ft	NOUN	ft	-	*)
+935	9	.	PUNCT	.	-	*
+
+# sentence_id = 369
+# text = France flash flood ( which happened on the same day as our Orchard Road flash flood , with a death toll of 25 reported and counting ) .
+369	0	France	PROPN	France	-	*
+369	1	flash	NOUN	flash	-	*
+369	2	flood	NOUN	flood	-	*
+369	3	(	PUNCT	(	-	*
+369	4	which	PRON	which	-	*
+369	5	happened	VERB	happen	-	*
+369	6	on	ADP	on	-	*
+369	7	the	DET	the	-	*
+369	8	same	ADJ	same	-	*
+369	9	day	NOUN	day	-	*
+369	10	as	ADP	as	-	*
+369	11	our	PRON	we	-	(ARGM-ADJ*)
+369	12	Orchard	PROPN	Orchard	-	(ARGM-LOC*
+369	13	Road	PROPN	Road	-	*)
+369	14	flash	NOUN	flash	flashflood.01	(V*
+369	15	flood	NOUN	flood	-	*)
+369	16	,	PUNCT	,	-	*
+369	17	with	ADP	with	-	(ARG3*
+369	18	a	DET	a	-	*
+369	19	death	NOUN	death	-	*
+369	20	toll	NOUN	toll	-	*
+369	21	of	ADP	of	-	*
+369	22	25	NUM	25	-	*
+369	23	reported	VERB	report	-	*
+369	24	and	CCONJ	and	-	*
+369	25	counting	NOUN	counting	-	*)
+369	26	)	PUNCT	)	-	*
+369	27	.	PUNCT	.	-	*
+
+# sentence_id = 836
+# text = His over - reliance on diplomacy with Republicans has been costly for critical progress .
+836	0	His	PRON	his	-	*
+836	1	over	ADP	over	-	*
+836	2	-	PUNCT	-	-	*
+836	3	reliance	NOUN	reliance	-	*
+836	4	on	ADP	on	-	*
+836	5	diplomacy	NOUN	diplomacy	diplomatize.01	(V*)
+836	6	with	ADP	with	-	(ARG2*
+836	7	Republicans	PROPN	Republican	-	*)
+836	8	has	AUX	have	-	*
+836	9	been	AUX	be	-	*
+836	10	costly	ADJ	costly	-	*
+836	11	for	ADP	for	-	*
+836	12	critical	ADJ	critical	-	*
+836	13	progress	NOUN	progress	-	*
+836	14	.	PUNCT	.	-	*
+
+# sentence_id = 1551
+# text = Molecular Insight into the Counteraction of Trehalose on Urea - Induced Protein Denaturation Using Molecular Dynamics Simulation .
+1551	0	Molecular	ADJ	molecular	-	*
+1551	1	Insight	NOUN	insight	-	*
+1551	2	into	ADP	into	-	*
+1551	3	the	DET	the	-	*
+1551	4	Counteraction	NOUN	counteraction	counteraction.01	(V*)
+1551	5	of	ADP	of	-	(ARG0*
+1551	6	Trehalose	NOUN	trehalose	-	*)
+1551	7	on	ADP	on	-	(ARG1*
+1551	8	Urea	NOUN	urea	-	*
+1551	9	-	PUNCT	-	-	*
+1551	10	Induced	VERB	induce	-	*
+1551	11	Protein	NOUN	protein	-	*
+1551	12	Denaturation	NOUN	denaturation	-	*
+1551	13	Using	VERB	use	-	*
+1551	14	Molecular	ADJ	molecular	-	*
+1551	15	Dynamics	NOUN	dynamics	-	*
+1551	16	Simulation	NOUN	simulation	-	*)
+1551	17	.	PUNCT	.	-	*
+
+# sentence_id = 1832
+# text = With the implosion of Cain 's campaign , some big endorsements for Gingrich , and Gingrich 's rapid rise in the polls of GOP voters , InTrade has dutifully given Newtie his turn as the Official Anti - Romney Candidate -- his percentage on InTrade nearly doubled in the last 48 hours , from 16 % to 28 % .
+1832	0	With	ADP	with	-	*
+1832	1	the	DET	the	-	*
+1832	2	implosion	NOUN	implosion	implode.01	(V*)
+1832	3	of	ADP	of	-	(ARG1*
+1832	4	Cain	PROPN	Cain	-	*
+1832	5	's	PART	's	-	*
+1832	6	campaign	NOUN	campaign	-	*)
+1832	7	,	PUNCT	,	-	*
+1832	8	some	DET	some	-	*
+1832	9	big	ADJ	big	-	*
+1832	10	endorsements	NOUN	endorsement	-	*
+1832	11	for	ADP	for	-	*
+1832	12	Gingrich	PROPN	Gingrich	-	*
+1832	13	,	PUNCT	,	-	*
+1832	14	and	CCONJ	and	-	*
+1832	15	Gingrich	PROPN	Gingrich	-	*
+1832	16	's	PART	's	-	*
+1832	17	rapid	ADJ	rapid	-	*
+1832	18	rise	NOUN	rise	-	*
+1832	19	in	ADP	in	-	*
+1832	20	the	DET	the	-	*
+1832	21	polls	NOUN	poll	-	*
+1832	22	of	ADP	of	-	*
+1832	23	GOP	PROPN	GOP	-	*
+1832	24	voters	NOUN	voter	-	*
+1832	25	,	PUNCT	,	-	*
+1832	26	InTrade	PROPN	InTrade	-	*
+1832	27	has	AUX	have	-	*
+1832	28	dutifully	ADV	dutifully	-	*
+1832	29	given	VERB	give	-	*
+1832	30	Newtie	PROPN	Newtie	-	*
+1832	31	his	PRON	he	-	*
+1832	32	turn	NOUN	turn	-	*
+1832	33	as	ADP	as	-	*
+1832	34	the	DET	the	-	*
+1832	35	Official	ADJ	official	-	*
+1832	36	Anti	PROPN	Anti	-	*
+1832	37	-	PUNCT	-	-	*
+1832	38	Romney	PROPN	Romney	-	*
+1832	39	Candidate	PROPN	Candidate	-	*
+1832	40	--	PUNCT	--	-	*
+1832	41	his	PRON	he	-	*
+1832	42	percentage	NOUN	percentage	-	*
+1832	43	on	ADP	on	-	*
+1832	44	InTrade	PROPN	InTrade	-	*
+1832	45	nearly	ADV	nearly	-	*
+1832	46	doubled	VERB	double	-	*
+1832	47	in	ADP	in	-	*
+1832	48	the	DET	the	-	*
+1832	49	last	ADJ	last	-	*
+1832	50	48	NUM	48	-	*
+1832	51	hours	NOUN	hour	-	*
+1832	52	,	PUNCT	,	-	*
+1832	53	from	ADP	from	-	*
+1832	54	16	NUM	16	-	*
+1832	55	%	SYM	%	-	*
+1832	56	to	ADP	to	-	*
+1832	57	28	NUM	28	-	*
+1832	58	%	SYM	%	-	*
+1832	59	.	PUNCT	.	-	*
+
+# sentence_id = 611
+# text = The re - education of immigrant children to blend with the larger community robbed the children of their cultural heritage .
+611	0	The	DET	the	-	*
+611	1	re	ADP	re	reeducate.01	(V*
+611	2	-	PUNCT	-	-	*
+611	3	education	NOUN	education	-	*)
+611	4	of	ADP	of	-	(ARG1*
+611	5	immigrant	ADJ	immigrant	-	*
+611	6	children	NOUN	child	-	*)
+611	7	to	PART	to	-	*
+611	8	blend	VERB	blend	-	*
+611	9	with	ADP	with	-	*
+611	10	the	DET	the	-	*
+611	11	larger	ADJ	large	-	*
+611	12	community	NOUN	community	-	*
+611	13	robbed	VERB	rob	-	*
+611	14	the	DET	the	-	*
+611	15	children	NOUN	child	-	*
+611	16	of	ADP	of	-	*
+611	17	their	PRON	they	-	*
+611	18	cultural	ADJ	cultural	-	*
+611	19	heritage	NOUN	heritage	-	*
+611	20	.	PUNCT	.	-	*
+
+# sentence_id = 4
+# text = Where 's the public outcry about Russian veto and unilateralism -LRB- a criticism routinely employed - rightly -against the United States when it vetoes resolutions on Israeli aggression -RRB- ?
+4	0	Where	ADV	where	-	*
+4	1	's	AUX	be	-	*
+4	2	the	DET	the	-	*
+4	3	public	ADJ	public	-	*
+4	4	outcry	NOUN	outcry	-	*
+4	5	about	ADP	about	-	*
+4	6	Russian	ADJ	Russian	-	*
+4	7	veto	NOUN	veto	-	*
+4	8	and	CCONJ	and	-	*
+4	9	unilateralism	NOUN	unilateralism	-	*
+4	10	-LRB-	PUNCT	-lrb-	-	*
+4	11	a	DET	a	-	*
+4	12	criticism	NOUN	criticism	-	*
+4	13	routinely	ADV	routinely	-	*
+4	14	employed	VERB	employ	-	*
+4	15	-	PUNCT	-	-	*
+4	16	rightly	ADV	rightly	-	*
+4	17	-against	ADP	-against	-	*
+4	18	the	DET	the	-	*
+4	19	United	ADJ	United	-	*
+4	20	States	PROPN	State	-	*
+4	21	when	SCONJ	when	-	*
+4	22	it	PRON	it	-	*
+4	23	vetoes	VERB	veto	-	*
+4	24	resolutions	NOUN	resolution	-	*
+4	25	on	ADP	on	-	*
+4	26	Israeli	ADJ	Israeli	-	(ARG0*)
+4	27	aggression	NOUN	aggression	aggress.01	(V*)
+4	28	-RRB-	NOUN	-rrb-	-	*
+4	29	?	PUNCT	?	-	*
+
+# sentence_id = 1279
+# text = The fourth arm can be used to give countertraction on the fat or the kidney .
+1279	0	The	DET	the	-	(ARG0*
+1279	1	fourth	ADJ	fourth	-	*
+1279	2	arm	NOUN	arm	-	*)
+1279	3	can	AUX	can	-	*
+1279	4	be	AUX	be	-	*
+1279	5	used	VERB	use	-	*
+1279	6	to	PART	to	-	*
+1279	7	give	VERB	give	-	*
+1279	8	countertraction	NOUN	countertraction	countertraction.01	(V*)
+1279	9	on	ADP	on	-	(ARG1*
+1279	10	the	DET	the	-	*
+1279	11	fat	NOUN	fat	-	*
+1279	12	or	CCONJ	or	-	*
+1279	13	the	DET	the	-	*
+1279	14	kidney	NOUN	kidney	-	*)
+1279	15	.	PUNCT	.	-	*
+
+# sentence_id = 731
+# text = In April 1974 a gigantic and fast rockslide with a volume estimated at 1 to 1.3?109 m3 dammed the Mantaro river in the Peruvian Andes , causing more than 450 casualties and forming a 130 m to 150 m high dam [ 16 , 17 ] .
+731	0	In	ADP	in	-	*
+731	1	April	PROPN	April	-	*
+731	2	1974	NUM	1974	-	*
+731	3	a	DET	a	-	(ARGM-ADJ*
+731	4	gigantic	ADJ	gigantic	-	*
+731	5	and	CCONJ	and	-	*
+731	6	fast	ADJ	fast	-	*)
+731	7	rockslide	NOUN	rockslide	rockslide.01	(V*)
+731	8	with	ADP	with	-	(ARG2*
+731	9	a	DET	a	-	*
+731	10	volume	NOUN	volume	-	*
+731	11	estimated	VERB	estimate	-	*
+731	12	at	ADP	at	-	*
+731	13	1	NUM	1	-	*
+731	14	to	ADP	to	-	*
+731	15	1.3?109	NUM	1.3?109	-	*
+731	16	m3	NOUN	m3	-	*)
+731	17	dammed	VERB	dam	-	*
+731	18	the	DET	the	-	*
+731	19	Mantaro	PROPN	Mantaro	-	*
+731	20	river	NOUN	river	-	*
+731	21	in	ADP	in	-	*
+731	22	the	DET	the	-	*
+731	23	Peruvian	ADJ	Peruvian	-	*
+731	24	Andes	PROPN	Andes	-	*
+731	25	,	PUNCT	,	-	*
+731	26	causing	VERB	cause	-	*
+731	27	more	ADJ	more	-	*
+731	28	than	ADP	than	-	*
+731	29	450	NUM	450	-	*
+731	30	casualties	NOUN	casualty	-	*
+731	31	and	CCONJ	and	-	*
+731	32	forming	VERB	form	-	*
+731	33	a	DET	a	-	*
+731	34	130	NUM	130	-	*
+731	35	m	NOUN	m	-	*
+731	36	to	ADP	to	-	*
+731	37	150	NUM	150	-	*
+731	38	m	NOUN	m	-	*
+731	39	high	ADJ	high	-	*
+731	40	dam	NOUN	dam	-	*
+731	41	[	PUNCT	[	-	*
+731	42	16	NUM	16	-	*
+731	43	,	PUNCT	,	-	*
+731	44	17	NUM	17	-	*
+731	45	]	PUNCT	]	-	*
+731	46	.	PUNCT	.	-	*
+
+# sentence_id = 1319
+# text = Renal reabsorption of sodium ( Na ) is a part of renal physiology .
+1319	0	Renal	ADJ	renal	-	(ARG2*)
+1319	1	reabsorption	NOUN	reabsorption	reabsorb.01	(V*)
+1319	2	of	ADP	of	-	(ARG1*
+1319	3	sodium	NOUN	sodium	-	*
+1319	4	(	PUNCT	(	-	*
+1319	5	Na	NOUN	na	-	*
+1319	6	)	PUNCT	)	-	*)
+1319	7	is	AUX	be	-	*
+1319	8	a	DET	a	-	*
+1319	9	part	NOUN	part	-	*
+1319	10	of	ADP	of	-	*
+1319	11	renal	ADJ	renal	-	*
+1319	12	physiology	NOUN	physiology	-	*
+1319	13	.	PUNCT	.	-	*
+
+# sentence_id = 1455
+# text = The Chlamydomonas version is more complex : it crosses the membrane twice rather than once , contains additional domains and undergoes alternative splicing .
+1455	0	The	DET	the	-	*
+1455	1	Chlamydomonas	PROPN	Chlamydomonas	-	*
+1455	2	version	NOUN	version	-	*
+1455	3	is	AUX	be	-	*
+1455	4	more	ADV	more	-	*
+1455	5	complex	ADJ	complex	-	*
+1455	6	:	PUNCT	:	-	*
+1455	7	it	PRON	it	-	*
+1455	8	crosses	VERB	cross	-	*
+1455	9	the	DET	the	-	*
+1455	10	membrane	NOUN	membrane	-	*
+1455	11	twice	ADV	twice	-	*
+1455	12	rather	ADV	rather	-	*
+1455	13	than	ADP	than	-	*
+1455	14	once	ADV	once	-	*
+1455	15	,	PUNCT	,	-	*
+1455	16	contains	VERB	contain	-	*
+1455	17	additional	ADJ	additional	-	*
+1455	18	domains	NOUN	domain	-	*
+1455	19	and	CCONJ	and	-	*
+1455	20	undergoes	VERB	undergo	-	*
+1455	21	alternative	ADJ	alternative	-	(ARGM-MNR*)
+1455	22	splicing	NOUN	splicing	splice.01	(V*)
+1455	23	.	PUNCT	.	-	*
+
+# sentence_id = 615
+# text = By mid afternoon , a 5000 - acre bushfire moved towards our farm from the northwest , until the cool change from the south came at 5.30 .
+615	0	By	ADP	by	-	*
+615	1	mid	ADJ	mid	-	*
+615	2	afternoon	NOUN	afternoon	-	*
+615	3	,	PUNCT	,	-	*
+615	4	a	DET	a	-	*
+615	5	5000	NUM	5000	-	(ARG2*
+615	6	-	PUNCT	-	-	*
+615	7	acre	NOUN	acre	-	*)
+615	8	bushfire	NOUN	bushfire	bushfire.01	(V*)
+615	9	moved	VERB	move	-	*
+615	10	towards	ADP	towards	-	*
+615	11	our	PRON	we	-	*
+615	12	farm	NOUN	farm	-	*
+615	13	from	ADP	from	-	*
+615	14	the	DET	the	-	*
+615	15	northwest	NOUN	northwest	-	*
+615	16	,	PUNCT	,	-	*
+615	17	until	SCONJ	until	-	*
+615	18	the	DET	the	-	*
+615	19	cool	ADJ	cool	-	*
+615	20	change	NOUN	change	-	*
+615	21	from	ADP	from	-	*
+615	22	the	DET	the	-	*
+615	23	south	NOUN	south	-	*
+615	24	came	VERB	come	-	*
+615	25	at	ADP	at	-	*
+615	26	5.30	NUM	5.30	-	*
+615	27	.	PUNCT	.	-	*
+
+# sentence_id = 1555
+# text = August was especially special because of two things : First , Clinton Street would get her make - over of fresh tar and pea gravel in early August ( maybe late July ) .
+1555	0	August	PROPN	August	-	*
+1555	1	was	AUX	be	-	*
+1555	2	especially	ADV	especially	-	*
+1555	3	special	ADJ	special	-	*
+1555	4	because	ADP	because	-	*
+1555	5	of	ADP	of	-	*
+1555	6	two	NUM	two	-	*
+1555	7	things	NOUN	thing	-	*
+1555	8	:	PUNCT	:	-	*
+1555	9	First	ADV	first	-	*
+1555	10	,	PUNCT	,	-	*
+1555	11	Clinton	PROPN	Clinton	-	*
+1555	12	Street	PROPN	Street	-	*
+1555	13	would	AUX	would	-	*
+1555	14	get	VERB	get	-	*
+1555	15	her	PRON	she	-	(ARG1*)
+1555	16	make	VERB	make	make_over.22	(V*
+1555	17	-	PUNCT	-	-	*
+1555	18	over	ADP	over	-	*)
+1555	19	of	ADP	of	-	(ARG2*
+1555	20	fresh	ADJ	fresh	-	*
+1555	21	tar	NOUN	tar	-	*
+1555	22	and	CCONJ	and	-	*
+1555	23	pea	NOUN	pea	-	*
+1555	24	gravel	NOUN	gravel	-	*)
+1555	25	in	ADP	in	-	*
+1555	26	early	ADJ	early	-	*
+1555	27	August	PROPN	August	-	*
+1555	28	(	PUNCT	(	-	*
+1555	29	maybe	ADV	maybe	-	*
+1555	30	late	ADJ	late	-	*
+1555	31	July	PROPN	July	-	*
+1555	32	)	PUNCT	)	-	*
+1555	33	.	PUNCT	.	-	*
+
+# sentence_id = 774
+# text = Underprediction of women 's course grades was the exception rather than the rule .
+774	0	Underprediction	NOUN	underprediction	underpredict.03	(V*)
+774	1	of	ADP	of	-	(ARG1*
+774	2	women	NOUN	woman	-	*
+774	3	's	PART	's	-	*
+774	4	course	NOUN	course	-	*
+774	5	grades	NOUN	grade	-	*)
+774	6	was	AUX	be	-	*
+774	7	the	DET	the	-	*
+774	8	exception	NOUN	exception	-	*
+774	9	rather	ADV	rather	-	*
+774	10	than	ADP	than	-	*
+774	11	the	DET	the	-	*
+774	12	rule	NOUN	rule	-	*
+774	13	.	PUNCT	.	-	*
+
+# sentence_id = 1038
+# text = The patient will receive cycle four of FOLFOX plus Avastin .
+1038	0	The	DET	the	-	*
+1038	1	patient	NOUN	patient	-	*
+1038	2	will	AUX	will	-	*
+1038	3	receive	VERB	receive	-	*
+1038	4	cycle	NOUN	cycle	cycle.02	(V*)
+1038	5	four	NUM	four	-	(ARGM-ADJ*)
+1038	6	of	ADP	of	-	(ARG1*
+1038	7	FOLFOX	PROPN	FOLFOX	-	*
+1038	8	plus	CCONJ	plus	-	*
+1038	9	Avastin	PROPN	Avastin	-	*)
+1038	10	.	PUNCT	.	-	*
+
+# sentence_id = 808
+# text = His wife kicked him out in 2010 after discovering that he had remortgaged the house for ? 70,000 without her knowing .
+808	0	His	PRON	his	-	*
+808	1	wife	NOUN	wife	-	*
+808	2	kicked	VERB	kick	-	*
+808	3	him	PRON	he	-	*
+808	4	out	ADP	out	-	*
+808	5	in	ADP	in	-	*
+808	6	2010	NUM	2010	-	*
+808	7	after	SCONJ	after	-	*
+808	8	discovering	VERB	discover	-	*
+808	9	that	SCONJ	that	-	*
+808	10	he	PRON	he	-	(ARG0*)
+808	11	had	AUX	have	-	*
+808	12	remortgaged	VERB	remortgage	remortgage.01	(V*)
+808	13	the	DET	the	-	(ARG1*
+808	14	house	NOUN	house	-	*)
+808	15	for	ADP	for	-	(ARG3*
+808	16	?	PUNCT	?	-	*
+808	17	70,000	NUM	70000	-	*)
+808	18	without	SCONJ	without	-	(ARGM-MNR*
+808	19	her	PRON	she	-	*
+808	20	knowing	VERB	know	-	*)
+808	21	.	PUNCT	.	-	*
+
+# sentence_id = 1747
+# text = The turbulence of classical fluids is an everyday phenomenon , which can be readily observed in the flow of a stream or river .
+1747	0	The	DET	the	-	*
+1747	1	turbulence	NOUN	turbulence	turbulence.01	(V*)
+1747	2	of	ADP	of	-	(ARG1*
+1747	3	classical	ADJ	classical	-	*
+1747	4	fluids	NOUN	fluid	-	*)
+1747	5	is	AUX	be	-	*
+1747	6	an	DET	a	-	*
+1747	7	everyday	ADJ	everyday	-	*
+1747	8	phenomenon	NOUN	phenomenon	-	*
+1747	9	,	PUNCT	,	-	*
+1747	10	which	PRON	which	-	*
+1747	11	can	AUX	can	-	*
+1747	12	be	AUX	be	-	*
+1747	13	readily	ADV	readily	-	*
+1747	14	observed	VERB	observe	-	*
+1747	15	in	ADP	in	-	*
+1747	16	the	DET	the	-	*
+1747	17	flow	NOUN	flow	-	*
+1747	18	of	ADP	of	-	*
+1747	19	a	DET	a	-	*
+1747	20	stream	NOUN	stream	-	*
+1747	21	or	CCONJ	or	-	*
+1747	22	river	NOUN	river	-	*
+1747	23	.	PUNCT	.	-	*
+
+# sentence_id = 861
+# text = Bound proteins were resolved by SDS - PAGE and immunoblotted with anti - BCL6 and anti - c - Rel antibodies .
+861	0	Bound	ADJ	bound	-	(ARG1*
+861	1	proteins	NOUN	protein	-	*)
+861	2	were	AUX	be	-	*
+861	3	resolved	VERB	resolve	-	*
+861	4	by	ADP	by	-	*
+861	5	SDS	NOUN	SDS	-	*
+861	6	-	PUNCT	-	-	*
+861	7	PAGE	NOUN	page	-	*
+861	8	and	CCONJ	and	-	*
+861	9	immunoblotted	VERB	immunoblot	immunoblot.01	(V*)
+861	10	with	ADP	with	-	(ARG3*
+861	11	anti	NOUN	anti	-	*
+861	12	-	PUNCT	-	-	*
+861	13	BCL6	NOUN	bcl6	-	*
+861	14	and	CCONJ	and	-	*
+861	15	anti	X	anti	-	*
+861	16	-	PUNCT	-	-	*
+861	17	c	NOUN	c	-	*
+861	18	-	PUNCT	-	-	*
+861	19	Rel	NOUN	rel	-	*
+861	20	antibodies	NOUN	antibody	-	*)
+861	21	.	PUNCT	.	-	*
+
+# sentence_id = 7
+# text = The cancer 's aggression is partly a result of its location .
+7	0	The	DET	the	-	*
+7	1	cancer	NOUN	cancer	-	(ARG0*
+7	2	's	PART	's	-	*)
+7	3	aggression	NOUN	aggression	aggress.02	(V*)
+7	4	is	AUX	be	-	*
+7	5	partly	ADV	partly	-	*
+7	6	a	DET	a	-	*
+7	7	result	NOUN	result	-	*
+7	8	of	ADP	of	-	*
+7	9	its	PRON	its	-	*
+7	10	location	NOUN	location	-	*
+7	11	.	PUNCT	.	-	*
+
+# sentence_id = 994
+# text = If it is a secondary development , the feasibility of its dedifferentiation from the expanded selachian hyomandibular is still questionable .
+994	0	If	SCONJ	if	-	*
+994	1	it	PRON	it	-	*
+994	2	is	AUX	be	-	*
+994	3	a	DET	a	-	*
+994	4	secondary	ADJ	secondary	-	*
+994	5	development	NOUN	development	-	*
+994	6	,	PUNCT	,	-	*
+994	7	the	DET	the	-	*
+994	8	feasibility	NOUN	feasibility	-	*
+994	9	of	ADP	of	-	*
+994	10	its	PRON	its	-	(ARG1*)
+994	11	dedifferentiation	NOUN	dedifferentiation	dedifferentiate.01	(V*)
+994	12	from	ADP	from	-	(ARG2*
+994	13	the	DET	the	-	*
+994	14	expanded	VERB	expand	-	*
+994	15	selachian	NOUN	selachian	-	*
+994	16	hyomandibular	NOUN	hyomandibular	-	*)
+994	17	is	AUX	be	-	*
+994	18	still	ADV	still	-	*
+994	19	questionable	ADJ	questionable	-	*
+994	20	.	PUNCT	.	-	*
+
+# sentence_id = 55
+# text = Iraq 's tragedy of errors : Why the Sunnis are revolting .
+55	0	Iraq	PROPN	Iraq	-	(ARG2*
+55	1	's	PART	's	-	*)
+55	2	tragedy	NOUN	tragedy	tragedy.02	(V*)
+55	3	of	ADP	of	-	(ARG1*
+55	4	errors	NOUN	error	-	*)
+55	5	:	PUNCT	:	-	*
+55	6	Why	SCONJ	why	-	*
+55	7	the	DET	the	-	*
+55	8	Sunnis	PROPN	Sunni	-	*
+55	9	are	AUX	be	-	*
+55	10	revolting	VERB	revolt	-	*
+55	11	.	PUNCT	.	-	*
+
+# sentence_id = 174
+# text = The alkaline hydrolysis of esters actually involves reaction with hydroxide ions , but the overall result is so similar that it is lumped together with the other two .
+174	0	The	DET	the	-	*
+174	1	alkaline	NOUN	alkaline	-	(ARGM-ADJ*)
+174	2	hydrolysis	NOUN	hydrolysis	hydrolyze.01	(V*)
+174	3	of	ADP	of	-	(ARG1*
+174	4	esters	NOUN	ester	-	*)
+174	5	actually	ADV	actually	-	*
+174	6	involves	VERB	involve	-	*
+174	7	reaction	NOUN	reaction	-	*
+174	8	with	ADP	with	-	*
+174	9	hydroxide	NOUN	hydroxide	-	*
+174	10	ions	NOUN	ion	-	*
+174	11	,	PUNCT	,	-	*
+174	12	but	CCONJ	but	-	*
+174	13	the	DET	the	-	*
+174	14	overall	ADJ	overall	-	*
+174	15	result	NOUN	result	-	*
+174	16	is	AUX	be	-	*
+174	17	so	ADV	so	-	*
+174	18	similar	ADJ	similar	-	*
+174	19	that	SCONJ	that	-	*
+174	20	it	PRON	it	-	*
+174	21	is	AUX	be	-	*
+174	22	lumped	VERB	lump	-	*
+174	23	together	ADV	together	-	*
+174	24	with	ADP	with	-	*
+174	25	the	DET	the	-	*
+174	26	other	ADJ	other	-	*
+174	27	two	NUM	two	-	*
+174	28	.	PUNCT	.	-	*
+
+# sentence_id = 373
+# text = I suggest we create a thief group that specializes in anti - corruption among civil servants .
+373	0	I	PRON	I	-	*
+373	1	suggest	VERB	suggest	-	*
+373	2	we	PRON	we	-	*
+373	3	create	VERB	create	-	*
+373	4	a	DET	a	-	*
+373	5	thief	NOUN	thief	-	*
+373	6	group	NOUN	group	-	*
+373	7	that	PRON	that	-	*
+373	8	specializes	VERB	specialize	-	*
+373	9	in	ADP	in	-	*
+373	10	anti	NOUN	anti	anticorruption.01	(V*
+373	11	-	PUNCT	-	-	*
+373	12	corruption	NOUN	corruption	-	*)
+373	13	among	ADP	among	-	(ARG1*
+373	14	civil	ADJ	civil	-	*
+373	15	servants	NOUN	servant	-	*)
+373	16	.	PUNCT	.	-	*
+
+# sentence_id = 818
+# text = Diana 's selection of this ring for her engagement to the future King of the United Kingdom resulted in sensation .
+818	0	Diana	PROPN	Diana	-	*
+818	1	's	PART	's	-	*
+818	2	selection	NOUN	selection	-	*
+818	3	of	ADP	of	-	*
+818	4	this	DET	this	-	*
+818	5	ring	NOUN	ring	-	*
+818	6	for	ADP	for	-	*
+818	7	her	PRON	she	-	(ARG1*)
+818	8	engagement	NOUN	engagement	engagement.02	(V*)
+818	9	to	ADP	to	-	(ARG2*
+818	10	the	DET	the	-	*
+818	11	future	NOUN	future	-	*
+818	12	King	PROPN	King	-	*
+818	13	of	ADP	of	-	*
+818	14	the	DET	the	-	*
+818	15	United	ADJ	United	-	*
+818	16	Kingdom	PROPN	Kingdom	-	*)
+818	17	resulted	VERB	result	-	*
+818	18	in	ADP	in	-	*
+818	19	sensation	NOUN	sensation	-	*
+818	20	.	PUNCT	.	-	*
+
+# sentence_id = 1193
+# text = I would like to see if Kljestan has regained some form on the international level , which has been missing for almost a year since his hattrick against Sweden in January .
+1193	0	I	PRON	I	-	*
+1193	1	would	AUX	would	-	*
+1193	2	like	VERB	like	-	*
+1193	3	to	PART	to	-	*
+1193	4	see	VERB	see	-	*
+1193	5	if	SCONJ	if	-	*
+1193	6	Kljestan	PROPN	Kljestan	-	*
+1193	7	has	AUX	have	-	*
+1193	8	regained	VERB	regain	-	*
+1193	9	some	DET	some	-	*
+1193	10	form	NOUN	form	-	*
+1193	11	on	ADP	on	-	*
+1193	12	the	DET	the	-	*
+1193	13	international	ADJ	international	-	*
+1193	14	level	NOUN	level	-	*
+1193	15	,	PUNCT	,	-	*
+1193	16	which	PRON	which	-	*
+1193	17	has	AUX	have	-	*
+1193	18	been	AUX	be	-	*
+1193	19	missing	VERB	miss	-	*
+1193	20	for	ADP	for	-	*
+1193	21	almost	ADV	almost	-	*
+1193	22	a	DET	a	-	*
+1193	23	year	NOUN	year	-	*
+1193	24	since	ADP	since	-	*
+1193	25	his	PRON	he	-	(ARG0*)
+1193	26	hattrick	NOUN	hattrick	hattrick.01	(V*)
+1193	27	against	ADP	against	-	(ARG1*
+1193	28	Sweden	PROPN	Sweden	-	*)
+1193	29	in	ADP	in	-	(ARGM-TMP*
+1193	30	January	PROPN	January	-	*)
+1193	31	.	PUNCT	.	-	*
+
+# sentence_id = 1202
+# text = Another close ally is Ruth Messinger , a Manhattan city councilwoman , some of whose programs , such as commercial rent control , have made their way into Mr. Dinkins 's position papers .
+1202	0	Another	DET	another	-	*
+1202	1	close	ADJ	close	-	*
+1202	2	ally	NOUN	ally	-	*
+1202	3	is	AUX	be	-	*
+1202	4	Ruth	PROPN	Ruth	-	*
+1202	5	Messinger	PROPN	Messinger	-	*
+1202	6	,	PUNCT	,	-	*
+1202	7	a	DET	a	-	*
+1202	8	Manhattan	PROPN	Manhattan	-	*
+1202	9	city	NOUN	city	-	*
+1202	10	councilwoman	NOUN	councilwoman	-	*
+1202	11	,	PUNCT	,	-	*
+1202	12	some	DET	some	-	(ARG0*
+1202	13	of	ADP	of	-	*
+1202	14	whose	PRON	whose	-	*
+1202	15	programs	NOUN	program	-	*
+1202	16	,	PUNCT	,	-	*
+1202	17	such	ADJ	such	-	*
+1202	18	as	ADP	as	-	*
+1202	19	commercial	ADJ	commercial	-	*
+1202	20	rent	NOUN	rent	-	*
+1202	21	control	NOUN	control	-	*)
+1202	22	,	PUNCT	,	-	*
+1202	23	have	AUX	have	-	*
+1202	24	made	VERB	make	-	*
+1202	25	their	PRON	they	-	*
+1202	26	way	NOUN	way	way.01	(V*)
+1202	27	into	ADP	into	-	(ARG1*
+1202	28	Mr.	PROPN	Mr.	-	*
+1202	29	Dinkins	PROPN	Dinkins	-	*
+1202	30	's	PART	's	-	*
+1202	31	position	NOUN	position	-	*
+1202	32	papers	NOUN	paper	-	*)
+1202	33	.	PUNCT	.	-	*
+
+# sentence_id = 843
+# text = Claims for indemnity against third parties who are not joint tortfeasors ( such as contractual indemnity claims ) may be .
+843	0	Claims	NOUN	claim	-	*
+843	1	for	ADP	for	-	*
+843	2	indemnity	NOUN	indemnity	indemnify.01	(V*)
+843	3	against	ADP	against	-	(ARGM-GOL*
+843	4	third	ADJ	third	-	*
+843	5	parties	NOUN	party	-	*
+843	6	who	PRON	who	-	*
+843	7	are	AUX	be	-	*
+843	8	not	PART	not	-	*
+843	9	joint	ADJ	joint	-	*
+843	10	tortfeasors	NOUN	tortfeasor	-	*
+843	11	(	PUNCT	(	-	*
+843	12	such	ADJ	such	-	*
+843	13	as	ADP	as	-	*
+843	14	contractual	ADJ	contractual	-	*
+843	15	indemnity	NOUN	indemnity	-	*
+843	16	claims	NOUN	claim	-	*
+843	17	)	PUNCT	)	-	*)
+843	18	may	AUX	may	-	*
+843	19	be	VERB	be	-	*
+843	20	.	PUNCT	.	-	*
+
+# sentence_id = 219
+# text = Why did the Americans win their revolution against England ?
+219	0	Why	ADV	why	-	*
+219	1	did	AUX	do	-	*
+219	2	the	DET	the	-	*
+219	3	Americans	PROPN	American	-	*
+219	4	win	VERB	win	-	*
+219	5	their	PRON	they	-	(ARG0*)
+219	6	revolution	NOUN	revolution	revolution.03	(V*)
+219	7	against	ADP	against	-	(ARG1*
+219	8	England	PROPN	England	-	*)
+219	9	?	PUNCT	?	-	*
+
+# sentence_id = 1172
+# text = Other opinions are no more than their prospection that even IPv6 address might be exhausted .
+1172	0	Other	ADJ	other	-	*
+1172	1	opinions	NOUN	opinion	-	*
+1172	2	are	AUX	be	-	*
+1172	3	no	ADV	no	-	*
+1172	4	more	ADJ	more	-	*
+1172	5	than	ADP	than	-	*
+1172	6	their	PRON	they	-	(ARG0*)
+1172	7	prospection	NOUN	prospection	prospection.01	(V*)
+1172	8	that	SCONJ	that	-	(ARG1*
+1172	9	even	ADV	even	-	*
+1172	10	IPv6	PROPN	IPv6	-	*
+1172	11	address	NOUN	address	-	*
+1172	12	might	AUX	might	-	*
+1172	13	be	AUX	be	-	*
+1172	14	exhausted	VERB	exhaust	-	*)
+1172	15	.	PUNCT	.	-	*
+
+# sentence_id = 1592
+# text = A difference was taken when the first writ abates by default of the demandant himself , as by his misinformation of the tenant 's name .
+1592	0	A	DET	a	-	*
+1592	1	difference	NOUN	difference	-	*
+1592	2	was	AUX	be	-	*
+1592	3	taken	VERB	take	-	*
+1592	4	when	SCONJ	when	-	*
+1592	5	the	DET	the	-	*
+1592	6	first	ADJ	first	-	*
+1592	7	writ	NOUN	writ	-	*
+1592	8	abates	VERB	abate	-	*
+1592	9	by	ADP	by	-	*
+1592	10	default	NOUN	default	-	*
+1592	11	of	ADP	of	-	*
+1592	12	the	DET	the	-	*
+1592	13	demandant	NOUN	demandant	-	*
+1592	14	himself	PRON	himself	-	*
+1592	15	,	PUNCT	,	-	*
+1592	16	as	ADP	as	-	*
+1592	17	by	ADP	by	-	*
+1592	18	his	PRON	he	-	(ARG0*)
+1592	19	misinformation	NOUN	misinformation	misinform.01	(V*)
+1592	20	of	ADP	of	-	(ARG2*
+1592	21	the	DET	the	-	*
+1592	22	tenant	NOUN	tenant	-	*
+1592	23	's	PART	's	-	*
+1592	24	name	NOUN	name	-	*)
+1592	25	.	PUNCT	.	-	*
+
+# sentence_id = 519
+# text = Dr. Jonas ' c - section on Mary was textbook .
+519	0	Dr.	PROPN	Dr.	-	(ARG0*
+519	1	Jonas	PROPN	Jonas	-	*
+519	2	'	PART	's	-	*)
+519	3	c	NOUN	c	csection.01	(V*
+519	4	-	PUNCT	-	-	*
+519	5	section	NOUN	section	-	*)
+519	6	on	ADP	on	-	(ARG1*
+519	7	Mary	PROPN	Mary	-	*)
+519	8	was	AUX	be	-	*
+519	9	textbook	NOUN	textbook	-	*
+519	10	.	PUNCT	.	-	*
+
+# sentence_id = 563
+# text = Sedimentation of the channel can also occur , under normal flow conditions , if abnormal amounts of material are being eroded from the banks .
+563	0	Sedimentation	NOUN	sedimentation	sediment.01	(V*)
+563	1	of	ADP	of	-	(ARG1*
+563	2	the	DET	the	-	*
+563	3	channel	NOUN	channel	-	*)
+563	4	can	AUX	can	-	*
+563	5	also	ADV	also	-	*
+563	6	occur	VERB	occur	-	*
+563	7	,	PUNCT	,	-	*
+563	8	under	ADP	under	-	*
+563	9	normal	ADJ	normal	-	*
+563	10	flow	NOUN	flow	-	*
+563	11	conditions	NOUN	condition	-	*
+563	12	,	PUNCT	,	-	*
+563	13	if	SCONJ	if	-	*
+563	14	abnormal	ADJ	abnormal	-	*
+563	15	amounts	NOUN	amount	-	*
+563	16	of	ADP	of	-	*
+563	17	material	NOUN	material	-	*
+563	18	are	AUX	be	-	*
+563	19	being	AUX	be	-	*
+563	20	eroded	VERB	erode	-	*
+563	21	from	ADP	from	-	*
+563	22	the	DET	the	-	*
+563	23	banks	NOUN	bank	-	*
+563	24	.	PUNCT	.	-	*
+
+# sentence_id = 1828
+# text = Instead , pigs , sheep , and dogs all just become delicious meals on the plates of those people who are full of moralizing in front of the bears .
+1828	0	Instead	ADV	instead	-	*
+1828	1	,	PUNCT	,	-	*
+1828	2	pigs	NOUN	pig	-	*
+1828	3	,	PUNCT	,	-	*
+1828	4	sheep	NOUN	sheep	-	*
+1828	5	,	PUNCT	,	-	*
+1828	6	and	CCONJ	and	-	*
+1828	7	dogs	NOUN	dog	-	*
+1828	8	all	ADV	all	-	*
+1828	9	just	ADV	just	-	*
+1828	10	become	VERB	become	-	*
+1828	11	delicious	ADJ	delicious	-	*
+1828	12	meals	NOUN	meal	-	*
+1828	13	on	ADP	on	-	*
+1828	14	the	DET	the	-	*
+1828	15	plates	NOUN	plate	-	*
+1828	16	of	ADP	of	-	*
+1828	17	those	DET	that	-	*
+1828	18	people	NOUN	people	-	*
+1828	19	who	PRON	who	-	*
+1828	20	are	AUX	be	-	*
+1828	21	full	ADJ	full	-	*
+1828	22	of	ADP	of	-	*
+1828	23	moralizing	NOUN	moralizing	moralize.01	(V*)
+1828	24	in	ADP	in	-	(ARGM-LOC*
+1828	25	front	NOUN	front	-	*
+1828	26	of	ADP	of	-	*
+1828	27	the	DET	the	-	*
+1828	28	bears	NOUN	bear	-	*)
+1828	29	.	PUNCT	.	-	*
+
+# sentence_id = 1620
+# text = Patient has hypergranulation of tissue on recent nose piercing hole .
+1620	0	Patient	NOUN	patient	-	*
+1620	1	has	VERB	have	-	*
+1620	2	hypergranulation	NOUN	hypergranulation	hypergranulation.01	(V*)
+1620	3	of	ADP	of	-	(ARG1*
+1620	4	tissue	NOUN	tissue	-	*)
+1620	5	on	ADP	on	-	(ARGM-LOC*
+1620	6	recent	ADJ	recent	-	*
+1620	7	nose	NOUN	nose	-	*
+1620	8	piercing	NOUN	piercing	-	*
+1620	9	hole	NOUN	hole	-	*)
+1620	10	.	PUNCT	.	-	*
+
+# sentence_id = 754
+# text = Filmmaker S. G. Collins debunks the " moon hoax " theory in such clinical fashion , it 's amazing .
+754	0	Filmmaker	NOUN	filmmaker	-	*
+754	1	S.	PROPN	S.	-	*
+754	2	G.	PROPN	G.	-	*
+754	3	Collins	PROPN	Collins	-	*
+754	4	debunks	VERB	debunk	-	*
+754	5	the	DET	the	-	*
+754	6	"	PUNCT	"	-	*
+754	7	moon	NOUN	moon	-	(ARG3*)
+754	8	hoax	NOUN	hoax	hoax.01	(V*)
+754	9	"	PUNCT	"	-	*
+754	10	theory	NOUN	theory	-	*
+754	11	in	ADP	in	-	*
+754	12	such	ADJ	such	-	*
+754	13	clinical	ADJ	clinical	-	*
+754	14	fashion	NOUN	fashion	-	*
+754	15	,	PUNCT	,	-	*
+754	16	it	PRON	it	-	*
+754	17	's	AUX	be	-	*
+754	18	amazing	ADJ	amazing	-	*
+754	19	.	PUNCT	.	-	*
+
+# sentence_id = 899
+# text = Thus , occasionally , as in the case cited , the cataract on the side on which mydriasis has been maintained will mature more rapidly than the cataract on the opposite side , although this was originally far more advanced in its opacification .
+899	0	Thus	ADV	thus	-	*
+899	1	,	PUNCT	,	-	*
+899	2	occasionally	ADV	occasionally	-	*
+899	3	,	PUNCT	,	-	*
+899	4	as	SCONJ	as	-	*
+899	5	in	ADP	in	-	*
+899	6	the	DET	the	-	*
+899	7	case	NOUN	case	-	*
+899	8	cited	VERB	cite	-	*
+899	9	,	PUNCT	,	-	*
+899	10	the	DET	the	-	*
+899	11	cataract	NOUN	cataract	-	*
+899	12	on	ADP	on	-	*
+899	13	the	DET	the	-	*
+899	14	side	NOUN	side	-	*
+899	15	on	ADP	on	-	*
+899	16	which	PRON	which	-	*
+899	17	mydriasis	NOUN	mydriasis	-	*
+899	18	has	AUX	have	-	*
+899	19	been	AUX	be	-	*
+899	20	maintained	VERB	maintain	-	*
+899	21	will	AUX	will	-	*
+899	22	mature	VERB	mature	-	*
+899	23	more	ADV	more	-	*
+899	24	rapidly	ADV	rapidly	-	*
+899	25	than	ADP	than	-	*
+899	26	the	DET	the	-	*
+899	27	cataract	NOUN	cataract	-	*
+899	28	on	ADP	on	-	*
+899	29	the	DET	the	-	*
+899	30	opposite	ADJ	opposite	-	*
+899	31	side	NOUN	side	-	*
+899	32	,	PUNCT	,	-	*
+899	33	although	SCONJ	although	-	*
+899	34	this	PRON	this	-	*
+899	35	was	AUX	be	-	*
+899	36	originally	ADV	originally	-	*
+899	37	far	ADV	far	-	*
+899	38	more	ADV	more	-	*
+899	39	advanced	ADJ	advanced	-	*
+899	40	in	ADP	in	-	*
+899	41	its	PRON	its	-	(ARG1*)
+899	42	opacification	NOUN	opacification	opacify.01	(V*)
+899	43	.	PUNCT	.	-	*
+
+# sentence_id = 1134
+# text = Her doctor 's reexploration of the left breast for DCIS resection .
+1134	0	Her	PRON	her	-	(ARG0*
+1134	1	doctor	NOUN	doctor	-	*
+1134	2	's	PART	's	-	*)
+1134	3	reexploration	NOUN	reexploration	reexplore.01	(V*)
+1134	4	of	ADP	of	-	(ARG1*
+1134	5	the	DET	the	-	*
+1134	6	left	ADJ	left	-	*
+1134	7	breast	NOUN	breast	-	*)
+1134	8	for	ADP	for	-	(ARG2*
+1134	9	DCIS	NOUN	dcis	-	*
+1134	10	resection	NOUN	resection	-	*)
+1134	11	.	PUNCT	.	-	*
+
+# sentence_id = 877
+# text = A resubstantiation of the full Q1 DPR will be completed by the Risk control staff reconciling the full trial balances between Q1 open and Q1 close .
+877	0	A	DET	a	-	*
+877	1	resubstantiation	NOUN	resubstantiation	resubstantiate.01	(V*)
+877	2	of	ADP	of	-	(ARG1*
+877	3	the	DET	the	-	*
+877	4	full	ADJ	full	-	*
+877	5	Q1	NOUN	q1	-	*
+877	6	DPR	NOUN	dpr	-	*)
+877	7	will	AUX	will	-	*
+877	8	be	AUX	be	-	*
+877	9	completed	VERB	complete	-	*
+877	10	by	ADP	by	-	*
+877	11	the	DET	the	-	*
+877	12	Risk	NOUN	risk	-	*
+877	13	control	NOUN	control	-	*
+877	14	staff	NOUN	staff	-	*
+877	15	reconciling	VERB	reconcile	-	(ARGM-PRD*
+877	16	the	DET	the	-	*
+877	17	full	ADJ	full	-	*
+877	18	trial	NOUN	trial	-	*
+877	19	balances	NOUN	balance	-	*
+877	20	between	ADP	between	-	*
+877	21	Q1	NOUN	q1	-	*
+877	22	open	NOUN	open	-	*
+877	23	and	CCONJ	and	-	*
+877	24	Q1	NOUN	q1	-	*
+877	25	close	NOUN	close	-	*)
+877	26	.	PUNCT	.	-	*
+
+# sentence_id = 652
+# text = Unless we know the significance of the action for the mother we can not understand what is going on in her childrearing .
+652	0	Unless	SCONJ	unless	-	*
+652	1	we	PRON	we	-	*
+652	2	know	VERB	know	-	*
+652	3	the	DET	the	-	*
+652	4	significance	NOUN	significance	-	*
+652	5	of	ADP	of	-	*
+652	6	the	DET	the	-	*
+652	7	action	NOUN	action	-	*
+652	8	for	ADP	for	-	*
+652	9	the	DET	the	-	*
+652	10	mother	NOUN	mother	-	*
+652	11	we	PRON	we	-	*
+652	12	can	AUX	can	-	*
+652	13	not	PART	not	-	*
+652	14	understand	VERB	understand	-	*
+652	15	what	PRON	what	-	*
+652	16	is	AUX	be	-	*
+652	17	going	VERB	go	-	*
+652	18	on	ADP	on	-	*
+652	19	in	ADP	in	-	*
+652	20	her	PRON	she	-	(ARG0*)
+652	21	childrearing	NOUN	childrearing	childrearing.01	(V*)
+652	22	.	PUNCT	.	-	*
+
+# sentence_id = 1256
+# text = Had it not been for the back - burning along the Jamieson Track .
+1256	0	Had	AUX	have	-	*
+1256	1	it	PRON	it	-	*
+1256	2	not	PART	not	-	*
+1256	3	been	AUX	be	-	*
+1256	4	for	ADP	for	-	*
+1256	5	the	DET	the	-	*
+1256	6	back	NOUN	back	backburn.01	(V*
+1256	7	-	PUNCT	-	-	*
+1256	8	burning	VERB	burn	-	*)
+1256	9	along	ADP	along	-	(ARGM-LOC*
+1256	10	the	DET	the	-	*
+1256	11	Jamieson	PROPN	Jamieson	-	*
+1256	12	Track	PROPN	Track	-	*)
+1256	13	.	PUNCT	.	-	*
+
+# sentence_id = 1725
+# text = John had a spiritual breakthrough and converted to Zen Buddhism .
+1725	0	John	PROPN	John	-	(ARG0*)
+1725	1	had	VERB	have	-	*
+1725	2	a	DET	a	-	(ARG1*
+1725	3	spiritual	ADJ	spiritual	-	*)
+1725	4	breakthrough	NOUN	breakthrough	break_through.26	(V*)
+1725	5	and	CCONJ	and	-	*
+1725	6	converted	VERB	convert	-	*
+1725	7	to	ADP	to	-	*
+1725	8	Zen	PROPN	Zen	-	*
+1725	9	Buddhism	PROPN	Buddhism	-	*
+1725	10	.	PUNCT	.	-	*
+
+# sentence_id = 675
+# text = 30 Foot Tidal Wave At Reunion Island Came From South African Storm .
+675	0	30	NUM	30	-	(ARG2*
+675	1	Foot	PROPN	Foot	-	*)
+675	2	Tidal	PROPN	Tidal	wave.03	(V*
+675	3	Wave	PROPN	Wave	-	*)
+675	4	At	ADP	at	-	(ARGM-LOC*
+675	5	Reunion	PROPN	Reunion	-	*
+675	6	Island	PROPN	Island	-	*)
+675	7	Came	VERB	come	-	*
+675	8	From	ADP	from	-	*
+675	9	South	PROPN	South	-	*
+675	10	African	ADJ	African	-	*
+675	11	Storm	PROPN	Storm	-	*
+675	12	.	PUNCT	.	-	*
+
+# sentence_id = 541
+# text = The Salvation Army of Mahaska County is pleased to announce their kick - off of the Red Kettle campaign bell - ringing season .
+541	0	The	DET	the	-	*
+541	1	Salvation	PROPN	Salvation	-	*
+541	2	Army	PROPN	Army	-	*
+541	3	of	ADP	of	-	*
+541	4	Mahaska	PROPN	Mahaska	-	*
+541	5	County	PROPN	County	-	*
+541	6	is	AUX	be	-	*
+541	7	pleased	ADJ	pleased	-	*
+541	8	to	PART	to	-	*
+541	9	announce	VERB	announce	-	*
+541	10	their	PRON	they	-	(ARG0*)
+541	11	kick	NOUN	kick	kickoff.01	(V*
+541	12	-	PUNCT	-	-	*
+541	13	off	ADP	off	-	*)
+541	14	of	ADP	of	-	(ARG1*
+541	15	the	DET	the	-	*
+541	16	Red	ADJ	Red	-	*
+541	17	Kettle	PROPN	Kettle	-	*
+541	18	campaign	NOUN	campaign	-	*
+541	19	bell	NOUN	bell	-	*
+541	20	-	PUNCT	-	-	*
+541	21	ringing	NOUN	ringing	-	*
+541	22	season	NOUN	season	-	*)
+541	23	.	PUNCT	.	-	*
+
+# sentence_id = 352
+# text = The transport crew received the update that the patient was having severe back and chest pain .
+352	0	The	DET	the	-	*
+352	1	transport	NOUN	transport	-	*
+352	2	crew	NOUN	crew	-	*
+352	3	received	VERB	receive	-	*
+352	4	the	DET	the	-	*
+352	5	update	NOUN	update	update.02	(V*)
+352	6	that	SCONJ	that	-	(ARG1*
+352	7	the	DET	the	-	*
+352	8	patient	NOUN	patient	-	*
+352	9	was	AUX	be	-	*
+352	10	having	VERB	have	-	*
+352	11	severe	ADJ	severe	-	*
+352	12	back	NOUN	back	-	*
+352	13	and	CCONJ	and	-	*
+352	14	chest	NOUN	chest	-	*
+352	15	pain	NOUN	pain	-	*)
+352	16	.	PUNCT	.	-	*
+
+# sentence_id = 1278
+# text = Sources from within Juba reported hearing heavy gunshots towards Juba from 10 pm in the direction of Terekeka .
+1278	0	Sources	NOUN	source	-	*
+1278	1	from	ADP	from	-	*
+1278	2	within	ADP	within	-	*
+1278	3	Juba	PROPN	Juba	-	*
+1278	4	reported	VERB	report	-	*
+1278	5	hearing	VERB	hear	-	*
+1278	6	heavy	ADJ	heavy	-	(ARGM-ADJ*)
+1278	7	gunshots	NOUN	gunshot	gunshot.11	(V*)
+1278	8	towards	ADP	towards	-	(ARG2*
+1278	9	Juba	PROPN	Juba	-	*)
+1278	10	from	ADP	from	-	(ARGM-TMP*
+1278	11	10	NUM	10	-	*
+1278	12	pm	NOUN	pm	-	*)
+1278	13	in	ADP	in	-	*
+1278	14	the	DET	the	-	*
+1278	15	direction	NOUN	direction	-	*
+1278	16	of	ADP	of	-	*
+1278	17	Terekeka	PROPN	Terekeka	-	*
+1278	18	.	PUNCT	.	-	*
+
+# sentence_id = 1128
+# text = In statistics , the autocorrelation of a random process describes the correlation between values of the process at different times , as a function of the two times or of the time lag .
+1128	0	In	ADP	in	-	*
+1128	1	statistics	NOUN	statistic	-	*
+1128	2	,	PUNCT	,	-	*
+1128	3	the	DET	the	-	*
+1128	4	autocorrelation	NOUN	autocorrelation	autocorrelate.02	(V*)
+1128	5	of	ADP	of	-	(ARG1*
+1128	6	a	DET	a	-	*
+1128	7	random	ADJ	random	-	*
+1128	8	process	NOUN	process	-	*)
+1128	9	describes	VERB	describe	-	*
+1128	10	the	DET	the	-	*
+1128	11	correlation	NOUN	correlation	-	*
+1128	12	between	ADP	between	-	*
+1128	13	values	NOUN	value	-	*
+1128	14	of	ADP	of	-	*
+1128	15	the	DET	the	-	*
+1128	16	process	NOUN	process	-	*
+1128	17	at	ADP	at	-	*
+1128	18	different	ADJ	different	-	*
+1128	19	times	NOUN	time	-	*
+1128	20	,	PUNCT	,	-	*
+1128	21	as	ADP	as	-	*
+1128	22	a	DET	a	-	*
+1128	23	function	NOUN	function	-	*
+1128	24	of	ADP	of	-	*
+1128	25	the	DET	the	-	*
+1128	26	two	NUM	two	-	*
+1128	27	times	NOUN	time	-	*
+1128	28	or	CCONJ	or	-	*
+1128	29	of	ADP	of	-	*
+1128	30	the	DET	the	-	*
+1128	31	time	NOUN	time	-	*
+1128	32	lag	NOUN	lag	-	*
+1128	33	.	PUNCT	.	-	*
+
+# sentence_id = 1718
+# text = It was the largest break from a federal prison in decades .
+1718	0	It	PRON	it	-	*
+1718	1	was	AUX	be	-	*
+1718	2	the	DET	the	-	(ARGM-CXN*
+1718	3	largest	ADJ	large	-	*)
+1718	4	break	NOUN	break	break.20	(V*)
+1718	5	from	ADP	from	-	(ARG1*
+1718	6	a	DET	a	-	*
+1718	7	federal	ADJ	federal	-	*
+1718	8	prison	NOUN	prison	-	*)
+1718	9	in	ADP	in	-	(C-ARGM-CXN*
+1718	10	decades	NOUN	decade	-	*)
+1718	11	.	PUNCT	.	-	*
+
+# sentence_id = 1281
+# text = It appears that if according to the existing " Penal Code " adjudication , without a doubt , even if the vast majority of corrupt officials do n't reach the level of " crime deserving of dying ten thousand deaths " , they 're sufficient to be crimes deserving of dying ten times , a hundred times , a thousand times .
+1281	0	It	PRON	it	-	*
+1281	1	appears	VERB	appear	-	*
+1281	2	that	SCONJ	that	-	*
+1281	3	if	SCONJ	if	-	*
+1281	4	according	VERB	accord	-	*
+1281	5	to	ADP	to	-	*
+1281	6	the	DET	the	-	*
+1281	7	existing	VERB	exist	-	(ARGM-PRD*)
+1281	8	"	PUNCT	"	-	*
+1281	9	Penal	ADJ	Penal	-	(ARG1*
+1281	10	Code	NOUN	code	-	*)
+1281	11	"	PUNCT	"	-	*
+1281	12	adjudication	NOUN	adjudication	adjudicate.01	(V*)
+1281	13	,	PUNCT	,	-	*
+1281	14	without	ADP	without	-	*
+1281	15	a	DET	a	-	*
+1281	16	doubt	NOUN	doubt	-	*
+1281	17	,	PUNCT	,	-	*
+1281	18	even	ADV	even	-	*
+1281	19	if	SCONJ	if	-	*
+1281	20	the	DET	the	-	*
+1281	21	vast	ADJ	vast	-	*
+1281	22	majority	NOUN	majority	-	*
+1281	23	of	ADP	of	-	*
+1281	24	corrupt	ADJ	corrupt	-	*
+1281	25	officials	NOUN	official	-	*
+1281	26	do	AUX	do	-	*
+1281	27	n't	PART	not	-	*
+1281	28	reach	VERB	reach	-	*
+1281	29	the	DET	the	-	*
+1281	30	level	NOUN	level	-	*
+1281	31	of	ADP	of	-	*
+1281	32	"	PUNCT	"	-	*
+1281	33	crime	NOUN	crime	-	*
+1281	34	deserving	ADJ	deserving	-	*
+1281	35	of	SCONJ	of	-	*
+1281	36	dying	VERB	die	-	*
+1281	37	ten	NUM	ten	-	*
+1281	38	thousand	NUM	thousand	-	*
+1281	39	deaths	NOUN	death	-	*
+1281	40	"	PUNCT	"	-	*
+1281	41	,	PUNCT	,	-	*
+1281	42	they	PRON	they	-	*
+1281	43	're	AUX	be	-	*
+1281	44	sufficient	ADJ	sufficient	-	*
+1281	45	to	PART	to	-	*
+1281	46	be	AUX	be	-	*
+1281	47	crimes	NOUN	crime	-	*
+1281	48	deserving	VERB	deserve	-	*
+1281	49	of	SCONJ	of	-	*
+1281	50	dying	VERB	die	-	*
+1281	51	ten	NUM	ten	-	*
+1281	52	times	NOUN	time	-	*
+1281	53	,	PUNCT	,	-	*
+1281	54	a	DET	a	-	*
+1281	55	hundred	NUM	hundred	-	*
+1281	56	times	NOUN	time	-	*
+1281	57	,	PUNCT	,	-	*
+1281	58	a	DET	a	-	*
+1281	59	thousand	NUM	thousand	-	*
+1281	60	times	NOUN	time	-	*
+1281	61	.	PUNCT	.	-	*
+
+# sentence_id = 277
+# text = His segue from activist comic to Citizen Gregory was a natural progression .
+277	0	His	PRON	his	-	(ARG0*)
+277	1	segue	NOUN	segue	segue.01	(V*)
+277	2	from	ADP	from	-	(ARG1*
+277	3	activist	NOUN	activist	-	*
+277	4	comic	NOUN	comic	-	*)
+277	5	to	ADP	to	-	(ARG2*
+277	6	Citizen	PROPN	Citizen	-	*
+277	7	Gregory	PROPN	Gregory	-	*)
+277	8	was	AUX	be	-	*
+277	9	a	DET	a	-	*
+277	10	natural	ADJ	natural	-	*
+277	11	progression	NOUN	progression	-	*
+277	12	.	PUNCT	.	-	*
+
+# sentence_id = 132
+# text = A brain aneurysm is an abnormal outpouching of one of the arteries in the brain similar to a bad tire with the bulging of the side wall .
+132	0	A	DET	a	-	*
+132	1	brain	NOUN	brain	-	*
+132	2	aneurysm	NOUN	aneurysm	-	*
+132	3	is	AUX	be	-	*
+132	4	an	DET	a	-	*
+132	5	abnormal	ADJ	abnormal	-	(ARGM-MNR*)
+132	6	outpouching	NOUN	outpouching	outpouching.01	(V*)
+132	7	of	ADP	of	-	(ARG1*
+132	8	one	NUM	one	-	*
+132	9	of	ADP	of	-	*
+132	10	the	DET	the	-	*
+132	11	arteries	NOUN	artery	-	*
+132	12	in	ADP	in	-	*
+132	13	the	DET	the	-	*
+132	14	brain	NOUN	brain	-	*)
+132	15	similar	ADJ	similar	-	(ARGM-ADJ*
+132	16	to	ADP	to	-	*
+132	17	a	DET	a	-	*
+132	18	bad	ADJ	bad	-	*
+132	19	tire	NOUN	tire	-	*
+132	20	with	ADP	with	-	*
+132	21	the	DET	the	-	*
+132	22	bulging	NOUN	bulging	-	*
+132	23	of	ADP	of	-	*
+132	24	the	DET	the	-	*
+132	25	side	NOUN	side	-	*
+132	26	wall	NOUN	wall	-	*)
+132	27	.	PUNCT	.	-	*
+
+# sentence_id = 1185
+# text = On Tuesday he is being hailed for his bravery in saving the life of the rookie officer .
+1185	0	On	ADP	on	-	*
+1185	1	Tuesday	PROPN	Tuesday	-	*
+1185	2	he	PRON	he	-	*
+1185	3	is	AUX	be	-	*
+1185	4	being	AUX	be	-	*
+1185	5	hailed	VERB	hail	-	*
+1185	6	for	ADP	for	-	*
+1185	7	his	PRON	he	-	(ARG0*)
+1185	8	bravery	NOUN	bravery	brave.02	(V*)
+1185	9	in	SCONJ	in	-	(ARG1*
+1185	10	saving	VERB	save	-	*
+1185	11	the	DET	the	-	*
+1185	12	life	NOUN	life	-	*
+1185	13	of	ADP	of	-	*
+1185	14	the	DET	the	-	*
+1185	15	rookie	NOUN	rookie	-	*
+1185	16	officer	NOUN	officer	-	*)
+1185	17	.	PUNCT	.	-	*
+
+# sentence_id = 191
+# text = Among Bessie 's numbers were Dying Gambler 's Blues , Sing Sing Prison Blues , and one I had never heard called Black Mountain Blues , which has the imcomparable lines , Home in Black Mountain a chile ' will smack yo ' face .
+191	0	Among	ADP	among	-	*
+191	1	Bessie	PROPN	Bessie	-	*
+191	2	's	PART	's	-	*
+191	3	numbers	NOUN	number	-	*
+191	4	were	AUX	be	-	*
+191	5	Dying	PROPN	Dying	-	*
+191	6	Gambler	PROPN	Gambler	-	*
+191	7	's	PART	's	-	*
+191	8	Blues	PROPN	Blues	-	*
+191	9	,	PUNCT	,	-	*
+191	10	Sing	PROPN	Sing	-	*
+191	11	Sing	PROPN	Sing	-	*
+191	12	Prison	PROPN	Prison	-	*
+191	13	Blues	PROPN	Blues	-	*
+191	14	,	PUNCT	,	-	*
+191	15	and	CCONJ	and	-	*
+191	16	one	NUM	one	-	*
+191	17	I	PRON	I	-	*
+191	18	had	AUX	have	-	*
+191	19	never	ADV	never	-	*
+191	20	heard	VERB	hear	-	*
+191	21	called	VERB	call	-	*
+191	22	Black	ADJ	Black	-	*
+191	23	Mountain	PROPN	Mountain	-	*
+191	24	Blues	PROPN	Blues	-	*
+191	25	,	PUNCT	,	-	*
+191	26	which	PRON	which	-	*
+191	27	has	VERB	have	-	*
+191	28	the	DET	the	-	*
+191	29	imcomparable	ADJ	imcomparable	-	*
+191	30	lines	NOUN	line	-	*
+191	31	,	PUNCT	,	-	*
+191	32	Home	PROPN	Home	-	(ARGM-LOC*
+191	33	in	ADP	in	-	*
+191	34	Black	ADJ	Black	-	*
+191	35	Mountain	PROPN	Mountain	-	*)
+191	36	a	DET	a	-	(ARG0*
+191	37	chile	NOUN	chile	-	*
+191	38	'	PUNCT	'	-	*)
+191	39	will	AUX	will	-	(ARGM-MOD*)
+191	40	smack	VERB	smack	smack.02	(V*)
+191	41	yo	PRON	yo	-	(ARG1*
+191	42	'	PUNCT	'	-	*
+191	43	face	NOUN	face	-	*)
+191	44	.	PUNCT	.	-	*
+
+# sentence_id = 631
+# text = The Sun 's gravitational force on the Earth is much stronger than the Moon 's gravitational force on the Earth .
+631	0	The	DET	the	-	(ARG0*
+631	1	Sun	PROPN	Sun	-	*
+631	2	's	PART	's	-	*)
+631	3	gravitational	ADJ	gravitational	-	(ARG2*)
+631	4	force	NOUN	force	force.04	(V*)
+631	5	on	ADP	on	-	(ARG1*
+631	6	the	DET	the	-	*
+631	7	Earth	PROPN	Earth	-	*)
+631	8	is	AUX	be	-	*
+631	9	much	ADV	much	-	*
+631	10	stronger	ADJ	strong	-	*
+631	11	than	ADP	than	-	*
+631	12	the	DET	the	-	*
+631	13	Moon	PROPN	Moon	-	*
+631	14	's	PART	's	-	*
+631	15	gravitational	ADJ	gravitational	-	*
+631	16	force	NOUN	force	-	*
+631	17	on	ADP	on	-	*
+631	18	the	DET	the	-	*
+631	19	Earth	PROPN	Earth	-	*
+631	20	.	PUNCT	.	-	*
+
+# sentence_id = 350
+# text = Condensation of thought legacy is to solve a consensus and the understanding of the concept of problems .
+350	0	Condensation	NOUN	condensation	condense.01	(V*)
+350	1	of	ADP	of	-	(ARG1*
+350	2	thought	NOUN	thought	-	*
+350	3	legacy	NOUN	legacy	-	*)
+350	4	is	VERB	be	-	*
+350	5	to	PART	to	-	*
+350	6	solve	VERB	solve	-	*
+350	7	a	DET	a	-	*
+350	8	consensus	NOUN	consensus	-	*
+350	9	and	CCONJ	and	-	*
+350	10	the	DET	the	-	*
+350	11	understanding	NOUN	understanding	-	*
+350	12	of	ADP	of	-	*
+350	13	the	DET	the	-	*
+350	14	concept	NOUN	concept	-	*
+350	15	of	ADP	of	-	*
+350	16	problems	NOUN	problem	-	*
+350	17	.	PUNCT	.	-	*
+
+# sentence_id = 985
+# text = Myelosuppression of thrombocytes and monocytes is associated with a lack of synergy between chemotherapy and anti - VEGF treatment .
+985	0	Myelosuppression	NOUN	myelosuppression	myelosuppress.01	(V*)
+985	1	of	ADP	of	-	(ARG1*
+985	2	thrombocytes	NOUN	thrombocyte	-	*
+985	3	and	CCONJ	and	-	*
+985	4	monocytes	NOUN	monocyte	-	*)
+985	5	is	AUX	be	-	*
+985	6	associated	VERB	associate	-	*
+985	7	with	ADP	with	-	*
+985	8	a	DET	a	-	*
+985	9	lack	NOUN	lack	-	*
+985	10	of	ADP	of	-	*
+985	11	synergy	NOUN	synergy	-	*
+985	12	between	ADP	between	-	*
+985	13	chemotherapy	NOUN	chemotherapy	-	*
+985	14	and	CCONJ	and	-	*
+985	15	anti	NOUN	anti	-	*
+985	16	-	PUNCT	-	-	*
+985	17	VEGF	NOUN	vegf	-	*
+985	18	treatment	NOUN	treatment	-	*
+985	19	.	PUNCT	.	-	*
+
+# sentence_id = 1207
+# text = Limit the re - radiation of infra red heat from our soils to significantly ' turn down ' the greenhouse effect .
+1207	0	Limit	VERB	limit	-	*
+1207	1	the	DET	the	-	*
+1207	2	re	ADP	re	reradiate.02	(V*
+1207	3	-	PUNCT	-	-	*
+1207	4	radiation	NOUN	radiation	-	*)
+1207	5	of	ADP	of	-	(ARG1*
+1207	6	infra	NOUN	infra	-	*
+1207	7	red	ADJ	red	-	*
+1207	8	heat	NOUN	heat	-	*)
+1207	9	from	ADP	from	-	(ARGM-DIR*
+1207	10	our	PRON	we	-	*
+1207	11	soils	NOUN	soil	-	*)
+1207	12	to	PART	to	-	*
+1207	13	significantly	ADV	significantly	-	*
+1207	14	'	PUNCT	'	-	*
+1207	15	turn	VERB	turn	-	*
+1207	16	down	ADP	down	-	*
+1207	17	'	PUNCT	'	-	*
+1207	18	the	DET	the	-	*
+1207	19	greenhouse	NOUN	greenhouse	-	*
+1207	20	effect	NOUN	effect	-	*
+1207	21	.	PUNCT	.	-	*
+
+# sentence_id = 1260
+# text = A multi - scale framework for adaptive binarization of degraded document images .
+1260	0	A	DET	a	-	*
+1260	1	multi	ADJ	multi	-	*
+1260	2	-	PUNCT	-	-	*
+1260	3	scale	NOUN	scale	-	*
+1260	4	framework	NOUN	framework	-	*
+1260	5	for	ADP	for	-	*
+1260	6	adaptive	ADJ	adaptive	-	(ARGM-MNR*)
+1260	7	binarization	NOUN	binarization	binarize.01	(V*)
+1260	8	of	ADP	of	-	(ARG1*
+1260	9	degraded	VERB	degrade	-	*
+1260	10	document	NOUN	document	-	*
+1260	11	images	NOUN	image	-	*)
+1260	12	.	PUNCT	.	-	*
+
+# sentence_id = 639
+# text = Sodium triacetoxyborohydride is presented as a general reducing agent for the reductive amination of aldehydes and ketones .
+639	0	Sodium	NOUN	sodium	-	*
+639	1	triacetoxyborohydride	NOUN	triacetoxyborohydride	-	*
+639	2	is	AUX	be	-	*
+639	3	presented	VERB	present	-	*
+639	4	as	ADP	as	-	*
+639	5	a	DET	a	-	*
+639	6	general	ADJ	general	-	*
+639	7	reducing	NOUN	reduce	-	*
+639	8	agent	NOUN	agent	-	*
+639	9	for	ADP	for	-	*
+639	10	the	DET	the	-	*
+639	11	reductive	ADJ	reductive	-	(ARGM-MNR*)
+639	12	amination	NOUN	amination	aminate.01	(V*)
+639	13	of	ADP	of	-	(ARG1*
+639	14	aldehydes	NOUN	aldehyde	-	*
+639	15	and	CCONJ	and	-	*
+639	16	ketones	NOUN	ketone	-	*)
+639	17	.	PUNCT	.	-	*
+
+# sentence_id = 1937
+# text = Accusations of unjust harm doing by the ingroup threaten the group 's moral identity .
+1937	0	Accusations	NOUN	accusation	-	*
+1937	1	of	ADP	of	-	*
+1937	2	unjust	ADJ	unjust	-	(ARGM-MNR*)
+1937	3	harm	NOUN	harm	-	(ARG1*)
+1937	4	doing	VERB	do	doing.07	(V*)
+1937	5	by	ADP	by	-	(ARG0*
+1937	6	the	DET	the	-	*
+1937	7	ingroup	NOUN	ingroup	-	*)
+1937	8	threaten	VERB	threaten	-	*
+1937	9	the	DET	the	-	*
+1937	10	group	NOUN	group	-	*
+1937	11	's	PART	's	-	*
+1937	12	moral	ADJ	moral	-	*
+1937	13	identity	NOUN	identity	-	*
+1937	14	.	PUNCT	.	-	*
+
+# sentence_id = 367
+# text = We are forecasting a 1 to 2 foot flash flood reaching lees ferry around 6 to 8 AM MST .
+367	0	We	PRON	we	-	*
+367	1	are	AUX	be	-	*
+367	2	forecasting	VERB	forecasting	-	*
+367	3	a	DET	a	-	*
+367	4	1	NUM	1	-	(ARG2*
+367	5	to	ADP	to	-	*
+367	6	2	NUM	2	-	*
+367	7	foot	NOUN	foot	-	*)
+367	8	flash	NOUN	flash	flashflood.01	(V*
+367	9	flood	NOUN	flood	-	*)
+367	10	reaching	VERB	reach	-	*
+367	11	lees	NOUN	lee	-	*
+367	12	ferry	NOUN	ferry	-	*
+367	13	around	ADP	around	-	*
+367	14	6	NUM	6	-	*
+367	15	to	ADP	to	-	*
+367	16	8	NUM	8	-	*
+367	17	AM	NOUN	am	-	*
+367	18	MST	PROPN	MST	-	*
+367	19	.	PUNCT	.	-	*
+
+# sentence_id = 388
+# text = People who are recommending De Gendt at 76 Mo are forgetting his Alpe D'huez finish last year .
+388	0	People	NOUN	person	-	*
+388	1	who	PRON	who	-	*
+388	2	are	AUX	be	-	*
+388	3	recommending	VERB	recommend	-	*
+388	4	De	PROPN	De	-	*
+388	5	Gendt	PROPN	Gendt	-	*
+388	6	at	ADP	at	-	*
+388	7	76	NUM	76	-	*
+388	8	Mo	PROPN	Mo	-	*
+388	9	are	AUX	be	-	*
+388	10	forgetting	VERB	forget	-	*
+388	11	his	PRON	he	-	(ARG0*)
+388	12	Alpe	PROPN	Alpe	-	(ARG1*
+388	13	D'huez	PROPN	D'huez	-	*)
+388	14	finish	NOUN	finish	finish.07	(V*)
+388	15	last	ADJ	last	-	(ARGM-TMP*
+388	16	year	NOUN	year	-	*)
+388	17	.	PUNCT	.	-	*
+
+# sentence_id = 1851
+# text = This apparent ellipse of motion of the star is called the aberration of starlight .
+1851	0	This	DET	this	-	*
+1851	1	apparent	ADJ	apparent	-	*
+1851	2	ellipse	NOUN	ellipse	-	*
+1851	3	of	ADP	of	-	*
+1851	4	motion	NOUN	motion	-	*
+1851	5	of	ADP	of	-	*
+1851	6	the	DET	the	-	*
+1851	7	star	NOUN	star	-	*
+1851	8	is	AUX	be	-	*
+1851	9	called	VERB	call	-	*
+1851	10	the	DET	the	-	*
+1851	11	aberration	NOUN	aberration	aberrate.01	(V*)
+1851	12	of	ADP	of	-	(ARG1*
+1851	13	starlight	NOUN	starlight	-	*)
+1851	14	.	PUNCT	.	-	*
+
+# sentence_id = 403
+# text = If it installs successfully , ransomware encrypts text files and displays a ransom note demanding 200 dollars to supply decryption software to restore the data to its original form .
+403	0	If	SCONJ	if	-	*
+403	1	it	PRON	it	-	*
+403	2	installs	VERB	install	-	*
+403	3	successfully	ADV	successfully	-	*
+403	4	,	PUNCT	,	-	*
+403	5	ransomware	NOUN	ransomware	-	*
+403	6	encrypts	VERB	encrypt	-	*
+403	7	text	NOUN	text	-	*
+403	8	files	NOUN	file	-	*
+403	9	and	CCONJ	and	-	*
+403	10	displays	VERB	display	-	*
+403	11	a	DET	a	-	*
+403	12	ransom	NOUN	ransom	-	*
+403	13	note	NOUN	note	-	*
+403	14	demanding	VERB	demand	-	*
+403	15	200	NUM	200	-	*
+403	16	dollars	NOUN	dollar	-	*
+403	17	to	PART	to	-	*
+403	18	supply	VERB	supply	-	*
+403	19	decryption	NOUN	decryption	decrypt.01	(V*)
+403	20	software	NOUN	software	-	(ARG0*)
+403	21	to	PART	to	-	*
+403	22	restore	VERB	restore	-	*
+403	23	the	DET	the	-	*
+403	24	data	NOUN	datum	-	*
+403	25	to	ADP	to	-	*
+403	26	its	PRON	its	-	*
+403	27	original	ADJ	original	-	*
+403	28	form	NOUN	form	-	*
+403	29	.	PUNCT	.	-	*
+
+# sentence_id = 931
+# text = His respiration was exaggerated and his breath had an acetone odor .
+931	0	His	PRON	his	-	(ARG0*)
+931	1	respiration	NOUN	respiration	respire.01	(V*)
+931	2	was	AUX	be	-	*
+931	3	exaggerated	VERB	exaggerate	-	*
+931	4	and	CCONJ	and	-	*
+931	5	his	PRON	he	-	*
+931	6	breath	NOUN	breath	-	*
+931	7	had	VERB	have	-	*
+931	8	an	DET	a	-	*
+931	9	acetone	NOUN	acetone	-	*
+931	10	odor	NOUN	odor	-	*
+931	11	.	PUNCT	.	-	*
+
+# sentence_id = 1234
+# text = So set your clocks back to November last year , just after a heatwave of 110 days in October .
+1234	0	So	ADV	so	-	*
+1234	1	set	VERB	set	-	*
+1234	2	your	PRON	you	-	*
+1234	3	clocks	NOUN	clock	-	*
+1234	4	back	ADV	back	-	*
+1234	5	to	ADP	to	-	*
+1234	6	November	PROPN	November	-	*
+1234	7	last	ADJ	last	-	*
+1234	8	year	NOUN	year	-	*
+1234	9	,	PUNCT	,	-	*
+1234	10	just	ADV	just	-	*
+1234	11	after	ADP	after	-	*
+1234	12	a	DET	a	-	*
+1234	13	heatwave	NOUN	heatwave	heatwave.01	(V*)
+1234	14	of	ADP	of	-	(ARG1*
+1234	15	110	NUM	110	-	*
+1234	16	days	NOUN	day	-	*)
+1234	17	in	ADP	in	-	(ARGM-TMP*
+1234	18	October	PROPN	October	-	*)
+1234	19	.	PUNCT	.	-	*
+
+# sentence_id = 841
+# text = Look at Angeledes and Westley , who managed to make a campaign against Schwartzenneger look like a playfight between 12 year olds .
+841	0	Look	VERB	look	-	*
+841	1	at	ADP	at	-	*
+841	2	Angeledes	PROPN	Angelede	-	*
+841	3	and	CCONJ	and	-	*
+841	4	Westley	PROPN	Westley	-	*
+841	5	,	PUNCT	,	-	*
+841	6	who	PRON	who	-	*
+841	7	managed	VERB	manage	-	*
+841	8	to	PART	to	-	*
+841	9	make	VERB	make	-	*
+841	10	a	DET	a	-	*
+841	11	campaign	NOUN	campaign	-	*
+841	12	against	ADP	against	-	*
+841	13	Schwartzenneger	PROPN	Schwartzenneger	-	*
+841	14	look	VERB	look	-	*
+841	15	like	ADP	like	-	*
+841	16	a	DET	a	-	*
+841	17	playfight	NOUN	playfight	playfight.01	(V*)
+841	18	between	ADP	between	-	(ARG0*
+841	19	12	NUM	12	-	*
+841	20	year	NOUN	year	-	*
+841	21	olds	NOUN	old	-	*)
+841	22	.	PUNCT	.	-	*
+
+# sentence_id = 741
+# text = Influence of nest site selection on predation of flatback sea turtle ( Natator depressus ) eggs by varanid lizards in Northern Australia .
+741	0	Influence	NOUN	influence	-	*
+741	1	of	ADP	of	-	*
+741	2	nest	NOUN	nest	-	*
+741	3	site	NOUN	site	-	*
+741	4	selection	NOUN	selection	-	*
+741	5	on	ADP	on	-	*
+741	6	predation	NOUN	predation	predate.02	(V*)
+741	7	of	ADP	of	-	(ARG1*
+741	8	flatback	NOUN	flatback	-	*
+741	9	sea	NOUN	sea	-	*
+741	10	turtle	NOUN	turtle	-	*
+741	11	(	PUNCT	(	-	*
+741	12	Natator	PROPN	Natator	-	*
+741	13	depressus	NOUN	depressus	-	*
+741	14	)	PUNCT	)	-	*
+741	15	eggs	NOUN	egg	-	*)
+741	16	by	ADP	by	-	(ARG0*
+741	17	varanid	ADJ	varanid	-	*
+741	18	lizards	NOUN	lizard	-	*)
+741	19	in	ADP	in	-	(ARGM-LOC*
+741	20	Northern	ADJ	Northern	-	*
+741	21	Australia	PROPN	Australia	-	*)
+741	22	.	PUNCT	.	-	*
+
+# sentence_id = 739
+# text = They are basically a very deadly cyclone of wind and water .
+739	0	They	PRON	they	-	*
+739	1	are	AUX	be	-	*
+739	2	basically	ADV	basically	-	*
+739	3	a	DET	a	-	*
+739	4	very	ADV	very	-	(ARGM-ADJ*
+739	5	deadly	ADJ	deadly	-	*)
+739	6	cyclone	NOUN	cyclone	cyclone.01	(V*)
+739	7	of	ADP	of	-	(ARG1*
+739	8	wind	NOUN	wind	-	*
+739	9	and	CCONJ	and	-	*
+739	10	water	NOUN	water	-	*)
+739	11	.	PUNCT	.	-	*
+
+# sentence_id = 1824
+# text = Septation of a single ventricle into 2 functioning ventricles can provide an alternative to the Fontan operation .
+1824	0	Septation	NOUN	septation	septate.01	(V*)
+1824	1	of	ADP	of	-	(ARG1*
+1824	2	a	DET	a	-	*
+1824	3	single	ADJ	single	-	*
+1824	4	ventricle	NOUN	ventricle	-	*)
+1824	5	into	ADP	into	-	(ARGM-PRD*
+1824	6	2	NUM	2	-	*
+1824	7	functioning	VERB	function	-	*
+1824	8	ventricles	NOUN	ventricle	-	*)
+1824	9	can	AUX	can	-	*
+1824	10	provide	VERB	provide	-	*
+1824	11	an	DET	a	-	*
+1824	12	alternative	NOUN	alternative	-	*
+1824	13	to	ADP	to	-	*
+1824	14	the	DET	the	-	*
+1824	15	Fontan	PROPN	Fontan	-	*
+1824	16	operation	NOUN	operation	-	*
+1824	17	.	PUNCT	.	-	*
+
+# sentence_id = 1500
+# text = This is just my impression of the site layout .
+1500	0	This	PRON	this	-	*
+1500	1	is	AUX	be	-	*
+1500	2	just	ADV	just	-	*
+1500	3	my	PRON	my	-	(ARG0*)
+1500	4	impression	NOUN	impression	impression.03	(V*)
+1500	5	of	ADP	of	-	(ARG1*
+1500	6	the	DET	the	-	*
+1500	7	site	NOUN	site	-	*
+1500	8	layout	NOUN	layout	-	*)
+1500	9	.	PUNCT	.	-	*
+
+# sentence_id = 1294
+# text = You could try posting this on the moneysaving in marriage and relationships board ?
+1294	0	You	PRON	you	-	*
+1294	1	could	AUX	could	-	*
+1294	2	try	VERB	try	-	*
+1294	3	posting	VERB	post	-	*
+1294	4	this	PRON	this	-	*
+1294	5	on	ADP	on	-	*
+1294	6	the	DET	the	-	*
+1294	7	moneysaving	NOUN	moneysaving	moneysaving.01	(V*)
+1294	8	in	ADP	in	-	(ARGM-LOC*
+1294	9	marriage	NOUN	marriage	-	*
+1294	10	and	CCONJ	and	-	*
+1294	11	relationships	NOUN	relationship	-	*)
+1294	12	board	NOUN	board	-	*
+1294	13	?	PUNCT	?	-	*
+
+# sentence_id = 19
+# text = Asymmetric pachymeningeal enhancement underlies the right craniotomy site , with redemonstration of right subdural fluid collection .
+19	0	Asymmetric	ADJ	asymmetric	-	*
+19	1	pachymeningeal	NOUN	pachymeningeal	-	*
+19	2	enhancement	NOUN	enhancement	-	*
+19	3	underlies	VERB	underly	-	*
+19	4	the	DET	the	-	*
+19	5	right	ADJ	right	-	*
+19	6	craniotomy	NOUN	craniotomy	-	*
+19	7	site	NOUN	site	-	*
+19	8	,	PUNCT	,	-	*
+19	9	with	ADP	with	-	*
+19	10	redemonstration	NOUN	redemonstration	redemonstrate.01	(V*)
+19	11	of	ADP	of	-	(ARG1*
+19	12	right	ADJ	right	-	*
+19	13	subdural	ADJ	subdural	-	*
+19	14	fluid	NOUN	fluid	-	*
+19	15	collection	NOUN	collection	-	*)
+19	16	.	PUNCT	.	-	*
+
+# sentence_id = 6
+# text = Some dogs may only show aggression over one specific object and nothing else .
+6	0	Some	DET	some	-	*
+6	1	dogs	NOUN	dog	-	*
+6	2	may	AUX	may	-	*
+6	3	only	ADV	only	-	*
+6	4	show	VERB	show	-	*
+6	5	aggression	NOUN	aggression	aggress.01	(V*)
+6	6	over	ADP	over	-	(ARGM-CAU*
+6	7	one	NUM	one	-	*
+6	8	specific	ADJ	specific	-	*
+6	9	object	NOUN	object	-	*
+6	10	and	CCONJ	and	-	*
+6	11	nothing	PRON	nothing	-	*
+6	12	else	ADJ	else	-	*)
+6	13	.	PUNCT	.	-	*
+
+# sentence_id = 1103
+# text = Metabolic growth rate control in Escherichia coli may be a consequence of subsaturation of the macromolecular biosynthetic apparatus with substrates and catalytic components .
+1103	0	Metabolic	ADJ	metabolic	-	*
+1103	1	growth	NOUN	growth	-	*
+1103	2	rate	NOUN	rate	-	*
+1103	3	control	NOUN	control	-	*
+1103	4	in	ADP	in	-	*
+1103	5	Escherichia	NOUN	Escherichia	-	*
+1103	6	coli	NOUN	coli	-	*
+1103	7	may	AUX	may	-	*
+1103	8	be	AUX	be	-	*
+1103	9	a	DET	a	-	*
+1103	10	consequence	NOUN	consequence	-	*
+1103	11	of	ADP	of	-	*
+1103	12	subsaturation	NOUN	subsaturation	subsaturation.01	(V*)
+1103	13	of	ADP	of	-	(ARG1*
+1103	14	the	DET	the	-	*
+1103	15	macromolecular	ADJ	macromolecular	-	*
+1103	16	biosynthetic	ADJ	biosynthetic	-	*
+1103	17	apparatus	NOUN	apparatus	-	*
+1103	18	with	ADP	with	-	*
+1103	19	substrates	NOUN	substrate	-	*
+1103	20	and	CCONJ	and	-	*
+1103	21	catalytic	ADJ	catalytic	-	*
+1103	22	components	NOUN	component	-	*)
+1103	23	.	PUNCT	.	-	*
+
+# sentence_id = 963
+# text = Dr. Dupont did his re - excision of the melanoma site and grafted it .
+963	0	Dr.	PROPN	Dr.	-	(ARG0*
+963	1	Dupont	PROPN	Dupont	-	*)
+963	2	did	VERB	do	-	*
+963	3	his	PRON	he	-	*
+963	4	re	ADP	re	reexcise.01	(V*
+963	5	-	PUNCT	-	-	*
+963	6	excision	NOUN	excision	-	*)
+963	7	of	ADP	of	-	(ARG1*
+963	8	the	DET	the	-	*
+963	9	melanoma	NOUN	melanoma	-	*
+963	10	site	NOUN	site	-	*)
+963	11	and	CCONJ	and	-	*
+963	12	grafted	VERB	graft	-	*
+963	13	it	PRON	it	-	*
+963	14	.	PUNCT	.	-	*
+
+# sentence_id = 451
+# text = About 200 Danish troops started their peacekeeping in 1993 with the United Nations during the war in Bosnia .
+451	0	About	ADV	about	-	*
+451	1	200	NUM	200	-	*
+451	2	Danish	ADJ	Danish	-	*
+451	3	troops	NOUN	troops	-	*
+451	4	started	VERB	start	-	*
+451	5	their	PRON	they	-	(ARG0*)
+451	6	peacekeeping	NOUN	peacekeeping	peacekeep.01	(V*)
+451	7	in	ADP	in	-	*
+451	8	1993	NUM	1993	-	*
+451	9	with	ADP	with	-	*
+451	10	the	DET	the	-	*
+451	11	United	ADJ	United	-	*
+451	12	Nations	PROPN	Nation	-	*
+451	13	during	ADP	during	-	*
+451	14	the	DET	the	-	*
+451	15	war	NOUN	war	-	*
+451	16	in	ADP	in	-	*
+451	17	Bosnia	PROPN	Bosnia	-	*
+451	18	.	PUNCT	.	-	*
+
+# sentence_id = 368
+# text = The mother of a missing three - year - old girl in the Guindaruhan river flashflood was still hopeful she could still see her daughter alive .
+368	0	The	DET	the	-	*
+368	1	mother	NOUN	mother	-	*
+368	2	of	ADP	of	-	*
+368	3	a	DET	a	-	*
+368	4	missing	ADJ	missing	-	*
+368	5	three	NUM	three	-	*
+368	6	-	PUNCT	-	-	*
+368	7	year	NOUN	year	-	*
+368	8	-	PUNCT	-	-	*
+368	9	old	ADJ	old	-	*
+368	10	girl	NOUN	girl	-	*
+368	11	in	ADP	in	-	*
+368	12	the	DET	the	-	*
+368	13	Guindaruhan	PROPN	Guindaruhan	-	(ARG1*
+368	14	river	NOUN	river	-	*)
+368	15	flashflood	NOUN	flashflood	flashflood.01	(V*
+368	16	was	AUX	be	-	*)
+368	17	still	ADV	still	-	*
+368	18	hopeful	ADJ	hopeful	-	*
+368	19	she	PRON	she	-	*
+368	20	could	AUX	could	-	*
+368	21	still	ADV	still	-	*
+368	22	see	VERB	see	-	*
+368	23	her	PRON	she	-	*
+368	24	daughter	NOUN	daughter	-	*
+368	25	alive	ADJ	alive	-	*
+368	26	.	PUNCT	.	-	*
+
+# sentence_id = 1315
+# text = In both cases , we plot the performances when starting at scale 1.0 and when upscaling the image to twice its original resolution ( scale 0.5 ) .
+1315	0	In	ADP	in	-	*
+1315	1	both	DET	both	-	*
+1315	2	cases	NOUN	case	-	*
+1315	3	,	PUNCT	,	-	*
+1315	4	we	PRON	we	-	(ARG0*)
+1315	5	plot	VERB	plot	-	*
+1315	6	the	DET	the	-	*
+1315	7	performances	NOUN	performance	-	*
+1315	8	when	SCONJ	when	-	*
+1315	9	starting	VERB	start	-	*
+1315	10	at	ADP	at	-	*
+1315	11	scale	NOUN	scale	-	*
+1315	12	1.0	NUM	1.0	-	*
+1315	13	and	CCONJ	and	-	*
+1315	14	when	SCONJ	when	-	*
+1315	15	upscaling	VERB	upscale	upscale.02	(V*)
+1315	16	the	DET	the	-	(ARG1*
+1315	17	image	NOUN	image	-	*)
+1315	18	to	ADP	to	-	(ARG4*
+1315	19	twice	ADV	twice	-	*
+1315	20	its	PRON	its	-	*
+1315	21	original	ADJ	original	-	*
+1315	22	resolution	NOUN	resolution	-	*
+1315	23	(	PUNCT	(	-	*
+1315	24	scale	NOUN	scale	-	*
+1315	25	0.5	NUM	0.5	-	*
+1315	26	)	PUNCT	)	-	*)
+1315	27	.	PUNCT	.	-	*
+
+# sentence_id = 738
+# text = Tropical cyclone Tracy is the smallest recorded cyclone , with a radius of gales extending less than 50 kilometres .
+738	0	Tropical	ADJ	tropical	-	*
+738	1	cyclone	NOUN	cyclone	-	*
+738	2	Tracy	PROPN	Tracy	-	*
+738	3	is	AUX	be	-	*
+738	4	the	DET	the	-	*
+738	5	smallest	ADJ	small	-	(ARG2*
+738	6	recorded	VERB	record	-	*)
+738	7	cyclone	NOUN	cyclone	cyclone.01	(V*)
+738	8	,	PUNCT	,	-	*
+738	9	with	SCONJ	with	-	(ARGM-ADJ*
+738	10	a	DET	a	-	*
+738	11	radius	NOUN	radius	-	*
+738	12	of	ADP	of	-	*
+738	13	gales	NOUN	gale	-	*
+738	14	extending	VERB	extend	-	*
+738	15	less	ADJ	less	-	*
+738	16	than	ADP	than	-	*
+738	17	50	NUM	50	-	*
+738	18	kilometres	NOUN	kilometre	-	*)
+738	19	.	PUNCT	.	-	*
+
+# sentence_id = 1194
+# text = I was told that the Lanapenna receives its gloss from being steeped in lemon juice , and being afterwards pressed down with a taylor 's goose .
+1194	0	I	PRON	I	-	*
+1194	1	was	AUX	be	-	*
+1194	2	told	VERB	tell	-	*
+1194	3	that	SCONJ	that	-	*
+1194	4	the	DET	the	-	*
+1194	5	Lanapenna	PROPN	Lanapenna	-	*
+1194	6	receives	VERB	receive	-	*
+1194	7	its	PRON	its	-	(ARG1*)
+1194	8	gloss	NOUN	gloss	gloss.02	(V*)
+1194	9	from	SCONJ	from	-	*
+1194	10	being	AUX	be	-	*
+1194	11	steeped	VERB	steep	-	*
+1194	12	in	ADP	in	-	*
+1194	13	lemon	NOUN	lemon	-	*
+1194	14	juice	NOUN	juice	-	*
+1194	15	,	PUNCT	,	-	*
+1194	16	and	CCONJ	and	-	*
+1194	17	being	AUX	be	-	*
+1194	18	afterwards	ADV	afterwards	-	*
+1194	19	pressed	VERB	press	-	*
+1194	20	down	ADP	down	-	*
+1194	21	with	ADP	with	-	*
+1194	22	a	DET	a	-	*
+1194	23	taylor	NOUN	taylor	-	*
+1194	24	's	PART	's	-	*
+1194	25	goose	NOUN	goose	-	*
+1194	26	.	PUNCT	.	-	*
+
+# sentence_id = 82
+# text = The extravasation of cancer chemotherapeutic agents is an unwanted and distressing situation that can easily occur .
+82	0	The	DET	the	-	*
+82	1	extravasation	NOUN	extravasation	extravasate.01	(V*)
+82	2	of	ADP	of	-	(ARG1*
+82	3	cancer	NOUN	cancer	-	*
+82	4	chemotherapeutic	ADJ	chemotherapeutic	-	*
+82	5	agents	NOUN	agent	-	*)
+82	6	is	AUX	be	-	*
+82	7	an	DET	a	-	*
+82	8	unwanted	ADJ	unwanted	-	*
+82	9	and	CCONJ	and	-	*
+82	10	distressing	ADJ	distressing	-	*
+82	11	situation	NOUN	situation	-	*
+82	12	that	PRON	that	-	*
+82	13	can	AUX	can	-	*
+82	14	easily	ADV	easily	-	*
+82	15	occur	VERB	occur	-	*
+82	16	.	PUNCT	.	-	*
+
+# sentence_id = 1878
+# text = Dr. Spectacles dilation of Sanjay 's eyes allowed herto test for opthalmological abnormalities .
+1878	0	Dr.	PROPN	Dr.	-	(ARG0*
+1878	1	Spectacles	PROPN	Spectacles	-	*)
+1878	2	dilation	NOUN	dilation	dilate.01	(V*)
+1878	3	of	ADP	of	-	(ARG1*
+1878	4	Sanjay	PROPN	Sanjay	-	*
+1878	5	's	PART	's	-	*
+1878	6	eyes	NOUN	eye	-	*)
+1878	7	allowed	VERB	allow	-	*
+1878	8	herto	ADJ	herto	-	*
+1878	9	test	NOUN	test	-	*
+1878	10	for	ADP	for	-	*
+1878	11	opthalmological	ADJ	opthalmological	-	*
+1878	12	abnormalities	NOUN	abnormality	-	*
+1878	13	.	PUNCT	.	-	*
+
+# sentence_id = 1257
+# text = Triangulation of data combines data drawn from different sources and at different times , in different places or from different people .
+1257	0	Triangulation	NOUN	triangulation	triangulate.01	(V*)
+1257	1	of	ADP	of	-	(ARG1*
+1257	2	data	NOUN	datum	-	*)
+1257	3	combines	VERB	combine	-	*
+1257	4	data	NOUN	datum	-	*
+1257	5	drawn	VERB	draw	-	*
+1257	6	from	ADP	from	-	*
+1257	7	different	ADJ	different	-	*
+1257	8	sources	NOUN	source	-	*
+1257	9	and	CCONJ	and	-	*
+1257	10	at	ADP	at	-	*
+1257	11	different	ADJ	different	-	*
+1257	12	times	NOUN	time	-	*
+1257	13	,	PUNCT	,	-	*
+1257	14	in	ADP	in	-	*
+1257	15	different	ADJ	different	-	*
+1257	16	places	NOUN	place	-	*
+1257	17	or	CCONJ	or	-	*
+1257	18	from	ADP	from	-	*
+1257	19	different	ADJ	different	-	*
+1257	20	people	NOUN	people	-	*
+1257	21	.	PUNCT	.	-	*
+
+# sentence_id = 837
+# text = Arrested skull base pneumatization is a benign developmental variant that can be confused with significant skull base disease processes .
+837	0	Arrested	VERB	arrest	-	(ARGM-ADJ*)
+837	1	skull	NOUN	skull	-	(ARG1*
+837	2	base	NOUN	base	-	*)
+837	3	pneumatization	NOUN	pneumatization	pneumatize.01	(V*)
+837	4	is	AUX	be	-	*
+837	5	a	DET	a	-	*
+837	6	benign	ADJ	benign	-	*
+837	7	developmental	ADJ	developmental	-	*
+837	8	variant	NOUN	variant	-	*
+837	9	that	PRON	that	-	*
+837	10	can	AUX	can	-	*
+837	11	be	AUX	be	-	*
+837	12	confused	VERB	confuse	-	*
+837	13	with	ADP	with	-	*
+837	14	significant	ADJ	significant	-	*
+837	15	skull	NOUN	skull	-	*
+837	16	base	NOUN	base	-	*
+837	17	disease	NOUN	disease	-	*
+837	18	processes	NOUN	process	-	*
+837	19	.	PUNCT	.	-	*
+
+# sentence_id = 372
+# text = Research on the New Development in the Anticorruption of the Communist Party of China after the 17th National Congress .
+372	0	Research	NOUN	research	-	*
+372	1	on	ADP	on	-	*
+372	2	the	DET	the	-	*
+372	3	New	PROPN	New	-	*
+372	4	Development	PROPN	Development	-	*
+372	5	in	ADP	in	-	*
+372	6	the	DET	the	-	*
+372	7	Anticorruption	PROPN	Anticorruption	anticorruption.01	(V*)
+372	8	of	ADP	of	-	(ARG1*
+372	9	the	DET	the	-	*
+372	10	Communist	ADJ	Communist	-	*
+372	11	Party	PROPN	Party	-	*
+372	12	of	ADP	of	-	*
+372	13	China	PROPN	China	-	*)
+372	14	after	ADP	after	-	*
+372	15	the	DET	the	-	*
+372	16	17th	ADJ	17th	-	*
+372	17	National	ADJ	National	-	*
+372	18	Congress	PROPN	Congress	-	*
+372	19	.	PUNCT	.	-	*
+
+# sentence_id = 614
+# text = The desiccation of the Aral Sea was also characterized by a sharp increase in the salinity of sea water .
+614	0	The	DET	the	-	*
+614	1	desiccation	NOUN	desiccation	desiccate.01	(V*)
+614	2	of	ADP	of	-	(ARG1*
+614	3	the	DET	the	-	*
+614	4	Aral	PROPN	Aral	-	*
+614	5	Sea	PROPN	Sea	-	*)
+614	6	was	AUX	be	-	*
+614	7	also	ADV	also	-	*
+614	8	characterized	VERB	characterize	-	*
+614	9	by	ADP	by	-	*
+614	10	a	DET	a	-	*
+614	11	sharp	ADJ	sharp	-	*
+614	12	increase	NOUN	increase	-	*
+614	13	in	ADP	in	-	*
+614	14	the	DET	the	-	*
+614	15	salinity	NOUN	salinity	-	*
+614	16	of	ADP	of	-	*
+614	17	sea	NOUN	sea	-	*
+614	18	water	NOUN	water	-	*
+614	19	.	PUNCT	.	-	*
+
+# sentence_id = 1933
+# text = Conservative MP for Richmond Park Zac Goldsmith took out a so-called super - injunction to prevent the publication of e - mails that had been obtained by hackers and passed to newspapers .
+1933	0	Conservative	ADJ	Conservative	-	*
+1933	1	MP	PROPN	MP	-	*
+1933	2	for	ADP	for	-	*
+1933	3	Richmond	PROPN	Richmond	-	*
+1933	4	Park	PROPN	Park	-	*
+1933	5	Zac	PROPN	Zac	-	*
+1933	6	Goldsmith	PROPN	Goldsmith	-	*
+1933	7	took	VERB	take	-	*
+1933	8	out	ADP	out	-	*
+1933	9	a	DET	a	-	*
+1933	10	so-called	ADJ	so-called	-	(ARGM-ADJ*)
+1933	11	super	ADJ	super	superinjunction.01	(V*
+1933	12	-	PUNCT	-	-	*
+1933	13	injunction	NOUN	injunction	-	*)
+1933	14	to	PART	to	-	(ARG1*
+1933	15	prevent	VERB	prevent	-	*
+1933	16	the	DET	the	-	*
+1933	17	publication	NOUN	publication	-	*
+1933	18	of	ADP	of	-	*
+1933	19	e	NOUN	email	-	*
+1933	20	-	PUNCT	-	-	*
+1933	21	mails	NOUN	mail	-	*
+1933	22	that	PRON	that	-	*
+1933	23	had	AUX	have	-	*
+1933	24	been	AUX	be	-	*
+1933	25	obtained	VERB	obtain	-	*
+1933	26	by	ADP	by	-	*
+1933	27	hackers	NOUN	hacker	-	*
+1933	28	and	CCONJ	and	-	*
+1933	29	passed	VERB	pass	-	*
+1933	30	to	ADP	to	-	*
+1933	31	newspapers	NOUN	newspaper	-	*)
+1933	32	.	PUNCT	.	-	*
+
+# sentence_id = 1274
+# text = It was a toss - up between Royal and Carnival .
+1274	0	It	PRON	it	-	*
+1274	1	was	AUX	be	-	*
+1274	2	a	DET	a	-	*
+1274	3	toss	NOUN	toss	toss_up.04	(V*
+1274	4	-	PUNCT	-	-	*
+1274	5	up	NOUN	up	-	*)
+1274	6	between	ADP	between	-	(ARG2*
+1274	7	Royal	PROPN	Royal	-	*
+1274	8	and	CCONJ	and	-	*
+1274	9	Carnival	PROPN	Carnival	-	*)
+1274	10	.	PUNCT	.	-	*
+
+# sentence_id = 918
+# text = It has been well established that the most important range of temperature during coal coking is 400–500 ° C .
+918	0	It	PRON	it	-	*
+918	1	has	AUX	have	-	*
+918	2	been	AUX	be	-	*
+918	3	well	ADV	well	-	*
+918	4	established	VERB	establish	-	*
+918	5	that	SCONJ	that	-	*
+918	6	the	DET	the	-	*
+918	7	most	ADV	most	-	*
+918	8	important	ADJ	important	-	*
+918	9	range	NOUN	range	-	*
+918	10	of	ADP	of	-	*
+918	11	temperature	NOUN	temperature	-	*
+918	12	during	ADP	during	-	*
+918	13	coal	NOUN	coal	-	(ARG1*)
+918	14	coking	NOUN	coking	coke.01	(V*)
+918	15	is	AUX	be	-	*
+918	16	400–500	NUM	400–500	-	*
+918	17	°	NOUN	°	-	*
+918	18	C	PROPN	C	-	*
+918	19	.	PUNCT	.	-	*
+
+# sentence_id = 1037
+# text = Next came a 104 degree , 95 % humidity 48 - hour damp heat test , and then a " four corner " test where the machine cycled between 23 and 113 degrees Fahrenheit , both at its highest and lowest operating voltage .
+1037	0	Next	ADV	next	-	*
+1037	1	came	VERB	come	-	*
+1037	2	a	DET	a	-	*
+1037	3	104	NUM	104	-	*
+1037	4	degree	NOUN	degree	-	*
+1037	5	,	PUNCT	,	-	*
+1037	6	95	NUM	95	-	*
+1037	7	%	SYM	%	-	*
+1037	8	humidity	NOUN	humidity	-	*
+1037	9	48	NUM	48	-	*
+1037	10	-	PUNCT	-	-	*
+1037	11	hour	NOUN	hour	-	*
+1037	12	damp	NOUN	damp	-	*
+1037	13	heat	NOUN	heat	-	*
+1037	14	test	NOUN	test	-	*
+1037	15	,	PUNCT	,	-	*
+1037	16	and	CCONJ	and	-	*
+1037	17	then	ADV	then	-	*
+1037	18	a	DET	a	-	*
+1037	19	"	PUNCT	"	-	*
+1037	20	four	NUM	four	-	*
+1037	21	corner	NOUN	corner	-	*
+1037	22	"	PUNCT	"	-	*
+1037	23	test	NOUN	test	-	*
+1037	24	where	SCONJ	where	-	*
+1037	25	the	DET	the	-	(ARG1*
+1037	26	machine	NOUN	machine	-	*)
+1037	27	cycled	VERB	cycl	cycle.02	(V*)
+1037	28	between	ADP	between	-	(ARG3*
+1037	29	23	NUM	23	-	*)
+1037	30	and	CCONJ	and	-	(ARG4*
+1037	31	113	NUM	113	-	*
+1037	32	degrees	NOUN	degree	-	*
+1037	33	Fahrenheit	PROPN	Fahrenheit	-	*)
+1037	34	,	PUNCT	,	-	*
+1037	35	both	DET	both	-	(ARGM-ADV*
+1037	36	at	ADP	at	-	*
+1037	37	its	PRON	its	-	*
+1037	38	highest	ADJ	high	-	*
+1037	39	and	CCONJ	and	-	*
+1037	40	lowest	ADJ	low	-	*
+1037	41	operating	NOUN	operating	-	*
+1037	42	voltage	NOUN	voltage	-	*)
+1037	43	.	PUNCT	.	-	*
+
+# sentence_id = 988
+# text = These data support the feasibility of chromosomal expression of a foreign antigen from multiple integration sites .
+988	0	These	DET	this	-	*
+988	1	data	NOUN	datum	-	*
+988	2	support	VERB	support	-	*
+988	3	the	DET	the	-	*
+988	4	feasibility	NOUN	feasibility	-	*
+988	5	of	ADP	of	-	*
+988	6	chromosomal	ADJ	chromosomal	-	(ARG1*)
+988	7	expression	NOUN	expression	express.03	(V*)
+988	8	of	ADP	of	-	(ARG2*
+988	9	a	DET	a	-	*
+988	10	foreign	ADJ	foreign	-	*
+988	11	antigen	NOUN	antigen	-	*
+988	12	from	ADP	from	-	*
+988	13	multiple	ADJ	multiple	-	*
+988	14	integration	NOUN	integration	-	*
+988	15	sites	NOUN	site	-	*)
+988	16	.	PUNCT	.	-	*
+
+# sentence_id = 1359
+# text = There is minimal superior tenting of the tentorium cerebelli at this location ; however , straight sinus is patent .
+1359	0	There	PRON	there	-	*
+1359	1	is	VERB	be	-	*
+1359	2	minimal	ADJ	minimal	-	(ARGM-ADJ*)
+1359	3	superior	ADJ	superior	-	(ARGM-LOC*)
+1359	4	tenting	NOUN	tenting	tent.02	(V*)
+1359	5	of	ADP	of	-	(ARG1*
+1359	6	the	DET	the	-	*
+1359	7	tentorium	NOUN	tentorium	-	*
+1359	8	cerebelli	NOUN	cerebelli	-	*)
+1359	9	at	ADP	at	-	(ARGM-LOC*
+1359	10	this	DET	this	-	*
+1359	11	location	NOUN	location	-	*)
+1359	12	;	PUNCT	;	-	*
+1359	13	however	ADV	however	-	*
+1359	14	,	PUNCT	,	-	*
+1359	15	straight	ADJ	straight	-	*
+1359	16	sinus	NOUN	sinus	-	*
+1359	17	is	AUX	be	-	*
+1359	18	patent	NOUN	patent	-	*
+1359	19	.	PUNCT	.	-	*
+
