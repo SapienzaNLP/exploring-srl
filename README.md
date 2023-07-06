@@ -2,14 +2,15 @@
  
 # Exploring Non-Verbal Predicates in Semantic Role Labeling: Challenges and Opportunities
 
-[![Paper](http://img.shields.io/badge/paper-ACL--anthology-B31B1B.svg)](https://www.aclweb.org/anthology/2023.acl-findings.x/)
+<!-- [![Paper](http://img.shields.io/badge/paper-ACL--anthology-B31B1B.svg)](http://arxiv.org/abs/2307.01870) -->
+[![arXiv](https://img.shields.io/badge/arXiv-2307.01870-b31b1b.svg)](https://arxiv.org/abs/2307.01870)
 [![Conference](http://img.shields.io/badge/ACL-2023-4b44ce.svg)](https://2023.aclweb.org/)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 </div>
 
 ## About the project
-This is the repository for the paper [*Exploring Non-Verbal Predicates in Semantic Role Labeling: Challenges and Opportunities*](https://www.aclweb.org/anthology/2023.acl-findings.x/), presented at ACL 2023 by [Riccardo Orlando](https://riccardorlando.xyz/), [Simone Conia](https://c-simone.github.io/) and [Roberto Navigli](https://www.diag.uniroma1.it/navigli/).
+This is the repository for the paper [*Exploring Non-Verbal Predicates in Semantic Role Labeling: Challenges and Opportunities*](http://arxiv.org/abs/2307.01870), presented at ACL 2023 by [Riccardo Orlando](https://riccardorlando.xyz/), [Simone Conia](https://c-simone.github.io/) and [Roberto Navigli](https://www.diag.uniroma1.it/navigli/).
 
 ## Abstract
 Although we have witnessed impressive progress in Semantic Role Labeling (SRL), most of the research in the area is carried out assuming that the majority of predicates are verbs.
