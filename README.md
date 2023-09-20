@@ -155,7 +155,7 @@ Overall, Challenge-SRL includes 1898 predicate-argument pairs.
 ## Cite this work
 If you use any part of this work, please consider citing the paper as follows:
 
-```tex
+```bibtex
 @inproceedings{orlando-etal-2023-exploring-srl,
     title     = "Exploring Non-Verbal Predicates in Semantic Role Labeling: Challenges and Opportunities",
     author    = "Orlando, Riccardo and Conia, Simone and Navigli, Roberto",
